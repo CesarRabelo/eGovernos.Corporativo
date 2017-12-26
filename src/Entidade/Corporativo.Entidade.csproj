@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{38EA2F21-5CDC-47DD-86E6-A1225C8AA504}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Corporativo.Entidade</RootNamespace>
+    <AssemblyName>Corporativo.Entidade</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Atom.Client">
+      <HintPath>..\..\..\Assembly_old\Atom.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="Neonium.Entidade, Version=1.2011.2.1, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Assembly_old\Neonium.Entidade.dll</HintPath>
+    </Reference>
+    <Reference Include="Plutonium.Entidade, Version=1.2011.2.1, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Assembly_old\Plutonium.Entidade.dll</HintPath>
+    </Reference>
+    <Reference Include="Poa.Entidade, Version=1.2011.2.1, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Assembly_old\Poa.Entidade.dll</HintPath>
+    </Reference>
+    <Reference Include="Pro.Dal">
+      <HintPath>..\..\..\Assembly_old\Pro.Dal.dll</HintPath>
+    </Reference>
+    <Reference Include="Pro.Utils">
+      <HintPath>..\..\..\Assembly_old\Pro.Utils.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Dominio\AgenteItem.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Dominio\AgentePublico.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Dominio\Amortizacao.cs" />
+    <Compile Include="Dominio\AreaAtuacao.cs" />
+    <Compile Include="Dominio\ArquivoResponsavel.cs" />
+    <Compile Include="Dominio\ArquivoTipoEnvio.cs" />
+    <Compile Include="Dominio\Arquivo.cs" />
+    <Compile Include="Dominio\ArquivoColuna.cs" />
+    <Compile Include="Dominio\AnoLei.cs" />
+    <Compile Include="Dominio\Cargo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Dominio\ClassificacaoItem.cs" />
+    <Compile Include="Dominio\Despesa.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Dominio\DespesaItem.cs" />
+    <Compile Include="Dominio\EntidadeLei.cs" />
+    <Compile Include="Dominio\EstadoCivil.cs" />
+    <Compile Include="Dominio\FolhaPagamento.cs" />
+    <Compile Include="Dominio\GrauInstrucao.cs" />
+    <Compile Include="Dominio\ItemRemuneratorio.cs" />
+    <Compile Include="Dominio\Licenciada.cs" />
+    <Compile Include="Dominio\FormaIngresso.cs" />
+    <Compile Include="Dominio\GrupoArquivo.cs" />
+    <Compile Include="Dominio\EconomicaDeReceita.cs" />
+    <Compile Include="Dominio\Especie.cs" />
+    <Compile Include="Dominio\FonteIduso.cs" />
+    <Compile Include="Dominio\Iduso.cs" />
+    <Compile Include="Dominio\Fonte.cs" />
+    <Compile Include="Dominio\Esfera.cs" />
+    <Compile Include="Dominio\ModalidadePagamento.cs" />
+    <Compile Include="Dominio\Moeda.cs" />
+    <Compile Include="Dominio\OrigemReceita.cs" />
+    <Compile Include="Dominio\GrupoFonte.cs" />
+    <Compile Include="Dominio\Localidade.cs" />
+    <Compile Include="Dominio\Orgao.cs" />
+    <Compile Include="Dominio\Pessoal.cs" />
+    <Compile Include="Dominio\Receita.cs" />
+    <Compile Include="Dominio\RegimeJuridico.cs" />
+    <Compile Include="Dominio\RegimePrevidenciario.cs" />
+    <Compile Include="Dominio\ResponsavelEnvio.cs" />
+    <Compile Include="Dominio\ResponsavelEnvioArquivo.cs" />
+    <Compile Include="Dominio\RubricaReceita.cs" />
+    <Compile Include="Dominio\Sexo.cs" />
+    <Compile Include="Dominio\SituacaoFuncional.cs" />
+    <Compile Include="Dominio\SubFuncao.cs" />
+    <Compile Include="Dominio\Taxa.cs" />
+    <Compile Include="Dominio\TipoAdministracao.cs" />
+    <Compile Include="Dominio\TipoAmparo.cs" />
+    <Compile Include="Dominio\TipoDesligamento.cs" />
+    <Compile Include="Dominio\TipoEnvio.cs" />
+    <Compile Include="Dominio\TipoExpediente.cs" />
+    <Compile Include="Dominio\TipoFolha.cs" />
+    <Compile Include="Dominio\TipoItem.cs" />
+    <Compile Include="Dominio\TipoMovimento.cs" />
+    <Compile Include="Dominio\TipoPisPasep.cs" />
+    <Compile Include="Dominio\TipoReingresso.cs" />
+    <Compile Include="Dominio\TipoRelacao.cs" />
+    <Compile Include="Dominio\TipoTransferencia.cs" />
+    <Compile Include="Dominio\UnidadeGestora.cs" />
+    <Compile Include="Dominio\UnidadeGestoraGestor.cs" />
+    <Compile Include="Dominio\UnidadeGestoraOrcamentaria.cs" />
+    <Compile Include="Dominio\UnidadeGestoraOrdenador.cs" />
+    <Compile Include="Dominio\UnidadeOrcamentaria.cs" />
+    <Compile Include="Dominio\Entidade.cs" />
+    <Compile Include="Dominio\GrupoPrograma.cs" />
+    <Compile Include="Dominio\TipoPrograma.cs" />
+    <Compile Include="Dominio\ElementoDeDespesa.cs" />
+    <Compile Include="Dominio\EconomicaDeDespesa.cs" />
+    <Compile Include="Dominio\Eixo.cs" />
+    <Compile Include="Dominio\GrupoDespesa.cs" />
+    <Compile Include="Dominio\ModalidadeAplicacao.cs" />
+    <Compile Include="Dominio\Produto.cs" />
+    <Compile Include="Dominio\Secretaria.cs" />
+    <Compile Include="Dominio\TipoEntidade.cs" />
+    <Compile Include="Dominio\Poder.cs" />
+    <Compile Include="Dominio\Unidade.cs" />
+    <Compile Include="Dominio\Situacao.cs" />
+    <Compile Include="Dominio\Regiao.cs" />
+    <Compile Include="Dominio\Funcao.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,202 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <TB_PRINCIPAL>
+    <funcao>0100.te</funcao>
+    <nom_dominio>Fiscal</nom_dominio>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <valor>131000.00</valor>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <funcao>0101.CÂMARA MUNICIPAL</funcao>
+    <nom_dominio>Investimento das Empresas</nom_dominio>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <valor>98.00</valor>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <funcao>0201.GABINETE DO PREFEITO</funcao>
+    <nom_dominio>Fiscal</nom_dominio>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <valor>157937.00</valor>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <funcao>0401.SECRETARIA DA CIDADANIA E SEGURANÇA</funcao>
+    <nom_dominio>Fiscal</nom_dominio>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <valor>291000.00</valor>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <funcao>0501.SECRETARIA DA GESTÃO</funcao>
+    <nom_dominio>Fiscal</nom_dominio>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <valor>280200.00</valor>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <funcao>0502.IMPRENSA OFICIAL DO MUNICÍPIO</funcao>
+    <nom_dominio>Fiscal</nom_dominio>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <valor>11300.00</valor>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <funcao>0601.SECRETARIA DA EDUCAÇÃO</funcao>
+    <nom_dominio>Fiscal</nom_dominio>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <valor>6536324.00</valor>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <funcao>0603.FUNDEB - FUNDO DE MANUT. E DESENV. DA EDUCAÇÃO BÁSICA E VALORIZAÇÃO</funcao>
+    <nom_dominio>Fiscal</nom_dominio>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <valor>1661329.04</valor>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <funcao>0701.FUNDO MUNICIPAL DE SAÚDE</funcao>
+    <nom_dominio>Seguridade</nom_dominio>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <valor>3887000.00</valor>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <funcao>0702.FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL</funcao>
+    <nom_dominio>Seguridade</nom_dominio>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <valor>1390000.00</valor>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <funcao>0703.FUNDO MUNICIPAL DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE</funcao>
+    <nom_dominio>Seguridade</nom_dominio>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <valor>100900.00</valor>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <funcao>0801.SECRETARIA DA CULTURA E TURISMO</funcao>
+    <nom_dominio>Fiscal</nom_dominio>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <valor>258000.00</valor>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <funcao>0901.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</funcao>
+    <nom_dominio>Fiscal</nom_dominio>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <valor>415055.00</valor>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <funcao>1001.SECRETARIA DA AGRICULTURA E PECUÁRIA</funcao>
+    <nom_dominio>Fiscal</nom_dominio>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <valor>1095538.00</valor>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <funcao>1101.SECRETARIA DO PLANEJAMENTO E DESENVOLVIMENTO URBANO E MEIO AMBIENTE</funcao>
+    <nom_dominio>Fiscal</nom_dominio>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <valor>922000.00</valor>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <funcao>1102.AUTARQUIA MUNICIPAL DO MEIO AMBIENTE - AMMA</funcao>
+    <nom_dominio>Fiscal</nom_dominio>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <valor>4133.00</valor>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <funcao>1201.SECRETARIA DO ESPORTE E JUVENTUDE</funcao>
+    <nom_dominio>Fiscal</nom_dominio>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <valor>246500.00</valor>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <funcao>1301.SECRETARIA DA INFRA - ESTRUTURA</funcao>
+    <nom_dominio>Fiscal</nom_dominio>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <valor>910016.01</valor>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <funcao>1401.SECRETARIA DA HABITAÇÃO E SANEAMENTO AMBIENTAL</funcao>
+    <nom_dominio>Fiscal</nom_dominio>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <valor>1895905.00</valor>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <funcao>1501.SECRETARIA DE GOVERNO</funcao>
+    <nom_dominio>Fiscal</nom_dominio>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <valor>134200.00</valor>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <funcao>1601.GABINETE DO VICE-PREFEITO</funcao>
+    <nom_dominio>Fiscal</nom_dominio>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <valor>23000.00</valor>
+  </TB_PRINCIPAL>
+  <tb_sub1>
+    <cod_receita>11      </cod_receita>
+    <ano_loa>2011</ano_loa>
+    <nom_receita>RECEITA TRIBUTÁRIA</nom_receita>
+    <vlr_projeto_lei>18378009.60</vlr_projeto_lei>
+  </tb_sub1>
+  <tb_sub1>
+    <cod_receita>12      </cod_receita>
+    <ano_loa>2011</ano_loa>
+    <nom_receita>RECEITA DE CONTRIBUIÇÕES</nom_receita>
+    <vlr_projeto_lei>574980.97</vlr_projeto_lei>
+  </tb_sub1>
+  <tb_sub1>
+    <cod_receita>13      </cod_receita>
+    <ano_loa>2011</ano_loa>
+    <nom_receita>RECEITA PATRIMONIAL</nom_receita>
+    <vlr_projeto_lei>4349906.65</vlr_projeto_lei>
+  </tb_sub1>
+  <tb_sub1>
+    <cod_receita>15      </cod_receita>
+    <ano_loa>2011</ano_loa>
+    <nom_receita>RECEITA INDUSTRIAL</nom_receita>
+    <vlr_projeto_lei>92156.33</vlr_projeto_lei>
+  </tb_sub1>
+  <tb_sub1>
+    <cod_receita>16      </cod_receita>
+    <ano_loa>2011</ano_loa>
+    <nom_receita>RECEITA DE SERVIÇOS</nom_receita>
+    <vlr_projeto_lei>18038520.12</vlr_projeto_lei>
+  </tb_sub1>
+  <tb_sub1>
+    <cod_receita>17      </cod_receita>
+    <ano_loa>2011</ano_loa>
+    <nom_receita>TRANSFERÊNCIAS CORRENTES</nom_receita>
+    <vlr_projeto_lei>258458313.67</vlr_projeto_lei>
+  </tb_sub1>
+  <tb_sub1>
+    <cod_receita>19      </cod_receita>
+    <ano_loa>2011</ano_loa>
+    <nom_receita>OUTRAS RECEITAS CORRENTES</nom_receita>
+    <vlr_projeto_lei>5645338.47</vlr_projeto_lei>
+  </tb_sub1>
+  <tb_sub1>
+    <cod_receita>21      </cod_receita>
+    <ano_loa>2011</ano_loa>
+    <nom_receita>OPERAÇÕES DE CRÉDITOS</nom_receita>
+    <vlr_projeto_lei>6938025.18</vlr_projeto_lei>
+  </tb_sub1>
+  <tb_sub1>
+    <cod_receita>22      </cod_receita>
+    <ano_loa>2011</ano_loa>
+    <nom_receita>ALIENAÇÃO DE BENS</nom_receita>
+    <vlr_projeto_lei>668855.42</vlr_projeto_lei>
+  </tb_sub1>
+  <tb_sub1>
+    <cod_receita>24      </cod_receita>
+    <ano_loa>2011</ano_loa>
+    <nom_receita>TRANSFERÊNCIA DE CAPITAL</nom_receita>
+    <vlr_projeto_lei>78390642.31</vlr_projeto_lei>
+  </tb_sub1>
+  <tb_sub1>
+    <cod_receita>25      </cod_receita>
+    <ano_loa>2011</ano_loa>
+    <nom_receita>OUTRAS RECEITAS DE CAPITAL</nom_receita>
+    <vlr_projeto_lei>117343.06</vlr_projeto_lei>
+  </tb_sub1>
+  <ReportHeader>
+    <linha1>ESTADO DO CEARÁ</linha1>
+    <linha2>GOVERNO MUNICIPAL DE SOBRAL</linha2>
+    <linha3>LEI ORÇAMENTÁRIA ANUAL Nº 1037 DE 04/11/2010</linha3>
+    <linha4>ANEXO II - DEMONSTRATIVO DA RECEITA POR FONTE E DA DESPESA POR UNIDADE ORCAMENTÁRIA</linha4>
+    <rodape>Rodape</rodape>
+  </ReportHeader>
+</NewDataSet>

@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{26D2EF34-4268-4D62-B672-28DB1A121FF7}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Corporativo.Negocio</RootNamespace>
+    <AssemblyName>Corporativo.Negocio</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ItemGroup>
+    <Compile Include="Comum\ExibirArquivo.cs" />
+    <Compile Include="Comum\ExibirRelatorio.cs" />
+    <Compile Include="Comum\Listas.cs" />
+    <Compile Include="Comum\Memory.cs" />
+    <Compile Include="Controladoras\ManterCargo.cs" />
+    <Compile Include="Controladoras\ManterEntidadeLei.cs" />
+    <Compile Include="Controladoras\ManterEstadoCivil.cs" />
+    <Compile Include="Controladoras\ManterFolhaPagamento.cs" />
+    <Compile Include="Controladoras\ManterFormaIngresso.cs" />
+    <Compile Include="Controladoras\ManterGrauInstrucao.cs" />
+    <Compile Include="Controladoras\ManterItemRemuneratorio.cs" />
+    <Compile Include="Controladoras\ManterLicenciada.cs" />
+    <Compile Include="Controladoras\ManterAnoLei.cs" />
+    <Compile Include="Controladoras\ManterAmortizacao.cs" />
+    <Compile Include="Controladoras\ManterArquivoColuna.cs" />
+    <Compile Include="Controladoras\ManterArquivo.cs" />
+    <Compile Include="Controladoras\ManterArquivoResponsavel.cs" />
+    <Compile Include="Controladoras\ManterArquivoTipoEnvio.cs" />
+    <Compile Include="Controladoras\ManterEconomicaDeReceita.cs" />
+    <Compile Include="Controladoras\ManterEndereco.cs" />
+    <Compile Include="Controladoras\ManterEspecie.cs" />
+    <Compile Include="Controladoras\ManterFonteIduso.cs" />
+    <Compile Include="Controladoras\ManterEsfera.cs" />
+    <Compile Include="Controladoras\ManterFonte.cs" />
+    <Compile Include="Controladoras\ManterLocalidade.cs" />
+    <Compile Include="Controladoras\ManterModalidadePagamento.cs" />
+    <Compile Include="Controladoras\ManterMoeda.cs" />
+    <Compile Include="Controladoras\ManterOrgao.cs" />
+    <Compile Include="Controladoras\ManterPessoal.cs" />
+    <Compile Include="Controladoras\ManterReceita.cs" />
+    <Compile Include="Controladoras\ManterRegimeJuridico.cs" />
+    <Compile Include="Controladoras\ManterRegimePrevidenciario.cs" />
+    <Compile Include="Controladoras\ManterResponsavelEnvio.cs" />
+    <Compile Include="Controladoras\ManterResponsavelEnvioArquivo.cs" />
+    <Compile Include="Controladoras\ManterRubricaReceita.cs" />
+    <Compile Include="Controladoras\ManterSexo.cs" />
+    <Compile Include="Controladoras\ManterSituacaoFuncional.cs" />
+    <Compile Include="Controladoras\ManterSubFuncao.cs" />
+    <Compile Include="Controladoras\ManterOrigemReceita.cs" />
+    <Compile Include="Controladoras\ManterGrupoFonte.cs" />
+    <Compile Include="Controladoras\ManterTaxa.cs" />
+    <Compile Include="Controladoras\ManterTipoAdministracao.cs" />
+    <Compile Include="Controladoras\ManterTipoAmparo.cs" />
+    <Compile Include="Controladoras\ManterTipoDesligamento.cs" />
+    <Compile Include="Controladoras\ManterTipoEnvio.cs" />
+    <Compile Include="Controladoras\ManterTipoExpediente.cs" />
+    <Compile Include="Controladoras\ManterTipoFolha.cs" />
+    <Compile Include="Controladoras\ManterTipoMovimento.cs" />
+    <Compile Include="Controladoras\ManterTipoPisPasep.cs" />
+    <Compile Include="Controladoras\ManterTipoReingresso.cs" />
+    <Compile Include="Controladoras\ManterTipoRelacao.cs" />
+    <Compile Include="Controladoras\ManterTipoTransferencia.cs" />
+    <Compile Include="Controladoras\ManterUnidadeGestora.cs" />
+    <Compile Include="Controladoras\ManterUnidadeGestoraGestor.cs" />
+    <Compile Include="Controladoras\ManterUnidadeGestoraOrcamentaria.cs" />
+    <Compile Include="Controladoras\ManterUnidadeOrcamentaria.cs" />
+    <Compile Include="Controladoras\ManterGrupoPrograma.cs" />
+    <Compile Include="Controladoras\ManterTipoPrograma.cs" />
+    <Compile Include="Controladoras\ManterDespesa.cs" />
+    <Compile Include="Controladoras\ManterElementoDeDespesa.cs" />
+    <Compile Include="Controladoras\ManterEconomicaDeDespesa.cs" />
+    <Compile Include="Controladoras\ManterAreaAtuacao.cs" />
+    <Compile Include="Controladoras\ManterEixo.cs" />
+    <Compile Include="Controladoras\ManterGrupoDespesa.cs" />
+    <Compile Include="Controladoras\ManterModalidadeAplicacao.cs" />
+    <Compile Include="Controladoras\ManterProduto.cs" />
+    <Compile Include="Controladoras\ManterSecretaria.cs" />
+    <Compile Include="Controladoras\ManterTipoEntidade.cs" />
+    <Compile Include="Controladoras\ManterPoder.cs" />
+    <Compile Include="Controladoras\ManterUnidade.cs" />
+    <Compile Include="Controladoras\ManterSituacao.cs" />
+    <Compile Include="Controladoras\ManterRegiao.cs" />
+    <Compile Include="Controladoras\ManterFuncao.cs" />
+    <Compile Include="Comum\InicializarSistema.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Atom.Client, Version=1.2011.11.1, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Assembly_old\Atom.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="Atom.ClientNegocio, Version=1.2014.501.1500, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Assembly_old\Atom.ClientNegocio.dll</HintPath>
+    </Reference>
+    <Reference Include="Neonium.Entidade, Version=1.2011.2.1, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Assembly_old\Neonium.Entidade.dll</HintPath>
+    </Reference>
+    <Reference Include="Poa.Entidade, Version=1.2011.2.1, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Assembly_old\Poa.Entidade.dll</HintPath>
+    </Reference>
+    <Reference Include="Pro.Dal, Version=2.2014.207.1430, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Assembly_old\Pro.Dal.dll</HintPath>
+    </Reference>
+    <Reference Include="Pro.Utils, Version=2.2013.2008.840, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Assembly_old\Pro.Utils.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.Entity">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.Config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Entidade\Corporativo.Entidade.csproj">
+      <Project>{38ea2f21-5cdc-47dd-86e6-a1225c8aa504}</Project>
+      <Name>Corporativo.Entidade</Name>
+    </ProjectReference>
+  </ItemGroup>
+</Project>

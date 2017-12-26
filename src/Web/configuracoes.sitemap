@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="" title="Configurações"  description="">
+      <siteMapNode url="~/frmChaveGoogle.aspx" title="  Chaves do Google  "  description="" />
+      <siteMapNode url="~/frmConfiguracoes.aspx"  title="  Dados da Imobiliária  "  description="" />
+      <siteMapNode url="~/frmDiasVencimento.aspx" title="  Dia Vencimento  "  description="" />
+      <siteMapNode url="~/frmLancamentoGlobal.aspx" title="  Lançamentos Globais  "  description="" />
+      <siteMapNode url="~/frmPrazo.aspx" title="  Prazo  "  description="" />
+      <siteMapNode url="~/frmReajuste.aspx" title="  Reajuste  "  description="" />
+      <siteMapNode url="~/frmFeriado.aspx" title="  Feriado  "  description="" />
+      <siteMapNode url="~/frmCaracteristica.aspx" title="  Característica  "  description="" />      
+    </siteMapNode>
+</siteMap>

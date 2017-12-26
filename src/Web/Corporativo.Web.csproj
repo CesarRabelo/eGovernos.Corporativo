@@ -1,0 +1,912 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{64D25A41-5D53-4FA3-896E-CF807894B504}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Corporativo.Web</RootNamespace>
+    <AssemblyName>Corporativo.Web</AssemblyName>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>4.0</OldToolsVersion>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+    <UseIISExpress>false</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit, Version=1.0.20229.20821, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Assembly_old\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="Atom.Client, Version=1.2011.11.1, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Assembly_old\Atom.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="Atom.ClientNegocio, Version=1.2014.501.1500, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Assembly_old\Atom.ClientNegocio.dll</HintPath>
+    </Reference>
+    <Reference Include="Atom.ClientWeb, Version=6.2016.919.1501, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Assembly_old\Atom.ClientWeb.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FredCK.FCKeditorV2">
+      <HintPath>..\..\..\Assembly\FredCK.FCKeditorV2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Pro.Controls, Version=10.2017.224.924, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Assembly_old\Pro.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="Pro.Dal, Version=2.2014.207.1430, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Assembly_old\Pro.Dal.dll</HintPath>
+    </Reference>
+    <Reference Include="Pro.Utils, Version=2.2013.2008.840, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Assembly_old\Pro.Utils.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Extensions.Design" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Mobile" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AcessoNegado.aspx.cs">
+      <DependentUpon>AcessoNegado.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AcessoNegado.aspx.designer.cs">
+      <DependentUpon>AcessoNegado.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Arquivos\frmGerarArquivo.aspx.cs">
+      <DependentUpon>frmGerarArquivo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Arquivos\frmGerarArquivo.aspx.designer.cs">
+      <DependentUpon>frmGerarArquivo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Arquivo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\ArquivoBase.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmLicenciada.aspx.cs">
+      <DependentUpon>frmLicenciada.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmLicenciada.aspx.designer.cs">
+      <DependentUpon>frmLicenciada.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmAnoLei.aspx.cs">
+      <DependentUpon>frmAnoLei.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmAnoLei.aspx.designer.cs">
+      <DependentUpon>frmAnoLei.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmAmortizacao.aspx.cs">
+      <DependentUpon>frmAmortizacao.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmAmortizacao.aspx.designer.cs">
+      <DependentUpon>frmAmortizacao.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmArquivo.aspx.cs">
+      <DependentUpon>frmArquivo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmArquivo.aspx.designer.cs">
+      <DependentUpon>frmArquivo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmArquivosGeral.aspx.cs">
+      <DependentUpon>frmArquivosGeral.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmArquivosGeral.aspx.designer.cs">
+      <DependentUpon>frmArquivosGeral.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmEconomicaDeReceita.aspx.cs">
+      <DependentUpon>frmEconomicaDeReceita.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmEconomicaDeReceita.aspx.designer.cs">
+      <DependentUpon>frmEconomicaDeReceita.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmEspecie.aspx.cs">
+      <DependentUpon>frmEspecie.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmEspecie.aspx.designer.cs">
+      <DependentUpon>frmEspecie.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmMapa.aspx.cs">
+      <DependentUpon>frmMapa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmMapa.aspx.designer.cs">
+      <DependentUpon>frmMapa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmModalidadePagamento.aspx.cs">
+      <DependentUpon>frmModalidadePagamento.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmModalidadePagamento.aspx.designer.cs">
+      <DependentUpon>frmModalidadePagamento.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmMoeda.aspx.cs">
+      <DependentUpon>frmMoeda.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmMoeda.aspx.designer.cs">
+      <DependentUpon>frmMoeda.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmOrigemReceita.aspx.cs">
+      <DependentUpon>frmOrigemReceita.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmOrigemReceita.aspx.designer.cs">
+      <DependentUpon>frmOrigemReceita.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmEsfera.aspx.cs">
+      <DependentUpon>frmEsfera.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmEsfera.aspx.designer.cs">
+      <DependentUpon>frmEsfera.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmFonte.aspx.cs">
+      <DependentUpon>frmFonte.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmFonte.aspx.designer.cs">
+      <DependentUpon>frmFonte.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmGrupoFonte.aspx.cs">
+      <DependentUpon>frmGrupoFonte.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmGrupoFonte.aspx.designer.cs">
+      <DependentUpon>frmGrupoFonte.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmLocalidade.aspx.cs">
+      <DependentUpon>frmLocalidade.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmLocalidade.aspx.designer.cs">
+      <DependentUpon>frmLocalidade.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmOrgao.aspx.cs">
+      <DependentUpon>frmOrgao.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmOrgao.aspx.designer.cs">
+      <DependentUpon>frmOrgao.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmReceita.aspx.cs">
+      <DependentUpon>frmReceita.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmReceita.aspx.designer.cs">
+      <DependentUpon>frmReceita.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmResponsavelEnvio.aspx.cs">
+      <DependentUpon>frmResponsavelEnvio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmResponsavelEnvio.aspx.designer.cs">
+      <DependentUpon>frmResponsavelEnvio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmResponsavelEnvioArquivo.aspx.cs">
+      <DependentUpon>frmResponsavelEnvioArquivo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmResponsavelEnvioArquivo.aspx.designer.cs">
+      <DependentUpon>frmResponsavelEnvioArquivo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmRubricaReceita.aspx.cs">
+      <DependentUpon>frmRubricaReceita.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmRubricaReceita.aspx.designer.cs">
+      <DependentUpon>frmRubricaReceita.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmSubFuncao.aspx.cs">
+      <DependentUpon>frmSubFuncao.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmSubFuncao.aspx.designer.cs">
+      <DependentUpon>frmSubFuncao.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmTaxa.aspx.cs">
+      <DependentUpon>frmTaxa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmTaxa.aspx.designer.cs">
+      <DependentUpon>frmTaxa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmTipoAdministracao.aspx.cs">
+      <DependentUpon>frmTipoAdministracao.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmTipoAdministracao.aspx.designer.cs">
+      <DependentUpon>frmTipoAdministracao.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmTipoEntidade.aspx.cs">
+      <DependentUpon>frmTipoEntidade.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmTipoEntidade.aspx.designer.cs">
+      <DependentUpon>frmTipoEntidade.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmTipoEnvio.aspx.cs">
+      <DependentUpon>frmTipoEnvio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmTipoEnvio.aspx.designer.cs">
+      <DependentUpon>frmTipoEnvio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmTipoMovimento.aspx.cs">
+      <DependentUpon>frmTipoMovimento.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmTipoMovimento.aspx.designer.cs">
+      <DependentUpon>frmTipoMovimento.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmTipoTransferencia.aspx.cs">
+      <DependentUpon>frmTipoTransferencia.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmTipoTransferencia.aspx.designer.cs">
+      <DependentUpon>frmTipoTransferencia.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmUnidadeGestora.aspx.cs">
+      <DependentUpon>frmUnidadeGestora.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmUnidadeGestora.aspx.designer.cs">
+      <DependentUpon>frmUnidadeGestora.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmUnidadeGestoraGestor.aspx.cs">
+      <DependentUpon>frmUnidadeGestoraGestor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmUnidadeGestoraGestor.aspx.designer.cs">
+      <DependentUpon>frmUnidadeGestoraGestor.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmUnidadeOrcamentaria.aspx.cs">
+      <DependentUpon>frmUnidadeOrcamentaria.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmUnidadeOrcamentaria.aspx.designer.cs">
+      <DependentUpon>frmUnidadeOrcamentaria.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmGrupoPrograma.aspx.cs">
+      <DependentUpon>frmGrupoPrograma.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmGrupoPrograma.aspx.designer.cs">
+      <DependentUpon>frmGrupoPrograma.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmTipoPrograma.aspx.cs">
+      <DependentUpon>frmTipoPrograma.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmTipoPrograma.aspx.designer.cs">
+      <DependentUpon>frmTipoPrograma.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmDespesa.aspx.cs">
+      <DependentUpon>frmDespesa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmDespesa.aspx.designer.cs">
+      <DependentUpon>frmDespesa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmElementoDeDespesa.aspx.cs">
+      <DependentUpon>frmElementoDeDespesa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmElementoDeDespesa.aspx.designer.cs">
+      <DependentUpon>frmElementoDeDespesa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmEconomicaDeDespesa.aspx.cs">
+      <DependentUpon>frmEconomicaDeDespesa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmEconomicaDeDespesa.aspx.designer.cs">
+      <DependentUpon>frmEconomicaDeDespesa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmAreaAtuacao.aspx.cs">
+      <DependentUpon>frmAreaAtuacao.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmAreaAtuacao.aspx.designer.cs">
+      <DependentUpon>frmAreaAtuacao.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmEixo.aspx.cs">
+      <DependentUpon>frmEixo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmEixo.aspx.designer.cs">
+      <DependentUpon>frmEixo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmGrupoDespesa.aspx.cs">
+      <DependentUpon>frmGrupoDespesa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmGrupoDespesa.aspx.designer.cs">
+      <DependentUpon>frmGrupoDespesa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmModalidadeAplicacao.aspx.cs">
+      <DependentUpon>frmModalidadeAplicacao.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmModalidadeAplicacao.aspx.designer.cs">
+      <DependentUpon>frmModalidadeAplicacao.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmProduto.aspx.cs">
+      <DependentUpon>frmProduto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmProduto.aspx.designer.cs">
+      <DependentUpon>frmProduto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmSecretaria.aspx.cs">
+      <DependentUpon>frmSecretaria.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmSecretaria.aspx.designer.cs">
+      <DependentUpon>frmSecretaria.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmPoder.aspx.cs">
+      <DependentUpon>frmPoder.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmPoder.aspx.designer.cs">
+      <DependentUpon>frmPoder.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmUnidade.aspx.cs">
+      <DependentUpon>frmUnidade.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmUnidade.aspx.designer.cs">
+      <DependentUpon>frmUnidade.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmSituacao.aspx.cs">
+      <DependentUpon>frmSituacao.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmSituacao.aspx.designer.cs">
+      <DependentUpon>frmSituacao.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegiao.aspx.cs">
+      <DependentUpon>frmRegiao.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmRegiao.aspx.designer.cs">
+      <DependentUpon>frmRegiao.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmFuncoes.aspx.cs">
+      <DependentUpon>frmFuncoes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmFuncoes.aspx.designer.cs">
+      <DependentUpon>frmFuncoes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="MasterPage.Master.cs">
+      <DependentUpon>MasterPage.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MasterPage.Master.designer.cs">
+      <DependentUpon>MasterPage.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Principal.aspx.cs">
+      <DependentUpon>Principal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Principal.aspx.designer.cs">
+      <DependentUpon>Principal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ucCabecalhoObrigatorio.ascx.cs">
+      <DependentUpon>ucCabecalhoObrigatorio.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ucCabecalhoObrigatorio.ascx.designer.cs">
+      <DependentUpon>ucCabecalhoObrigatorio.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="ucMensagemConfirmacao.ascx.cs">
+      <DependentUpon>ucMensagemConfirmacao.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ucMensagemConfirmacao.ascx.designer.cs">
+      <DependentUpon>ucMensagemConfirmacao.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="ucMessageBox.ascx.cs">
+      <DependentUpon>ucMessageBox.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ucMessageBox.ascx.designer.cs">
+      <DependentUpon>ucMessageBox.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="ucToolBar.ascx.cs">
+      <DependentUpon>ucToolBar.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ucToolBar.ascx.designer.cs">
+      <DependentUpon>ucToolBar.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ucArquivoColuna.ascx.cs">
+      <DependentUpon>ucArquivoColuna.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\ucArquivoColuna.ascx.designer.cs">
+      <DependentUpon>ucArquivoColuna.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ucArquivoResponsavel.ascx.cs">
+      <DependentUpon>ucArquivoResponsavel.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\ucArquivoResponsavel.ascx.designer.cs">
+      <DependentUpon>ucArquivoResponsavel.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ucArquivoTipoEnvio.ascx.cs">
+      <DependentUpon>ucArquivoTipoEnvio.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\ucArquivoTipoEnvio.ascx.designer.cs">
+      <DependentUpon>ucArquivoTipoEnvio.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ucEndereco.ascx.cs">
+      <DependentUpon>ucEndereco.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\ucEndereco.ascx.designer.cs">
+      <DependentUpon>ucEndereco.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ucEntidadeLei.ascx.cs">
+      <DependentUpon>ucEntidadeLei.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\ucEntidadeLei.ascx.designer.cs">
+      <DependentUpon>ucEntidadeLei.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ucFonteIduso.ascx.cs">
+      <DependentUpon>ucFonteIduso.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\ucFonteIduso.ascx.designer.cs">
+      <DependentUpon>ucFonteIduso.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ucUnidadeGestoraOrcamentaria.ascx.cs">
+      <DependentUpon>ucUnidadeGestoraOrcamentaria.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\ucUnidadeGestoraOrcamentaria.ascx.designer.cs">
+      <DependentUpon>ucUnidadeGestoraOrcamentaria.ascx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AcessoNegado.aspx" />
+    <Content Include="Arquivos\frmGerarArquivo.aspx" />
+    <Content Include="configuracoes.sitemap" />
+    <Content Include="frmLicenciada.aspx" />
+    <Content Include="frmAnoLei.aspx" />
+    <Content Include="frmAmortizacao.aspx" />
+    <Content Include="frmArquivo.aspx" />
+    <Content Include="frmArquivosGeral.aspx" />
+    <Content Include="frmEconomicaDeReceita.aspx" />
+    <Content Include="frmEspecie.aspx" />
+    <Content Include="frmMapa.aspx" />
+    <Content Include="frmModalidadePagamento.aspx" />
+    <Content Include="frmMoeda.aspx" />
+    <Content Include="frmOrigemReceita.aspx" />
+    <Content Include="frmEsfera.aspx" />
+    <Content Include="frmFonte.aspx" />
+    <Content Include="frmGrupoFonte.aspx" />
+    <Content Include="frmLocalidade.aspx" />
+    <Content Include="frmOrgao.aspx" />
+    <Content Include="frmReceita.aspx" />
+    <Content Include="frmResponsavelEnvio.aspx" />
+    <Content Include="frmResponsavelEnvioArquivo.aspx" />
+    <Content Include="frmRubricaReceita.aspx" />
+    <Content Include="frmSubFuncao.aspx" />
+    <Content Include="frmTaxa.aspx" />
+    <Content Include="frmTipoAdministracao.aspx" />
+    <Content Include="frmTipoEntidade.aspx" />
+    <Content Include="frmTipoEnvio.aspx" />
+    <Content Include="frmTipoMovimento.aspx" />
+    <Content Include="frmTipoTransferencia.aspx" />
+    <Content Include="frmUnidadeGestora.aspx" />
+    <Content Include="frmUnidadeGestoraGestor.aspx" />
+    <Content Include="frmUnidadeOrcamentaria.aspx" />
+    <Content Include="frmGrupoPrograma.aspx" />
+    <Content Include="frmTipoPrograma.aspx" />
+    <Content Include="frmDespesa.aspx" />
+    <Content Include="frmElementoDeDespesa.aspx" />
+    <Content Include="frmEconomicaDeDespesa.aspx" />
+    <Content Include="frmAreaAtuacao.aspx" />
+    <Content Include="frmEixo.aspx" />
+    <Content Include="frmGrupoDespesa.aspx" />
+    <Content Include="frmModalidadeAplicacao.aspx" />
+    <Content Include="frmProduto.aspx" />
+    <Content Include="frmSecretaria.aspx" />
+    <Content Include="frmPoder.aspx" />
+    <Content Include="frmUnidade.aspx" />
+    <Content Include="frmSituacao.aspx" />
+    <Content Include="frmRegiao.aspx" />
+    <Content Include="frmFuncoes.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="images\foot.jpg" />
+    <Content Include="images\iloan.swf" />
+    <Content Include="images\info-bg.gif" />
+    <Content Include="images\mnu_bkg.jpg" />
+    <Content Include="images\pnl_bkg.jpg" />
+    <Content Include="images\pnl_esq.jpg" />
+    <Content Include="images\ponta.png" />
+    <Content Include="Parts\Thema1\aguarde.gif" />
+    <Content Include="Parts\Thema1\ASBEC.jpg" />
+    <Content Include="Parts\Thema1\base.jpg" />
+    <Content Include="Parts\Thema1\formata.css" />
+    <Content Include="Parts\Thema1\fundo_conteudo.jpg" />
+    <Content Include="Parts\Thema1\iloan.css" />
+    <Content Include="Parts\Thema1\images\1.jpg" />
+    <Content Include="Parts\Thema1\images\2.jpg" />
+    <Content Include="Parts\Thema1\images\3.jpg" />
+    <Content Include="Parts\Thema1\images\4.jpg" />
+    <Content Include="Parts\Thema1\images\5.jpg" />
+    <Content Include="Parts\Thema1\images\6.jpg" />
+    <Content Include="Parts\Thema1\images\bottom-bg.png" />
+    <Content Include="Parts\Thema1\images\bottom-highlight.png" />
+    <Content Include="Parts\Thema1\images\close.png" />
+    <Content Include="Parts\Thema1\images\fig-prefeitura.png" />
+    <Content Include="Parts\Thema1\images\logo-ionti-footer.png" />
+    <Content Include="Parts\Thema1\images\logo_ionti.png" />
+    <Content Include="Parts\Thema1\images\pages-content-bg.png" />
+    <Content Include="Parts\Thema1\images\top-bg.png" />
+    <Content Include="Parts\Thema1\images\underline-btm.gif" />
+    <Content Include="Parts\Thema1\images\user.png" />
+    <Content Include="Parts\Thema1\js\mootools.js" />
+    <Content Include="Parts\Thema1\js\slideshow.flash.js" />
+    <Content Include="Parts\Thema1\js\slideshow.fold.js" />
+    <Content Include="Parts\Thema1\js\slideshow.js" />
+    <Content Include="Parts\Thema1\js\slideshow.kenburns.js" />
+    <Content Include="Parts\Thema1\js\slideshow.push.js" />
+    <Content Include="Parts\Thema1\LAY_RODAPE.jpg" />
+    <Content Include="Parts\Thema1\login.css" />
+    <Content Include="Parts\Thema1\logo.png" />
+    <Content Include="Parts\Thema1\menu.css" />
+    <Content Include="Parts\Thema1\opacity.png" />
+    <Content Include="Parts\Thema1\icoEndereco.png" />
+    <Content Include="Parts\Thema1\ponta.png" />
+    <Content Include="Parts\Thema1\processando.swf" />
+    <Content Include="Parts\Thema1\icoNotificacao.png" />
+    <Content Include="Parts\Thema1\repasse.png" />
+    <Content Include="Parts\Thema1\icoRepasse.png" />
+    <Content Include="Parts\Thema1\icoRepasse.gif" />
+    <Content Include="MasterPage.Master" />
+    <None Include="Parts\Thema1\Thumbs.db" />
+    <Content Include="Default.aspx" />
+    <Content Include="Parts\Thema1\ABA.gif" />
+    <Content Include="Parts\Thema1\ABA_COMMANDS.gif" />
+    <Content Include="Parts\Thema1\ABA_COMMANDS_ITENS.gif" />
+    <Content Include="Parts\Thema1\ABA_CONTENT.gif" />
+    <Content Include="Parts\Thema1\ABA_OFF.gif" />
+    <Content Include="Parts\Thema1\ABA_OFF_HOVER.gif" />
+    <Content Include="Parts\Thema1\ABA_TASKS.gif" />
+    <Content Include="Parts\Thema1\add.png" />
+    <Content Include="Parts\Thema1\anterior.png" />
+    <Content Include="Parts\Thema1\ARROW.gif" />
+    <Content Include="Parts\Thema1\BackGround.gif" />
+    <Content Include="Parts\Thema1\background_base.png" />
+    <Content Include="Parts\Thema1\background_galeria.png" />
+    <Content Include="Parts\Thema1\background_lado_direito.png" />
+    <Content Include="Parts\Thema1\background_lado_esquerdo.png" />
+    <Content Include="Parts\Thema1\backSessao.gif" />
+    <Content Include="Parts\Thema1\BackSessaoTab.gif" />
+    <Content Include="Parts\Thema1\BackTitulo.gif" />
+    <Content Include="Parts\Thema1\backTituloMessageBox.gif" />
+    <Content Include="Parts\Thema1\BacktoolBarMessageBox.gif" />
+    <Content Include="Parts\Thema1\Boleto.png" />
+    <Content Include="Parts\Thema1\BTN.gif" />
+    <Content Include="Parts\Thema1\btnClose.png" />
+    <Content Include="Parts\Thema1\btnMessageBox.gif" />
+    <Content Include="Parts\Thema1\BTN_BOX.gif" />
+    <Content Include="Parts\Thema1\BTN_COMMAND.gif" />
+    <Content Include="Parts\Thema1\BTN_TASK.gif" />
+    <Content Include="Parts\Thema1\CAMINHO.gif" />
+    <Content Include="Parts\Thema1\checked.gif" />
+    <Content Include="Parts\Thema1\close.gif" />
+    <Content Include="Parts\Thema1\collapse.gif" />
+    <Content Include="Parts\Thema1\delete.png" />
+    <Content Include="Parts\Thema1\descer.png" />
+    <Content Include="Parts\Thema1\DETALHES.gif" />
+    <Content Include="Parts\Thema1\Divide_Caminho.gif" />
+    <Content Include="Parts\Thema1\edit.png" />
+    <Content Include="Parts\Thema1\Estilo.css" />
+    <Content Include="Parts\Thema1\Fotos.png" />
+    <Content Include="Parts\Thema1\GRID_BUSCA.gif" />
+    <Content Include="Parts\Thema1\GRID_HEAD.gif" />
+    <Content Include="Parts\Thema1\GRID_HEAD_HOVER.gif" />
+    <Content Include="Parts\Thema1\icoAluguelOff.gif" />
+    <Content Include="Parts\Thema1\icoAluguelOn.gif" />
+    <Content Include="Parts\Thema1\icoBoleto.gif" />
+    <Content Include="Parts\Thema1\icoClienteOff.gif" />
+    <Content Include="Parts\Thema1\icoClienteOn.png" />
+    <Content Include="Parts\Thema1\icoCondominioOn.png" />
+    <Content Include="Parts\Thema1\icoContaOff.gif" />
+    <Content Include="Parts\Thema1\icoContaOn.gif" />
+    <Content Include="Parts\Thema1\icoContratoAdmOff.gif" />
+    <Content Include="Parts\Thema1\icoContratoAdmOn.gif" />
+    <Content Include="Parts\Thema1\icoContratoLocOff.gif" />
+    <Content Include="Parts\Thema1\icoContratoLocOn.gif" />
+    <Content Include="Parts\Thema1\icoEnderecoOff.gif" />
+    <Content Include="Parts\Thema1\icoEnderecoOn.gif" />
+    <Content Include="Parts\Thema1\icoGaleria.gif" />
+    <Content Include="Parts\Thema1\icoImovelOff.gif" />
+    <Content Include="Parts\Thema1\icoImovelOn.png" />
+    <Content Include="Parts\Thema1\icoInquilinoOff.gif" />
+    <Content Include="Parts\Thema1\icoInquilinoOn.gif" />
+    <Content Include="Parts\Thema1\icoPerfis.png" />
+    <Content Include="Parts\Thema1\icoProprietarioOff.gif" />
+    <Content Include="Parts\Thema1\icoProprietarioOn.gif" />
+    <Content Include="Parts\Thema1\icoRefPessoalOff.gif" />
+    <Content Include="Parts\Thema1\icoRefPessoalOn.gif" />
+    <Content Include="Parts\Thema1\icoRelatorios.png" />
+    <Content Include="Parts\Thema1\icoRepasseOff.gif" />
+    <Content Include="Parts\Thema1\icoRepasseOn.gif" />
+    <Content Include="Parts\Thema1\icoSair.png" />
+    <Content Include="Parts\Thema1\icoSenha.png" />
+    <Content Include="Parts\Thema1\icoServicoOff.gif" />
+    <Content Include="Parts\Thema1\icoServicoOn.gif" />
+    <Content Include="Parts\Thema1\icoUsuario.png" />
+    <Content Include="Parts\Thema1\icoUsuarios.png" />
+    <Content Include="Parts\Thema1\icoVistoriaOff.gif" />
+    <Content Include="Parts\Thema1\icoVistoriaOn.gif" />
+    <Content Include="Parts\Thema1\ico_Busca.gif" />
+    <Content Include="Parts\Thema1\ico_load.gif" />
+    <Content Include="Parts\Thema1\img1.png" />
+    <Content Include="Parts\Thema1\img2.png" />
+    <Content Include="Parts\Thema1\img3.png" />
+    <Content Include="Parts\Thema1\img4.png" />
+    <Content Include="Parts\Thema1\imgAlertaMessageBox.gif" />
+    <Content Include="Parts\Thema1\imgErroMessageBox.gif" />
+    <Content Include="Parts\Thema1\imgInformacaoMessageBox.gif" />
+    <Content Include="Parts\Thema1\imgPerguntaMessageBox.gif" />
+    <Content Include="Parts\Thema1\LAY_CONTENT_CENTER.jpg" />
+    <Content Include="Parts\Thema1\LAY_CONTENT_LEFT.jpg" />
+    <Content Include="Parts\Thema1\LAY_CONTENT_RIGHT.jpg" />
+    <Content Include="Parts\Thema1\LAY_FOOTER.jpg" />
+    <Content Include="Parts\Thema1\LAY_FOOTER_LEFT.jpg" />
+    <Content Include="Parts\Thema1\LAY_FOOTER_RIGHT.jpg" />
+    <Content Include="Parts\Thema1\LAY_TOP.jpg" />
+    <Content Include="Parts\Thema1\LAY_TOP_LEFT.jpg" />
+    <Content Include="Parts\Thema1\LAY_TOP_RIGHT.jpg" />
+    <Content Include="Parts\Thema1\LOGO.jpg" />
+    <Content Include="Parts\Thema1\marcadorOff.png" />
+    <Content Include="Parts\Thema1\marcadorOn.png" />
+    <Content Include="Parts\Thema1\MENU.gif" />
+    <Content Include="Parts\Thema1\MENU_HOVER.gif" />
+    <Content Include="Parts\Thema1\N.png" />
+    <Content Include="Parts\Thema1\pixel_mensagem.gif" />
+    <Content Include="Parts\Thema1\Popup.gif" />
+    <Content Include="Parts\Thema1\POPUP_TOPICO.gif" />
+    <Content Include="Parts\Thema1\proxima.png" />
+    <Content Include="Parts\Thema1\reset.css" />
+    <Content Include="Parts\Thema1\rtl_960.css" />
+    <Content Include="Parts\Thema1\S.png" />
+    <Content Include="Parts\Thema1\Save.png" />
+    <Content Include="Parts\Thema1\ScrollingPopup.js" />
+    <Content Include="Parts\Thema1\SetaDown.gif" />
+    <Content Include="Parts\Thema1\SetaUp.gif" />
+    <Content Include="Parts\Thema1\slideshow.css" />
+    <Content Include="Parts\Thema1\statusBar.png" />
+    <Content Include="Parts\Thema1\style.css" />
+    <Content Include="Parts\Thema1\styleForm.css" />
+    <Content Include="Parts\Thema1\subir.png" />
+    <Content Include="Parts\Thema1\topo.png" />
+    <Content Include="Parts\Thema1\unChecked.gif" />
+    <Content Include="Parts\Thema1\uncollapse.gif" />
+    <Content Include="Parts\Thema1\Utilitarios.png" />
+    <Content Include="Parts\Thema2\Estilo.css" />
+    <Content Include="Parts\Thema2\Estilo2.css" />
+    <Content Include="Parts\Thema2\formata.css" />
+    <Content Include="Parts\Thema2\iloan.css" />
+    <Content Include="Parts\Thema2\images\acessoNegadp.png" />
+    <Content Include="Parts\Thema2\images\b1.png" />
+    <Content Include="Parts\Thema2\images\b2.png" />
+    <Content Include="Parts\Thema2\images\b3.png" />
+    <Content Include="Parts\Thema2\images\bg-bottom-geral-left.png" />
+    <Content Include="Parts\Thema2\images\bg-bottom-geral-middle.png" />
+    <Content Include="Parts\Thema2\images\bg-bottom-geral-right.png" />
+    <Content Include="Parts\Thema2\images\bg-bottom-geral.png" />
+    <Content Include="Parts\Thema2\images\bg-geral.jpg" />
+    <Content Include="Parts\Thema2\images\bg-meio.jpg" />
+    <Content Include="Parts\Thema2\images\bg-tabs-left.png" />
+    <Content Include="Parts\Thema2\images\bg-tabs-middle.png" />
+    <Content Include="Parts\Thema2\images\bg-tabs-right.png" />
+    <Content Include="Parts\Thema2\images\bg-thead-hover.png" />
+    <Content Include="Parts\Thema2\images\bg-thead.png" />
+    <Content Include="Parts\Thema2\images\bg-tit-left.png" />
+    <Content Include="Parts\Thema2\images\bg-tit-middle.png" />
+    <Content Include="Parts\Thema2\images\bg-tit-right.png" />
+    <Content Include="Parts\Thema2\images\bg_footer.png" />
+    <Content Include="Parts\Thema2\images\bg_meio2.jpg" />
+    <Content Include="Parts\Thema2\images\bg_menu_princ.png" />
+    <Content Include="Parts\Thema2\images\clear-topo-logo.png" />
+    <Content Include="Parts\Thema2\images\corner-tit-blue-bottom-left.png" />
+    <Content Include="Parts\Thema2\images\corner-tit-blue-bottom-right.png" />
+    <Content Include="Parts\Thema2\images\corner-tit-blue-top-left.png" />
+    <Content Include="Parts\Thema2\images\corner-tit-blue-top-right.png" />
+    <Content Include="Parts\Thema2\images\faixa-topo.png" />
+    <Content Include="Parts\Thema2\images\icons_container\adicionar.png" />
+    <Content Include="Parts\Thema2\images\icons_container\ajuda.png" />
+    <Content Include="Parts\Thema2\images\icons_container\edit.png" />
+    <Content Include="Parts\Thema2\images\icons_container\editar-arquivo.png" />
+    <Content Include="Parts\Thema2\images\icons_container\save.png" />
+    <Content Include="Parts\Thema2\images\icons_container\trash.png" />
+    <Content Include="Parts\Thema2\images\icons_menu\group.png" />
+    <Content Include="Parts\Thema2\images\icons_menu\logout.png" />
+    <Content Include="Parts\Thema2\images\icons_menu\user.png" />
+    <Content Include="Parts\Thema2\images\ico_calendar.gif" />
+    <Content Include="Parts\Thema2\images\logo-ion.png" />
+    <Content Include="Parts\Thema2\images\printer.png" />
+    <Content Include="Parts\Thema2\images\seta-menu-a.png" />
+    <Content Include="Parts\Thema2\images\seta-menu-hover.png" />
+    <Content Include="Parts\Thema2\images\tit-blue-middle-bottom.png" />
+    <Content Include="Parts\Thema2\images\tit-blue-middle-top.png" />
+    <Content Include="Parts\Thema2\images\tit-blue-middle.png" />
+    <Content Include="Parts\Thema2\images\topo-logo-left.png" />
+    <Content Include="Parts\Thema2\images\topo-logo-left2.png" />
+    <Content Include="Parts\Thema2\images\topo-logo-left3.png" />
+    <Content Include="Parts\Thema2\images\topo-logo-middle.png" />
+    <Content Include="Parts\Thema2\images\topo-logo-middle3.png" />
+    <Content Include="Parts\Thema2\images\topo-logo-right.png" />
+    <Content Include="Parts\Thema2\images\topo-logo-right3.png" />
+    <Content Include="Parts\Thema2\jquery.js" />
+    <Content Include="Parts\Thema2\login.css" />
+    <Content Include="Parts\Thema2\Mascaras.js" />
+    <Content Include="Parts\Thema2\menu.css" />
+    <Content Include="Parts\Thema2\menu.js" />
+    <Content Include="Parts\Thema2\Operacoes.js" />
+    <Content Include="Parts\Thema2\processando.swf" />
+    <Content Include="Parts\Thema2\reset.css" />
+    <Content Include="Parts\Thema2\rtl_960.css" />
+    <Content Include="Parts\Thema2\ScrollingPopup.js" />
+    <Content Include="Parts\Thema2\slideshow.css" />
+    <Content Include="Parts\Thema2\style.css" />
+    <Content Include="Parts\Thema2\styleForm.css" />
+    <Content Include="Principal.aspx" />
+    <Content Include="Scripts\jqia2.support.js" />
+    <Content Include="Scripts\jquery-1.4.1-vsdoc.js" />
+    <Content Include="Scripts\jquery-1.4.1.js" />
+    <Content Include="Scripts\jquery-1.4.1.min.js" />
+    <Content Include="Scripts\jquery-1.4.js" />
+    <Content Include="Scripts\jquery-ui-1.8.custom.min.js" />
+    <Content Include="ucCabecalhoObrigatorio.ascx" />
+    <Content Include="ucMensagemConfirmacao.ascx" />
+    <Content Include="ucMessageBox.ascx" />
+    <Content Include="ucToolBar.ascx" />
+    <Content Include="UserControls\ucArquivoColuna.ascx" />
+    <Content Include="UserControls\ucArquivoResponsavel.ascx" />
+    <Content Include="UserControls\ucArquivoTipoEnvio.ascx" />
+    <Content Include="UserControls\ucEndereco.ascx" />
+    <Content Include="UserControls\ucEntidadeLei.ascx" />
+    <Content Include="UserControls\ucFonteIduso.ascx" />
+    <Content Include="UserControls\ucUnidadeGestoraOrcamentaria.ascx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <None Include="Properties\PublishProfiles\Corporativo.pubxml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Relatorios\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Negocio\Corporativo.Negocio.csproj">
+      <Project>{26d2ef34-4268-4d62-b672-28db1a121ff7}</Project>
+      <Name>Corporativo.Negocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>False</AutoAssignPort>
+          <DevelopmentServerPort>8080</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost/Imobium</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

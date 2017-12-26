@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Entidade.Dominio.Sicc.ImportacaoLayout">
+    <Position X="4" Y="0.5" Width="2" />
+    <Members>
+      <Field Name="iID" Hidden="true" />
+      <Field Name="iIdTabela" Hidden="true" />
+      <Field Name="oDao" Hidden="true" />
+      <Field Name="oTabela" Hidden="true" />
+      <Field Name="sAtual" Hidden="true" />
+      <Field Name="sCriacao" Hidden="true" />
+      <Field Name="sDescricao" Hidden="true" />
+      <Field Name="sImportacaoLayout" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACAEARABCBIBgEBGAAAAAAAAEABAAQAAAABAAAAAQAA=</HashCode>
+      <FileName>Dominio\ImportacaoLayout.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Tabela" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Entidade.Dominio.Sicc.ImportacaoArquivo">
+    <Position X="7.5" Y="0.5" Width="1.75" />
+    <Members>
+      <Field Name="dData" Hidden="true" />
+      <Field Name="iID" Hidden="true" />
+      <Field Name="iIdImportacaoLayout" Hidden="true" />
+      <Field Name="oDao" Hidden="true" />
+      <Field Name="oImportacaoLayout" Hidden="true" />
+      <Field Name="sDescricao" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACAEAQABAAABgAAGAgAAAAAIAAAgAQEAAABAAQQBAAA=</HashCode>
+      <FileName>Dominio\ImportacaoArquivo.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ImportacaoLayout" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Entidade.Dominio.Sicc.ImportacaoLayoutItem">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <Members>
+      <Field Name="iID" Hidden="true" />
+      <Field Name="iIdCampo" Hidden="true" />
+      <Field Name="iIdImportacaoLayout" Hidden="true" />
+      <Field Name="iPosicaoInicial" Hidden="true" />
+      <Field Name="iQtdPosicao" Hidden="true" />
+      <Field Name="oCampo" Hidden="true" />
+      <Field Name="oDao" Hidden="true" />
+      <Field Name="oImportacaoLayout" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <AssociationLine Name="Campo" Type="Entidade.Dominio.Sicc.Campo" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="1.5" Y="2.44" />
+        <Point X="1.5" Y="5.097" />
+        <Point X="8.375" Y="5.097" />
+        <Point X="8.375" Y="4.555" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>ACAAAQAIAAAAgAAWAAAAABEAAACgAQAAACDAAAQBAAQ=</HashCode>
+      <FileName>Dominio\ImportacaoLayoutItem.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ImportacaoLayout" />
+      <Property Name="Campo" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Entidade.Dominio.Sicc.Tabela">
+    <Position X="4" Y="3" Width="2" />
+    <Members>
+      <Field Name="iID" Hidden="true" />
+      <Field Name="oDao" Hidden="true" />
+      <Field Name="sTabela" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACAEAYAAAAABgAAGAAAAAAAAAAAAAQAAAABAAAAAAAA=</HashCode>
+      <FileName>Dominio\Tabela.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidade.Dominio.Sicc.Campo">
+    <Position X="7.5" Y="3" Width="1.75" />
+    <Members>
+      <Field Name="iID" Hidden="true" />
+      <Field Name="iIdTabela" Hidden="true" />
+      <Field Name="oDao" Hidden="true" />
+      <Field Name="oTabela" Hidden="true" />
+      <Field Name="sCampo" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACAEAQAACBABgABGAAAAAAAAgAAAAQAAAABAAAAAAAA=</HashCode>
+      <FileName>Dominio\Campo.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Tabela" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

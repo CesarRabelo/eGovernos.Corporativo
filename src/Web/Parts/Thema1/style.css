@@ -1,0 +1,264 @@
+/*
+Theme Name: TITANIUM
+Theme URI: 
+Description: Titanium CSS STYLE
+Version: 1.0
+Author: Alexsandro Santos
+Author URI: http://www.agenciaimpactus.com/
+*/
+
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+	outline:0;
+	font-family:inherit;
+	font-style:inherit;
+	font-size:100%;
+	vertical-align:baseline;
+	padding:0;
+}
+* {
+	padding:0;
+}
+body, html {
+	height:auto;
+	min-height:100%;
+	margin:0;
+}
+body {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color:#666666;
+	line-height: 1.7;
+	display: table;
+	position: relative;
+	width: 100%;
+	background: #F4F4F4 url(images/top-bg.png) repeat-x scroll left top;
+}
+a {
+	outline:none;
+	text-decoration:none;
+	color:#ad0000;
+}
+a:hover {
+	text-decoration:none;
+	color:#ff0000;
+}
+a:active {
+	text-decoration:none;
+	color:#ad0000;
+}
+a:visited {
+	color:#b1cde0
+}
+a img {
+	border:none;
+}
+li {
+	list-style-type:none;
+}
+#header {
+	margin: 0 auto;
+	width:960px;
+	height: 153px;
+}
+#header .lgion {
+	float:left;
+	padding: 8px 0 0 20px;
+}
+.lgion img {
+	float:left;
+	margin-right:10px;
+}
+.lgion h1 {
+	color: #6388A1;
+	float: left;
+	letter-spacing: -0.035em;
+	margin: 0;
+	padding: 62px 0 0;
+}
+#header .lgclt {
+	float: left;
+	height: 83px;
+	padding: 15px 20px 0;
+	width: 674px;
+}
+.lgclt .infuser {
+	clear: both;
+	float: right;
+	padding: 16px 0 0;
+}
+.infuser img {
+	float: left;
+	margin: 2px 10px 0 0;
+}
+.infuser .infusertxt, .logofftxt {
+	float: left;
+	font-size: 0.75em;
+	text-align: right;
+}
+#header .logoff {
+	float: right;
+}
+.logoff img {
+	float: right;
+	margin-left: 8px;
+}
+.logoff .logofftxt {
+	text-align:right;
+	padding-top:3px;
+}
+#header #menuprinc {
+	float:left;
+}
+#menuprinc ul {
+	float: left;
+	margin: 19px 0 0px;
+	padding: 6px 0 0 8px;
+}
+#menuprinc ul a:hover span {
+	color: #777 !important;
+	text-shadow: 0 1px #FFF;
+}
+#menuprinc ul li {
+	font-size: 12px;
+	float: left;
+	height: 28px;
+	line-height: 28px;
+	margin-right: 3px;
+	text-transform: uppercase;
+	font-family:Arial, Helvetica, sans-serif;
+}
+#menuprinc li a, #menuprinc li a span {
+	color: #49708A;
+	text-shadow: 0 1px #F4F4F4;
+	background-position: 0 0;
+	display: inline;
+	float: left;
+	font-weight: bold;
+	height: 28px;
+	padding-left: 12px;
+}
+#menuprinc li a span {
+	background-position: right top;
+	cursor: pointer;
+	padding-left: 0;
+	padding-right: 12px;
+}
+#menuprinc li a:hover span, #menuprinc li a:hover {
+	background-image: url(images/menu-btn.png);
+	color: #777 !important;
+	text-shadow: 0 1px #E5E5E5;
+}
+.titpag {
+	background: url("images/pages-content-bg.png") repeat-x scroll left top transparent;
+	height: 97px;
+	padding-top: 7px;
+	clear:both;
+}
+.titpag h2 {
+	color: #FFFFFF;
+	font-size: 22px;
+	letter-spacing: -0.04em;
+	margin: 0 auto;
+	padding-left: 35px;
+	text-shadow: 0 1px #000000;
+	width: 960px;
+}
+.titpag .breadcrumb {
+	margin: 0 auto;
+	padding: 22px 0 0 35px;
+	text-align: left;
+	width: 960px;
+}
+.breadcrumb .pagecurrent {
+	font-weight:700;
+}
+#container {
+	padding: 0 20px;
+}
+#container #content {
+	font-family: Arial,Helvetica,sans-serif;
+    margin: 0 auto;
+    padding: 0 20px;
+    width: 920px;
+}
+#container-footer {
+	background: url("images/bottom-bg.png") repeat-x scroll 50% 0 #282828;
+	display: table;
+	margin-top: 20px;
+	padding-bottom: 20px;
+	position: relative;
+	width: 100%;
+}
+#container-footer .content-footer {
+	background: url("images/bottom-highlight.png") no-repeat scroll 50% 0 transparent;
+	display: table;
+	font-size: 12px;
+	padding: 14px 0;
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+}
+.content-footer #coluna {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+}
+#coluna a {
+	color: #AD0000;
+	outline: medium none;
+	text-decoration: none;
+}
+#coluna a:hover {
+	color: #ddd;
+	outline: medium none;
+	text-decoration: none;
+}
+#coluna p {
+	color:#DDDDDD;
+}
+#coluna .esp-coluna {
+	padding: 0 20px;
+}
+.coluna-um, .coluna-dois, .coluna-tres, .coluna-quatro {
+	float: left;
+	width: 240px;
+}
+#coluna .title-coluna {
+	background: url("images/underline-btm.gif") repeat-x scroll 0 100% transparent;
+	color: #DDDDDD;
+	font-size: 20px;
+	margin-bottom: 1px;
+	padding-bottom: 10px;
+}
+#footer-bg {
+	background-color: #282828;
+	display: table;
+	min-height: 60px;
+	padding-bottom: 15px;
+	position: relative;
+	width: 100%;
+}
+#footer {
+	background: url("images/underline-btm.gif") repeat-x scroll 0 0 transparent;
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	height: 12px;
+}
+#footer_text {
+	color: #636363;
+	float: left;
+	margin: 8px 10px 15px;
+	width: 788px;
+}
+#footer_text p {
+	font-size: 0.9em;
+	margin: 0;
+	padding: 0;
+}
+.impactus {
+	color: #636363;
+	float: right;
+	margin-top: 8px;
+	text-align: right;
+}

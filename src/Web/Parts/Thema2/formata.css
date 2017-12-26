@@ -1,0 +1,407 @@
+/* CSS Document */
+
+
+
+body,html {
+
+	width:100%;
+
+	height:100%;
+
+}
+
+
+
+body {
+
+	background-color:#dddddd;
+
+	margin:0px;
+
+	padding:0px;
+
+}
+
+
+
+h1,h2,h3,h4,h5,h6 
+
+{
+
+	font-family:Arial, Helvetica, sans-serif;
+
+	font-size:13px;
+
+	font-weight:bold;
+
+	color:#046ab4;
+
+	border-left:solid 4px #e11f13;
+
+	padding-left:3px;
+
+}
+
+
+
+p
+
+{
+
+	font-family:Arial, Helvetica, sans-serif;
+
+	font-size:11px;
+
+	color:#000000;
+
+}
+
+a 
+
+{
+
+	font-family:Arial, Helvetica, sans-serif;
+
+	font-size:11px;
+
+	color:#046ab4;
+
+}
+
+
+
+#posicionar 
+
+{
+
+	position:relative;
+
+	width:100%;
+
+}
+
+
+
+#faixa {
+
+	position:absolute;
+
+	top:120px;
+
+	width:100%;
+
+	height:200px;
+
+	background-image:url(base.jpg);
+
+	border-top:solid 4px #e11f13;
+
+	z-index:0;
+
+}
+
+
+
+#corpo {
+
+	position:relative;
+
+	min-width:600px;
+
+	top:20px;
+
+	width:80%;
+
+	left:50%;
+
+	margin:0;
+
+	padding:0;
+
+	margin-left:-40%;
+
+	background-color:#ffffff;
+
+	border:solid 10px #ffffff;
+
+	z-index:1;
+
+}
+
+
+
+#topo {
+
+	position:relative;
+
+	top:0px;
+
+	width:100%;
+
+	height:66px;
+
+	background-color:#ffffff;
+
+	z-index:2;
+
+}
+
+
+
+#menu {
+
+	position:relative;
+
+	width:100%;
+
+	height:25px;
+
+    font-size:12px;
+
+    font-family:Arial, Helvetica, sans-serif;   
+
+    font-weight:bold; 
+
+	color:#ffffff;	
+
+	background-color:#046ab4;
+
+	border-bottom:solid 4px #e11f13;
+
+	z-index:2;
+
+}
+
+
+
+#destaque {
+
+	position:relative;
+
+	width:100%;
+
+	height:175px;
+
+	background-color:#FFFFFF;
+
+	background-image:url(fundo_conteudo.jpg);	
+
+	z-index:2;
+
+}
+
+
+
+#separador {
+
+	position:relative;
+
+	width:100%;
+
+	height:25px;
+
+	background-color:#046ab4;
+
+	z-index:2;
+
+}
+
+
+
+#conteudo {
+
+	position:relative;
+
+	width:99%;
+
+	padding:2%;
+
+	margin-left:-10px;
+
+	z-index:2;
+
+}
+
+
+
+#painellateral {
+
+	position:relative;
+
+	float:right;
+
+	top:290px;
+
+	width:20%;
+
+	padding:2%;
+
+	height:25px;
+
+	z-index:2;
+
+}
+
+
+
+#rodape {
+
+	position:relative;
+
+	width:100%;
+
+	height:100px;
+
+	background-color:#888888;
+
+	border-top:solid 4px #e11f13;
+
+	padding:5px;
+
+	font-family:Arial, Helvetica, sans-serif;
+
+	font-size:11px;
+
+	color:#ffffff;
+
+	text-align:center;
+
+	z-index:6;
+
+}
+
+
+
+/*#
+
+Cesar:
+
+*/
+
+.textoSimples
+
+{
+
+	font-family:Arial, Helvetica, sans-serif;
+
+	font-size:11px;
+
+	color:#000000;
+
+}
+
+.linha_rotulo
+
+{
+
+	height:1px;
+
+	line-height:1px;
+
+	vertical-align: top;	
+
+	text-align: left;
+
+	font: bold 11px Tahoma, arial, Verdana;
+
+}
+
+.linha_simples
+
+{
+
+	height:1px;
+
+	line-height:1px;
+
+	vertical-align: top;	
+
+	text-align: left;
+
+	font: 11px Tahoma, arial, Verdana;
+
+}
+
+.obj_Controle {
+
+	border: 1px solid #a29e9e;
+
+	background-color: #FFFFFF;
+
+	COLOR: #000000;
+
+	FONT-FAMILY: arial;
+
+	FONT-SIZE: 11px;
+
+	padding-left: 4px;
+
+	padding-right: 2px;
+
+}
+
+.obj_Conteudo{
+
+	padding: 5px 2px 0px 2px;
+
+}
+
+.txt_padrao {color:#444444; font-size:11px; font-family: Arial;}
+
+.obj_Btn_Command {
+
+	background-image: url(BTN_COMMAND.gif);
+
+	border: 1px solid #bfa277;
+
+	height: 18px;
+
+	color: #FFFFFF;
+
+	font: bold 10px verdana, arial, sans-serif;
+
+	padding: 1px 4px 1px 4px;
+
+}
+
+.MenuRodape
+
+{
+
+	color: #FFFFFF;    
+
+	font: bold 14px verdana, arial, sans-serif;
+
+	text-align: left;
+
+	margin: 0px 0px 0px 75px;
+
+}
+
+.TelefonesRodape
+
+{
+
+	color: #FFFFFF;    
+
+	font: bold 12px verdana, arial, sans-serif;
+
+	text-align: right;
+
+	margin: 0px 65px 0px 0px;
+
+}
+
+.CopyrightRodape
+
+{
+
+	color: #FFFFFF;    
+
+	font: 10px verdana, arial, sans-serif;
+
+	text-align: left;
+
+	margin: 0px 0px 0px 75px;
+
+}

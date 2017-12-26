@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="CABECALHO">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="ID_CONFIGURACOES" type="xs:int" minOccurs="0" />
+                <xs:element name="ID_ENDERECO" type="xs:int" minOccurs="0" />
+                <xs:element name="LICENCA" type="xs:string" minOccurs="0" />
+                <xs:element name="RAZAO_SOCIAL" type="xs:string" minOccurs="0" />
+                <xs:element name="NOME_FANTASIA" type="xs:string" minOccurs="0" />
+                <xs:element name="TELEFONE" type="xs:string" minOccurs="0" />
+                <xs:element name="FAX" type="xs:string" minOccurs="0" />
+                <xs:element name="CNPJ" type="xs:string" minOccurs="0" />
+                <xs:element name="SITE" type="xs:string" minOccurs="0" />
+                <xs:element name="EMAIL" type="xs:string" minOccurs="0" />
+                <xs:element name="COBRANCA_BANCO" type="xs:string" minOccurs="0" />
+                <xs:element name="COBRANCA_AGENCIA" type="xs:string" minOccurs="0" />
+                <xs:element name="COBRANCA_CONTA" type="xs:string" minOccurs="0" />
+                <xs:element name="COBRANCA_CARTEIRA" type="xs:string" minOccurs="0" />
+                <xs:element name="COBRANCA_AGENCIA_DIGITO" type="xs:string" minOccurs="0" />
+                <xs:element name="COBRANCA_CONTA_DIGITO" type="xs:string" minOccurs="0" />
+                <xs:element name="PERCENTUAL_MORA" type="xs:decimal" minOccurs="0" />
+                <xs:element name="ACAO_VENCIMENTO" type="xs:int" minOccurs="0" />
+                <xs:element name="PRAZO_REPASSE" type="xs:int" minOccurs="0" />
+                <xs:element name="PERCENTUAL_JUROS" type="xs:decimal" minOccurs="0" />
+                <xs:element name="BOLETO_MSG_PADRAO" type="xs:string" minOccurs="0" />
+                <xs:element name="BOLETO_MSG_ANIVERSARIO" type="xs:string" minOccurs="0" />
+                <xs:element name="BOLETO_MSG_INADIMPLENTE" type="xs:string" minOccurs="0" />
+                <xs:element name="DIAS_MOSTRA_REAJUSTE" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <CABECALHO>
+    <ID_CONFIGURACOES>1</ID_CONFIGURACOES>
+    <ID_ENDERECO>468</ID_ENDERECO>
+    <LICENCA />
+    <RAZAO_SOCIAL>Luiz Rêgo Imóveis Ltda.</RAZAO_SOCIAL>
+    <NOME_FANTASIA>Imobiliária Luiz Rêgo</NOME_FANTASIA>
+    <TELEFONE>(85) 3252 2196</TELEFONE>
+    <CNPJ>63.560.114/0001-06</CNPJ>
+    <SITE>www.luizregoimoveis.com.br</SITE>
+    <EMAIL>aluguel@luizregoimoveis.com.br</EMAIL>
+    <COBRANCA_BANCO>237</COBRANCA_BANCO>
+    <COBRANCA_AGENCIA>2251</COBRANCA_AGENCIA>
+    <COBRANCA_CONTA>9001190</COBRANCA_CONTA>
+    <COBRANCA_CARTEIRA>16</COBRANCA_CARTEIRA>
+    <COBRANCA_AGENCIA_DIGITO>9</COBRANCA_AGENCIA_DIGITO>
+    <COBRANCA_CONTA_DIGITO>0</COBRANCA_CONTA_DIGITO>
+    <PERCENTUAL_MORA>0.2300</PERCENTUAL_MORA>
+    <ACAO_VENCIMENTO>1361</ACAO_VENCIMENTO>
+    <PRAZO_REPASSE>10</PRAZO_REPASSE>
+    <PERCENTUAL_JUROS>10.0000</PERCENTUAL_JUROS>
+    <DIAS_MOSTRA_REAJUSTE>30</DIAS_MOSTRA_REAJUSTE>
+  </CABECALHO>
+</NewDataSet>

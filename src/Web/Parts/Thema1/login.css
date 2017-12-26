@@ -1,0 +1,33 @@
+/* CSS Document */
+.login{
+	width: 220px;
+ 	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+
+.login_header{
+	font-weight: bold;
+	color: #FFFFFF;
+	padding: 10px;
+	background-color: #005288;
+}
+
+.login_body{
+	padding: 10px;
+	background-color: #F0F0F0;
+	background-image: url(ponta.png);
+	background-position: 10px 0px;;	
+	background-repeat: no-repeat;
+	border-bottom: 4px solid #005288;
+}
+
+.login_body table{
+	width: 100%;
+	font-weight: bold;
+}
+
+.login_body input{
+	width: 98%;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}

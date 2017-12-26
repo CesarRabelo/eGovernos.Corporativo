@@ -1,0 +1,161 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <TB_PRINCIPAL>
+    <funcao>27.DESPORTO E LAZER</funcao>
+    <valor>225500.00</valor>
+    <ano_elaboracao>2011</ano_elaboracao>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <funcao>01.LEGISLATIVA</funcao>
+    <valor>98.00</valor>
+    <ano_elaboracao>2011</ano_elaboracao>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <funcao>10.SAÚDE</funcao>
+    <valor>3887000.00</valor>
+    <ano_elaboracao>2011</ano_elaboracao>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <funcao>11.TRABALHO</funcao>
+    <valor>120500.00</valor>
+    <ano_elaboracao>2011</ano_elaboracao>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <funcao>18.GESTÃO AMBIENTAL</funcao>
+    <valor>571090.00</valor>
+    <ano_elaboracao>2011</ano_elaboracao>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <funcao>25.ENERGIA</funcao>
+    <valor>12100.00</valor>
+    <ano_elaboracao>2011</ano_elaboracao>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <funcao>04.ADMINISTRAÇÃO</funcao>
+    <valor>2368031.47</valor>
+    <ano_elaboracao>2011</ano_elaboracao>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <funcao>22.INDÚSTRIA</funcao>
+    <valor>161555.00</valor>
+    <ano_elaboracao>2011</ano_elaboracao>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <funcao>12.EDUCAÇÃO</funcao>
+    <valor>8197653.04</valor>
+    <ano_elaboracao>2011</ano_elaboracao>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <funcao>08.ASSISTÊNCIA SOCIAL</funcao>
+    <valor>1490900.00</valor>
+    <ano_elaboracao>2011</ano_elaboracao>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <funcao>16.HABITAÇÃO</funcao>
+    <valor>124842.00</valor>
+    <ano_elaboracao>2011</ano_elaboracao>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <funcao>24.COMUNICAÇÕES</funcao>
+    <valor>54000.00</valor>
+    <ano_elaboracao>2011</ano_elaboracao>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <funcao>15.URBANISMO</funcao>
+    <valor>1786099.54</valor>
+    <ano_elaboracao>2011</ano_elaboracao>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <funcao>13.CULTURA</funcao>
+    <valor>265000.00</valor>
+    <ano_elaboracao>2011</ano_elaboracao>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <funcao>19.CIÊNCIA E TECNOLOGIA</funcao>
+    <valor>37000.00</valor>
+    <ano_elaboracao>2011</ano_elaboracao>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <funcao>17.SANEAMENTO</funcao>
+    <valor>115325.00</valor>
+    <ano_elaboracao>2011</ano_elaboracao>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <funcao>20.AGRICULTURA</funcao>
+    <valor>934741.00</valor>
+    <ano_elaboracao>2011</ano_elaboracao>
+  </TB_PRINCIPAL>
+  <tb_sub1>
+    <ano_loa>2011</ano_loa>
+    <cod_receita>11      </cod_receita>
+    <nom_receita>RECEITA TRIBUTÁRIA</nom_receita>
+    <vlr_projeto_lei>18378009.60</vlr_projeto_lei>
+  </tb_sub1>
+  <tb_sub1>
+    <ano_loa>2011</ano_loa>
+    <cod_receita>12      </cod_receita>
+    <nom_receita>RECEITA DE CONTRIBUIÇÕES</nom_receita>
+    <vlr_projeto_lei>574980.97</vlr_projeto_lei>
+  </tb_sub1>
+  <tb_sub1>
+    <ano_loa>2011</ano_loa>
+    <cod_receita>13      </cod_receita>
+    <nom_receita>RECEITA PATRIMONIAL</nom_receita>
+    <vlr_projeto_lei>4349906.65</vlr_projeto_lei>
+  </tb_sub1>
+  <tb_sub1>
+    <ano_loa>2011</ano_loa>
+    <cod_receita>15      </cod_receita>
+    <nom_receita>RECEITA INDUSTRIAL</nom_receita>
+    <vlr_projeto_lei>92156.33</vlr_projeto_lei>
+  </tb_sub1>
+  <tb_sub1>
+    <ano_loa>2011</ano_loa>
+    <cod_receita>16      </cod_receita>
+    <nom_receita>RECEITA DE SERVIÇOS</nom_receita>
+    <vlr_projeto_lei>18038520.12</vlr_projeto_lei>
+  </tb_sub1>
+  <tb_sub1>
+    <ano_loa>2011</ano_loa>
+    <cod_receita>17      </cod_receita>
+    <nom_receita>TRANSFERÊNCIAS CORRENTES</nom_receita>
+    <vlr_projeto_lei>258458313.67</vlr_projeto_lei>
+  </tb_sub1>
+  <tb_sub1>
+    <ano_loa>2011</ano_loa>
+    <cod_receita>19      </cod_receita>
+    <nom_receita>OUTRAS RECEITAS CORRENTES</nom_receita>
+    <vlr_projeto_lei>5645338.47</vlr_projeto_lei>
+  </tb_sub1>
+  <tb_sub1>
+    <ano_loa>2011</ano_loa>
+    <cod_receita>21      </cod_receita>
+    <nom_receita>OPERAÇÕES DE CRÉDITOS</nom_receita>
+    <vlr_projeto_lei>6938025.18</vlr_projeto_lei>
+  </tb_sub1>
+  <tb_sub1>
+    <ano_loa>2011</ano_loa>
+    <cod_receita>22      </cod_receita>
+    <nom_receita>ALIENAÇÃO DE BENS</nom_receita>
+    <vlr_projeto_lei>668855.42</vlr_projeto_lei>
+  </tb_sub1>
+  <tb_sub1>
+    <ano_loa>2011</ano_loa>
+    <cod_receita>24      </cod_receita>
+    <nom_receita>TRANSFERÊNCIA DE CAPITAL</nom_receita>
+    <vlr_projeto_lei>78390642.31</vlr_projeto_lei>
+  </tb_sub1>
+  <tb_sub1>
+    <ano_loa>2011</ano_loa>
+    <cod_receita>25      </cod_receita>
+    <nom_receita>OUTRAS RECEITAS DE CAPITAL</nom_receita>
+    <vlr_projeto_lei>117343.06</vlr_projeto_lei>
+  </tb_sub1>
+  <ReportHeader>
+    <linha1>ESTADO DO CEARÁ</linha1>
+    <linha2>GOVERNO MUNICIPAL DE SOBRAL</linha2>
+    <linha3>PROJETO DE LEI 2011</linha3>
+    <linha4>ANEXO III - DEMONSTRATIVO DA RECEITA POR FONTE E DA DESPESA POR FUNÇÃO</linha4>
+    <rodape>Rodape</rodape>
+  </ReportHeader>
+</NewDataSet>

@@ -1,0 +1,3088 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>15</fk_orgao>
+    <cod_funcao>18</cod_funcao>
+    <nom_funcao>GESTÃO AMBIENTAL                                                                                    </nom_funcao>
+    <cod_subfuncao>541</cod_subfuncao>
+    <nom_subfuncao>PRESERVAÇÃO E CONSERVAÇÃO AMBIENTAL</nom_subfuncao>
+    <cod_acao>1056</cod_acao>
+    <nom_acao>IMPLANTAÇÃO DA USINA DE TRIAGEM DE MATERIAL RECICLADO</nom_acao>
+    <cod_programa>059</cod_programa>
+    <nom_programa>SANEAMENTO E GESTÃO AMBIENTAL</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>24254.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>24254.00</vlr_vinculado>
+    <vlr_total>24254.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>15</fk_orgao>
+    <cod_funcao>15</cod_funcao>
+    <nom_funcao>URBANISMO                                                                                           </nom_funcao>
+    <cod_subfuncao>451</cod_subfuncao>
+    <nom_subfuncao>INFRA- ESTRUTURA URBANA</nom_subfuncao>
+    <cod_acao>1049</cod_acao>
+    <nom_acao>PLANO MUNICIPAL DE HABITAÇÃO E SISTEMA DE INDICADORES HABITACIONAI</nom_acao>
+    <cod_programa>062</cod_programa>
+    <nom_programa>DESENVOLVIMENTO URBANO</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>10102.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>10102.00</vlr_vinculado>
+    <vlr_total>10102.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>8</fk_orgao>
+    <cod_funcao>13</cod_funcao>
+    <nom_funcao>CULTURA                                                                                             </nom_funcao>
+    <cod_subfuncao>392</cod_subfuncao>
+    <nom_subfuncao>DIFUSÃO CULTURAL</nom_subfuncao>
+    <cod_acao>2015</cod_acao>
+    <nom_acao>APOIO A CRIAÇÃO, PRODUÇÃO E DIFUSÃO DAS MANIFESTAÇÕES CULTURAIS</nom_acao>
+    <cod_programa>037</cod_programa>
+    <nom_programa>MANIFESTAÇÕES ARTISTICAS E CULTURAIS</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>111000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>111000.00</vlr_vinculado>
+    <vlr_total>111000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>9</fk_orgao>
+    <cod_funcao>11</cod_funcao>
+    <nom_funcao>TRABALHO                                                                                            </nom_funcao>
+    <cod_subfuncao>334</cod_subfuncao>
+    <nom_subfuncao>FOMENTO AO TRABALHO</nom_subfuncao>
+    <cod_acao>2114</cod_acao>
+    <nom_acao>MANUTENÇÃO E ESTRUTURAÇÃO DA CENTRAL DE ARTESANATO</nom_acao>
+    <cod_programa>041</cod_programa>
+    <nom_programa>TRABALHO PLENO</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>5000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>5000.00</vlr_vinculado>
+    <vlr_total>5000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>9</fk_orgao>
+    <cod_funcao>11</cod_funcao>
+    <nom_funcao>TRABALHO                                                                                            </nom_funcao>
+    <cod_subfuncao>334</cod_subfuncao>
+    <nom_subfuncao>FOMENTO AO TRABALHO</nom_subfuncao>
+    <cod_acao>1031</cod_acao>
+    <nom_acao>APOIO A IMPLANTAÇÃO DA CENTRAL DE ARTESANATO</nom_acao>
+    <cod_programa>041</cod_programa>
+    <nom_programa>TRABALHO PLENO</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>5000.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>5000.00</vlr_vinculado>
+    <vlr_total>5000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>3</fk_orgao>
+    <cod_funcao>04</cod_funcao>
+    <nom_funcao>ADMINISTRAÇÃO                                                                                       </nom_funcao>
+    <cod_subfuncao>122</cod_subfuncao>
+    <nom_subfuncao>ADMINISTRAÇÃO GERAL</nom_subfuncao>
+    <cod_acao>2070</cod_acao>
+    <nom_acao>MANUTENÇÃO E FUNCIONAMENTO ADMINISTRATIVO DA PGM</nom_acao>
+    <cod_programa>015</cod_programa>
+    <nom_programa>DEFESA DOS INTERESSES JURÍDICOS DO MUNICÍPIO</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>131000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>131000.00</vlr_vinculado>
+    <vlr_total>131000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>15</fk_orgao>
+    <cod_funcao>17</cod_funcao>
+    <nom_funcao>SANEAMENTO                                                                                          </nom_funcao>
+    <cod_subfuncao>512</cod_subfuncao>
+    <nom_subfuncao>SANEAMENTO BÁSICO URBANO</nom_subfuncao>
+    <cod_acao>1052</cod_acao>
+    <nom_acao>ESGOTAMENTO SANITÁRIO - SEDE DO MUNICÍPIO</nom_acao>
+    <cod_programa>060</cod_programa>
+    <nom_programa>SANEAMENTO BÁSICO</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>101500.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>101500.00</vlr_vinculado>
+    <vlr_total>101500.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>9</fk_orgao>
+    <cod_funcao>22</cod_funcao>
+    <nom_funcao>INDÚSTRIA                                                                                           </nom_funcao>
+    <cod_subfuncao>661</cod_subfuncao>
+    <nom_subfuncao>PROMOÇÃO INDUSTRIAL</nom_subfuncao>
+    <cod_acao>2146</cod_acao>
+    <nom_acao>CAPACITAÇÃO E QUALIFICAÇÃO EMPRESARIAL</nom_acao>
+    <cod_programa>042</cod_programa>
+    <nom_programa>PRODECON - PROGRAMA DE DESENVOLVIMENTO ECONÔMICO</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>10000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>10000.00</vlr_vinculado>
+    <vlr_total>10000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>13</fk_orgao>
+    <cod_funcao>15</cod_funcao>
+    <nom_funcao>URBANISMO                                                                                           </nom_funcao>
+    <cod_subfuncao>451</cod_subfuncao>
+    <nom_subfuncao>INFRA- ESTRUTURA URBANA</nom_subfuncao>
+    <cod_acao>2151</cod_acao>
+    <nom_acao>MANUTENÇÃO E MODERNIZAÇÃO DA USINA DE ASFALTO</nom_acao>
+    <cod_programa>057</cod_programa>
+    <nom_programa>COORDENAÇÃO E FUNCIONAMENTO ADMINISTRATIVO - SEINFRA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>40554.54</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>40554.54</vlr_vinculado>
+    <vlr_total>40554.54</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>4</fk_orgao>
+    <cod_funcao>04</cod_funcao>
+    <nom_funcao>ADMINISTRAÇÃO                                                                                       </nom_funcao>
+    <cod_subfuncao>122</cod_subfuncao>
+    <nom_subfuncao>ADMINISTRAÇÃO GERAL</nom_subfuncao>
+    <cod_acao>2041</cod_acao>
+    <nom_acao>MANUTENÇÃO E APERFEIÇOAMENTO DAS AÇÕES DE CIDADANIA E SEGURANÇA MUNICIPAL</nom_acao>
+    <cod_programa>016</cod_programa>
+    <nom_programa>PROGRAMA MUNICIPAL DE SEGURANÇA E CIDADANIA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>43000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>43000.00</vlr_vinculado>
+    <vlr_total>43000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>5</fk_orgao>
+    <cod_funcao>04</cod_funcao>
+    <nom_funcao>ADMINISTRAÇÃO                                                                                       </nom_funcao>
+    <cod_subfuncao>122</cod_subfuncao>
+    <nom_subfuncao>ADMINISTRAÇÃO GERAL</nom_subfuncao>
+    <cod_acao>2005</cod_acao>
+    <nom_acao>MANUTENÇÃO E FUNCIONAMENTO ADMINISTRATIVO - IOM</nom_acao>
+    <cod_programa>009</cod_programa>
+    <nom_programa>COORDENAÇÃO GERAL E FUNCIONAMENTO ADMINISTRATIVO - IOM</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>11300.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>11300.00</vlr_vinculado>
+    <vlr_total>11300.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>10</fk_orgao>
+    <cod_funcao>20</cod_funcao>
+    <nom_funcao>AGRICULTURA                                                                                         </nom_funcao>
+    <cod_subfuncao>602</cod_subfuncao>
+    <nom_subfuncao>PROMOÇÃO DA PRODUÇÃO ANIMAL</nom_subfuncao>
+    <cod_acao>1087</cod_acao>
+    <nom_acao>APOIAR A ESTRUTIOCULTURA</nom_acao>
+    <cod_programa>044</cod_programa>
+    <nom_programa>PROGRAMA DE DESENVOLVIMENTO DA PECUÁRIA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>32952.00</vlr_vinculado>
+    <vlr_total>32952.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>6</fk_orgao>
+    <cod_funcao>12</cod_funcao>
+    <nom_funcao>EDUCAÇÃO                                                                                            </nom_funcao>
+    <cod_subfuncao>361</cod_subfuncao>
+    <nom_subfuncao>ENSINO FUNDAMENTAL</nom_subfuncao>
+    <cod_acao>2139</cod_acao>
+    <nom_acao>MANUTENÇÃO DO FORTALECIMENTO DO SISTEMA MUNICIPAL DE EDUCAÇÃO - FUNDEB 40%EF</nom_acao>
+    <cod_programa>008</cod_programa>
+    <nom_programa>PROGRAMA DE FORTALECIMENTO DO SISTEMA MUNICIPAL DE EDUCAÇÃO- FUNDEB 40%EF</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>112782.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>112782.00</vlr_vinculado>
+    <vlr_total>112782.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>9</fk_orgao>
+    <cod_funcao>11</cod_funcao>
+    <nom_funcao>TRABALHO                                                                                            </nom_funcao>
+    <cod_subfuncao>334</cod_subfuncao>
+    <nom_subfuncao>FOMENTO AO TRABALHO</nom_subfuncao>
+    <cod_acao>2055</cod_acao>
+    <nom_acao>MANUTENÇÃO E DIVULGAÇÃO DO PRODENE</nom_acao>
+    <cod_programa>010</cod_programa>
+    <nom_programa>PRODENE - PROGRAMA DE DESENVOLVIMENTO DE EVENTOS DE NEGOCIOS</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>3000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>3000.00</vlr_vinculado>
+    <vlr_total>3000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>15</fk_orgao>
+    <cod_funcao>04</cod_funcao>
+    <nom_funcao>ADMINISTRAÇÃO                                                                                       </nom_funcao>
+    <cod_subfuncao>128</cod_subfuncao>
+    <nom_subfuncao>FORMAÇÃO DE RECURSOS HUMANOS</nom_subfuncao>
+    <cod_acao>2057</cod_acao>
+    <nom_acao>CAPACITAÇÃO DE SERVIDORES</nom_acao>
+    <cod_programa>061</cod_programa>
+    <nom_programa>COORDENAÇÃO GERAL E FUNCIONAMENTO ADMINISTRATIVO - SEHABS</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>22050.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>22050.00</vlr_vinculado>
+    <vlr_total>22050.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>9</fk_orgao>
+    <cod_funcao>22</cod_funcao>
+    <nom_funcao>INDÚSTRIA                                                                                           </nom_funcao>
+    <cod_subfuncao>661</cod_subfuncao>
+    <nom_subfuncao>PROMOÇÃO INDUSTRIAL</nom_subfuncao>
+    <cod_acao>1061</cod_acao>
+    <nom_acao>APOIO A REALIZAÇÃO DE EVENTOS, FEIRAS E MISSÕES EMPRESARIAIS</nom_acao>
+    <cod_programa>042</cod_programa>
+    <nom_programa>PRODECON - PROGRAMA DE DESENVOLVIMENTO ECONÔMICO</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>7000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>7000.00</vlr_vinculado>
+    <vlr_total>7000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>6</fk_orgao>
+    <cod_funcao>12</cod_funcao>
+    <nom_funcao>EDUCAÇÃO                                                                                            </nom_funcao>
+    <cod_subfuncao>361</cod_subfuncao>
+    <nom_subfuncao>ENSINO FUNDAMENTAL</nom_subfuncao>
+    <cod_acao>2093</cod_acao>
+    <nom_acao>MANUTENÇÃO E FORTALECIMENTO DA AÇÃO PEDAGÓGICA E GESTÃO ESCOLAR</nom_acao>
+    <cod_programa>001</cod_programa>
+    <nom_programa>PROGRAMA DE FORTALECIMENTO DA AÇÃO PEDAGÓGICA E GESTÃO ESCOLAR</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>101123.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>101123.00</vlr_vinculado>
+    <vlr_total>101123.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>9</fk_orgao>
+    <cod_funcao>22</cod_funcao>
+    <nom_funcao>INDÚSTRIA                                                                                           </nom_funcao>
+    <cod_subfuncao>661</cod_subfuncao>
+    <nom_subfuncao>PROMOÇÃO INDUSTRIAL</nom_subfuncao>
+    <cod_acao>1062</cod_acao>
+    <nom_acao>CRIAÇÃO DE NOVAS ÁREAS PARA ATRAÇÃO DE INVESTIMENTOS</nom_acao>
+    <cod_programa>042</cod_programa>
+    <nom_programa>PRODECON - PROGRAMA DE DESENVOLVIMENTO ECONÔMICO</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>43300.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>43300.00</vlr_vinculado>
+    <vlr_total>43300.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>5</fk_orgao>
+    <cod_funcao>04</cod_funcao>
+    <nom_funcao>ADMINISTRAÇÃO                                                                                       </nom_funcao>
+    <cod_subfuncao>122</cod_subfuncao>
+    <nom_subfuncao>ADMINISTRAÇÃO GERAL</nom_subfuncao>
+    <cod_acao>2003</cod_acao>
+    <nom_acao>MANUTENÇÃO E FUNCIONAMENTO ADMINISTRATIVO - SEC GESTÃO</nom_acao>
+    <cod_programa>018</cod_programa>
+    <nom_programa>COORDENAÇÃO GERAL E FUNCIONAMENTO ADMINISTRATIVO - SEC GESTÃO</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>252800.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>252800.00</vlr_vinculado>
+    <vlr_total>252800.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>7</fk_orgao>
+    <cod_funcao>08</cod_funcao>
+    <nom_funcao>ASSISTÊNCIA SOCIAL                                                                                  </nom_funcao>
+    <cod_subfuncao>244</cod_subfuncao>
+    <nom_subfuncao>ASSISTÊNCIA COMUNITÁRIA</nom_subfuncao>
+    <cod_acao>2159</cod_acao>
+    <nom_acao>MANUTENÇAO DOS SERVIÇOS DE PROTEÇÃO SOCIAL ESPECIAL À FAMÍLIA</nom_acao>
+    <cod_programa>030</cod_programa>
+    <nom_programa>PROTEÇÃO SOCIAL ESPECIAL</nom_programa>
+    <esfera>SEG</esfera>
+    <vlr_projeto>32000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>32000.00</vlr_vinculado>
+    <vlr_total>32000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>10</fk_orgao>
+    <cod_funcao>20</cod_funcao>
+    <nom_funcao>AGRICULTURA                                                                                         </nom_funcao>
+    <cod_subfuncao>601</cod_subfuncao>
+    <nom_subfuncao>PROMOÇÃO DA PRODUÇÃO VEGETAL</nom_subfuncao>
+    <cod_acao>1073</cod_acao>
+    <nom_acao>APOIAR A PRODUÇÃO DA AGRICULTURA ORGÂNICA</nom_acao>
+    <cod_programa>043</cod_programa>
+    <nom_programa>PROGRAMA DE DESENVOLVIMENTO DA AGRICULTURA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>32395.00</vlr_vinculado>
+    <vlr_total>32395.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>11</fk_orgao>
+    <cod_funcao>04</cod_funcao>
+    <nom_funcao>ADMINISTRAÇÃO                                                                                       </nom_funcao>
+    <cod_subfuncao>122</cod_subfuncao>
+    <nom_subfuncao>ADMINISTRAÇÃO GERAL</nom_subfuncao>
+    <cod_acao>2048</cod_acao>
+    <nom_acao>MANUTENÇÃO E FUNCIONAMENTO ADMINISTRATIVO DA AMMA</nom_acao>
+    <cod_programa>047</cod_programa>
+    <nom_programa>COORDENAÇÃO E MANUTENÇÃO GERAL DA AMMA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>4133.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>4133.00</vlr_vinculado>
+    <vlr_total>4133.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>1</fk_orgao>
+    <cod_funcao>01</cod_funcao>
+    <nom_funcao>LEGISLATIVA                                                                                         </nom_funcao>
+    <cod_subfuncao>031</cod_subfuncao>
+    <nom_subfuncao>AÇÃO LEGISLATIVA</nom_subfuncao>
+    <cod_acao>2071</cod_acao>
+    <nom_acao>COORDENAÇÃO GERAL E FUNCIONAMENTO DA CAMARA MUNICIPAL</nom_acao>
+    <cod_programa>013</cod_programa>
+    <nom_programa>AÇÃO LEGISLATIVA E CONTRÔLE EXTERNO</nom_programa>
+    <esfera>INV</esfera>
+    <vlr_projeto>98.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>98.00</vlr_vinculado>
+    <vlr_total>98.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>7</fk_orgao>
+    <cod_funcao>08</cod_funcao>
+    <nom_funcao>ASSISTÊNCIA SOCIAL                                                                                  </nom_funcao>
+    <cod_subfuncao>244</cod_subfuncao>
+    <nom_subfuncao>ASSISTÊNCIA COMUNITÁRIA</nom_subfuncao>
+    <cod_acao>2119</cod_acao>
+    <nom_acao>IMPLEMENTAÇÃO DO PROGRAMA MUNICIPAL DE ECONOMIA SOLIDÁRIA</nom_acao>
+    <cod_programa>029</cod_programa>
+    <nom_programa>PROTEÇÃO SOCIAL BÁSICA</nom_programa>
+    <esfera>SEG</esfera>
+    <vlr_projeto>131000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>131000.00</vlr_vinculado>
+    <vlr_total>131000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>9</fk_orgao>
+    <cod_funcao>19</cod_funcao>
+    <nom_funcao>CIÊNCIA E TECNOLOGIA                                                                                </nom_funcao>
+    <cod_subfuncao>573</cod_subfuncao>
+    <nom_subfuncao>DIFUSÃO DO CONHECIMENTO CIENTÍFICO E TECNOLÓGICO</nom_subfuncao>
+    <cod_acao>2125</cod_acao>
+    <nom_acao>MANUTENÇÃO E MODERNIZAÇÃO DO CENTRO DE RECONDICIONAMENTO DE COMPUTADORES - CRC E TELECENTROS</nom_acao>
+    <cod_programa>040</cod_programa>
+    <nom_programa>PROGRAMA DE DESENVOLVIMENTO TECNOLÓGICO - PRODETEC</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>4000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>4000.00</vlr_vinculado>
+    <vlr_total>4000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>12</fk_orgao>
+    <cod_funcao>27</cod_funcao>
+    <nom_funcao>DESPORTO E LAZER                                                                                    </nom_funcao>
+    <cod_subfuncao>812</cod_subfuncao>
+    <nom_subfuncao>DESPORTO COMUNITÁRIO</nom_subfuncao>
+    <cod_acao>1122</cod_acao>
+    <nom_acao>CAPACITAÇÃO PARA JUVENTUDE</nom_acao>
+    <cod_programa>053</cod_programa>
+    <nom_programa>PROGRAMA DE DESENVOLVIMENTO DA JUVENTUDE - JOVEM CIDADÃO</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>5000.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>5000.00</vlr_vinculado>
+    <vlr_total>5000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>10</fk_orgao>
+    <cod_funcao>20</cod_funcao>
+    <nom_funcao>AGRICULTURA                                                                                         </nom_funcao>
+    <cod_subfuncao>602</cod_subfuncao>
+    <nom_subfuncao>PROMOÇÃO DA PRODUÇÃO ANIMAL</nom_subfuncao>
+    <cod_acao>1094</cod_acao>
+    <nom_acao>DISPONIBILIZAR REPRODUTORES CAPRINOS PARA MELHORAMENTO GENÉTICO</nom_acao>
+    <cod_programa>044</cod_programa>
+    <nom_programa>PROGRAMA DE DESENVOLVIMENTO DA PECUÁRIA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>21421.00</vlr_vinculado>
+    <vlr_total>21421.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>9</fk_orgao>
+    <cod_funcao>19</cod_funcao>
+    <nom_funcao>CIÊNCIA E TECNOLOGIA                                                                                </nom_funcao>
+    <cod_subfuncao>573</cod_subfuncao>
+    <nom_subfuncao>DIFUSÃO DO CONHECIMENTO CIENTÍFICO E TECNOLÓGICO</nom_subfuncao>
+    <cod_acao>1025</cod_acao>
+    <nom_acao>APOIO A IMPLANTAÇÃO DO CENTRO DE RECONDICIONAMENTO DE COMPUTADORES - CRC E TELECENTROS</nom_acao>
+    <cod_programa>040</cod_programa>
+    <nom_programa>PROGRAMA DE DESENVOLVIMENTO TECNOLÓGICO - PRODETEC</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>4000.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>4000.00</vlr_vinculado>
+    <vlr_total>4000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>8</fk_orgao>
+    <cod_funcao>13</cod_funcao>
+    <nom_funcao>CULTURA                                                                                             </nom_funcao>
+    <cod_subfuncao>391</cod_subfuncao>
+    <nom_subfuncao>PATRIMÔNIO HISTÓRICO, ARTÍSTICO E ARQUEOLÓGICO</nom_subfuncao>
+    <cod_acao>1008</cod_acao>
+    <nom_acao>REFORMA E RESTAURAÇÃO DE EQUIPAMENTOS CULTURAIS E TURÍSTICOS</nom_acao>
+    <cod_programa>035</cod_programa>
+    <nom_programa>INFRA-ESTRUTURA CULTURAL TURÍSTICA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>13000.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>13000.00</vlr_vinculado>
+    <vlr_total>13000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>6</fk_orgao>
+    <cod_funcao>12</cod_funcao>
+    <nom_funcao>EDUCAÇÃO                                                                                            </nom_funcao>
+    <cod_subfuncao>366</cod_subfuncao>
+    <nom_subfuncao>EDUCAÇÃO DE JOVENS E ADULTOS</nom_subfuncao>
+    <cod_acao>2113</cod_acao>
+    <nom_acao>MANUTENÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO DE JOVENS E ADULTOS - FUNDEB 40% EJA</nom_acao>
+    <cod_programa>005</cod_programa>
+    <nom_programa>PROGRAMA DE MANUTENÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO DE JOVENS E ADULTOS - FUNDEB  EJA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>338992.04</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>338992.04</vlr_vinculado>
+    <vlr_total>338992.04</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>15</fk_orgao>
+    <cod_funcao>16</cod_funcao>
+    <nom_funcao>HABITAÇÃO                                                                                           </nom_funcao>
+    <cod_subfuncao>482</cod_subfuncao>
+    <nom_subfuncao>HABITAÇÃO URBANA</nom_subfuncao>
+    <cod_acao>1044</cod_acao>
+    <nom_acao>RECONSTRUÇÃO E MELHORIAS  HABITACIONAIS - ÁREA URBANA</nom_acao>
+    <cod_programa>063</cod_programa>
+    <nom_programa>PROGRAMA HABITACIONAL</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>21025.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>21025.00</vlr_vinculado>
+    <vlr_total>21025.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>11</fk_orgao>
+    <cod_funcao>13</cod_funcao>
+    <nom_funcao>CULTURA                                                                                             </nom_funcao>
+    <cod_subfuncao>391</cod_subfuncao>
+    <nom_subfuncao>PATRIMÔNIO HISTÓRICO, ARTÍSTICO E ARQUEOLÓGICO</nom_subfuncao>
+    <cod_acao>2054</cod_acao>
+    <nom_acao>PLANEJAMENTO, PRESERVAÇÃO E CONSERVAÇÃO DO PATRIMÔNIO HISTÓRICO</nom_acao>
+    <cod_programa>051</cod_programa>
+    <nom_programa>PATRIMÔNIO HISTÓRICO E CULTURAL</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>50000.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>50000.00</vlr_vinculado>
+    <vlr_total>50000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>12</fk_orgao>
+    <cod_funcao>27</cod_funcao>
+    <nom_funcao>DESPORTO E LAZER                                                                                    </nom_funcao>
+    <cod_subfuncao>811</cod_subfuncao>
+    <nom_subfuncao>DESPORTO DE RENDIMENTO</nom_subfuncao>
+    <cod_acao>1032</cod_acao>
+    <nom_acao>DESENVOLVIMENTO DE ACOES ESPORTIVAS E SOCIAIS</nom_acao>
+    <cod_programa>055</cod_programa>
+    <nom_programa>PROGRAMA DE DESENVOVIMENTO DO ESPORTE</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>33500.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>33500.00</vlr_vinculado>
+    <vlr_total>33500.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>6</fk_orgao>
+    <cod_funcao>12</cod_funcao>
+    <nom_funcao>EDUCAÇÃO                                                                                            </nom_funcao>
+    <cod_subfuncao>361</cod_subfuncao>
+    <nom_subfuncao>ENSINO FUNDAMENTAL</nom_subfuncao>
+    <cod_acao>2137</cod_acao>
+    <nom_acao>MANUTENÇÃO E DESENVOLVIMENTO DA AÇÃO PEDAGÓGICA - FUNDEB 40% EF</nom_acao>
+    <cod_programa>006</cod_programa>
+    <nom_programa>PROGRAMA DE FORTALECIMENTO DA AÇÃO PEDAGOGICA - FUNDEB EF</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>198097.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>198097.00</vlr_vinculado>
+    <vlr_total>198097.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>6</fk_orgao>
+    <cod_funcao>12</cod_funcao>
+    <nom_funcao>EDUCAÇÃO                                                                                            </nom_funcao>
+    <cod_subfuncao>361</cod_subfuncao>
+    <nom_subfuncao>ENSINO FUNDAMENTAL</nom_subfuncao>
+    <cod_acao>2109</cod_acao>
+    <nom_acao>TRANSPORTE ESCOLA PARA ALUNOS DO ENSINO FUNDAMENTAL - FUNDEB 40% EF</nom_acao>
+    <cod_programa>003</cod_programa>
+    <nom_programa>PROGRAMA DE MANUTENCAO E DESENVOLVIMENTO DO ENSINO FUNDAMENTAL - FUNDEB</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>503764.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>503764.00</vlr_vinculado>
+    <vlr_total>503764.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>13</fk_orgao>
+    <cod_funcao>18</cod_funcao>
+    <nom_funcao>GESTÃO AMBIENTAL                                                                                    </nom_funcao>
+    <cod_subfuncao>544</cod_subfuncao>
+    <nom_subfuncao>RECURSOS HÍDRICOS</nom_subfuncao>
+    <cod_acao>2026</cod_acao>
+    <nom_acao>MANUTENÇÃO E MODERNIZAÇÃO  DE ADUTORAS E SISTEMAS DE ABASTECIMENTO D'AGUA</nom_acao>
+    <cod_programa>058</cod_programa>
+    <nom_programa>INFRA-ESTRUTURA DE RECURSOS HÍDRICOS</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>6000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>6000.00</vlr_vinculado>
+    <vlr_total>6000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>7</fk_orgao>
+    <cod_funcao>08</cod_funcao>
+    <nom_funcao>ASSISTÊNCIA SOCIAL                                                                                  </nom_funcao>
+    <cod_subfuncao>243</cod_subfuncao>
+    <nom_subfuncao>ASSISTÊNCIA À CRIANÇA E AO ADOLESCENTE</nom_subfuncao>
+    <cod_acao>2133</cod_acao>
+    <nom_acao>MOBILIZAÇÃO E COMUNICAÇÃO DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE</nom_acao>
+    <cod_programa>028</cod_programa>
+    <nom_programa>PROTEÇÃO SOCIAL DA CRIANÇA E ADOLESCENTE</nom_programa>
+    <esfera>SEG</esfera>
+    <vlr_projeto>8000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>8000.00</vlr_vinculado>
+    <vlr_total>8000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>9</fk_orgao>
+    <cod_funcao>11</cod_funcao>
+    <nom_funcao>TRABALHO                                                                                            </nom_funcao>
+    <cod_subfuncao>334</cod_subfuncao>
+    <nom_subfuncao>FOMENTO AO TRABALHO</nom_subfuncao>
+    <cod_acao>2089</cod_acao>
+    <nom_acao>CAPACITAÇÃO DE MICRO E PEQUENOS EMPREENDEDORES EM GESTÃO EMPRESARIAL E TECNOLÓGICA</nom_acao>
+    <cod_programa>041</cod_programa>
+    <nom_programa>TRABALHO PLENO</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>51000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>51000.00</vlr_vinculado>
+    <vlr_total>51000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>12</fk_orgao>
+    <cod_funcao>27</cod_funcao>
+    <nom_funcao>DESPORTO E LAZER                                                                                    </nom_funcao>
+    <cod_subfuncao>811</cod_subfuncao>
+    <nom_subfuncao>DESPORTO DE RENDIMENTO</nom_subfuncao>
+    <cod_acao>2074</cod_acao>
+    <nom_acao>REALIZAÇÃO DE EVENTOS ESPORTIVOS</nom_acao>
+    <cod_programa>055</cod_programa>
+    <nom_programa>PROGRAMA DE DESENVOVIMENTO DO ESPORTE</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>26000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>26000.00</vlr_vinculado>
+    <vlr_total>26000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>5</fk_orgao>
+    <cod_funcao>04</cod_funcao>
+    <nom_funcao>ADMINISTRAÇÃO                                                                                       </nom_funcao>
+    <cod_subfuncao>122</cod_subfuncao>
+    <nom_subfuncao>ADMINISTRAÇÃO GERAL</nom_subfuncao>
+    <cod_acao>1001</cod_acao>
+    <nom_acao>MODERNIZAR A GESTÃO FISCAL E ADMINISTRATIVA - PNAFM</nom_acao>
+    <cod_programa>019</cod_programa>
+    <nom_programa>MODERNIZAÇÃO DA GESTÃO PÚBLICA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>10000.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>10000.00</vlr_vinculado>
+    <vlr_total>10000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>10</fk_orgao>
+    <cod_funcao>20</cod_funcao>
+    <nom_funcao>AGRICULTURA                                                                                         </nom_funcao>
+    <cod_subfuncao>601</cod_subfuncao>
+    <nom_subfuncao>PROMOÇÃO DA PRODUÇÃO VEGETAL</nom_subfuncao>
+    <cod_acao>1079</cod_acao>
+    <nom_acao>APOIAR A REALIZAÇÃO DE CURSOS, PALESTRAS, CONGRESSOS, SEMINÁRIOS E FEIRAS</nom_acao>
+    <cod_programa>043</cod_programa>
+    <nom_programa>PROGRAMA DE DESENVOLVIMENTO DA AGRICULTURA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>43367.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>43367.00</vlr_vinculado>
+    <vlr_total>43367.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>7</fk_orgao>
+    <cod_funcao>08</cod_funcao>
+    <nom_funcao>ASSISTÊNCIA SOCIAL                                                                                  </nom_funcao>
+    <cod_subfuncao>242</cod_subfuncao>
+    <nom_subfuncao>ASSISTÊNCIA AO PORTADOR DE DEFICIÊNCIA</nom_subfuncao>
+    <cod_acao>2118</cod_acao>
+    <nom_acao>IMPLEMENTAR A POLITICA MUNICIPAL DA PESSOA COM DEFICIENCIA </nom_acao>
+    <cod_programa>029</cod_programa>
+    <nom_programa>PROTEÇÃO SOCIAL BÁSICA</nom_programa>
+    <esfera>SEG</esfera>
+    <vlr_projeto>11000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>11000.00</vlr_vinculado>
+    <vlr_total>11000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>4</fk_orgao>
+    <cod_funcao>04</cod_funcao>
+    <nom_funcao>ADMINISTRAÇÃO                                                                                       </nom_funcao>
+    <cod_subfuncao>122</cod_subfuncao>
+    <nom_subfuncao>ADMINISTRAÇÃO GERAL</nom_subfuncao>
+    <cod_acao>1119</cod_acao>
+    <nom_acao>EXPANSÃO E MODERNIZAÇÃO DAS AÇÕES DA GUARDA CIVIL MUNICIPAL DE SOBRAL</nom_acao>
+    <cod_programa>016</cod_programa>
+    <nom_programa>PROGRAMA MUNICIPAL DE SEGURANÇA E CIDADANIA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>10000.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>10000.00</vlr_vinculado>
+    <vlr_total>10000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>2</fk_orgao>
+    <cod_funcao>04</cod_funcao>
+    <nom_funcao>ADMINISTRAÇÃO                                                                                       </nom_funcao>
+    <cod_subfuncao>122</cod_subfuncao>
+    <nom_subfuncao>ADMINISTRAÇÃO GERAL</nom_subfuncao>
+    <cod_acao>2042</cod_acao>
+    <nom_acao>DIVULGAÇÃO DAS AÇÕES GOVERNAMENTAIS</nom_acao>
+    <cod_programa>014</cod_programa>
+    <nom_programa>COORDENAÇÃO GERAL E FUNCIONAMENTO ADMINISTRATIVO - GAB PREFEITO</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>48850.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>48850.00</vlr_vinculado>
+    <vlr_total>48850.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>13</fk_orgao>
+    <cod_funcao>04</cod_funcao>
+    <nom_funcao>ADMINISTRAÇÃO                                                                                       </nom_funcao>
+    <cod_subfuncao>122</cod_subfuncao>
+    <nom_subfuncao>ADMINISTRAÇÃO GERAL</nom_subfuncao>
+    <cod_acao>2150</cod_acao>
+    <nom_acao>MODERNIZAÇÃO, MANUTENÇÃO E AQUISIÇÃO DE MÁQUINAS E VEÍCULOS</nom_acao>
+    <cod_programa>057</cod_programa>
+    <nom_programa>COORDENAÇÃO E FUNCIONAMENTO ADMINISTRATIVO - SEINFRA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>13000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>13000.00</vlr_vinculado>
+    <vlr_total>13000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>13</fk_orgao>
+    <cod_funcao>15</cod_funcao>
+    <nom_funcao>URBANISMO                                                                                           </nom_funcao>
+    <cod_subfuncao>451</cod_subfuncao>
+    <nom_subfuncao>INFRA- ESTRUTURA URBANA</nom_subfuncao>
+    <cod_acao>2158</cod_acao>
+    <nom_acao>URBANIZAÇÃO DE LOGRADOUROS PÚBLICOS</nom_acao>
+    <cod_programa>011</cod_programa>
+    <nom_programa>DESENVOLVIMENTO URBANO</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>12000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>12000.00</vlr_vinculado>
+    <vlr_total>12000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>13</fk_orgao>
+    <cod_funcao>25</cod_funcao>
+    <nom_funcao>ENERGIA                                                                                             </nom_funcao>
+    <cod_subfuncao>752</cod_subfuncao>
+    <nom_subfuncao>ENERGIA ELÉTRICA</nom_subfuncao>
+    <cod_acao>1017</cod_acao>
+    <nom_acao>AMPLIAÇÃO DA REDE DE ENERGIA ELÉTRICA</nom_acao>
+    <cod_programa>056</cod_programa>
+    <nom_programa>INFRA-ESTRUTURA BÁSICA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>12100.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>12100.00</vlr_vinculado>
+    <vlr_total>12100.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>9</fk_orgao>
+    <cod_funcao>19</cod_funcao>
+    <nom_funcao>CIÊNCIA E TECNOLOGIA                                                                                </nom_funcao>
+    <cod_subfuncao>573</cod_subfuncao>
+    <nom_subfuncao>DIFUSÃO DO CONHECIMENTO CIENTÍFICO E TECNOLÓGICO</nom_subfuncao>
+    <cod_acao>1058</cod_acao>
+    <nom_acao>APOIO A DIFUSÃO DE TECNOLOGIAS SOCIAIS</nom_acao>
+    <cod_programa>040</cod_programa>
+    <nom_programa>PROGRAMA DE DESENVOLVIMENTO TECNOLÓGICO - PRODETEC</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>13000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>13000.00</vlr_vinculado>
+    <vlr_total>13000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>7</fk_orgao>
+    <cod_funcao>10</cod_funcao>
+    <nom_funcao>SAÚDE                                                                                               </nom_funcao>
+    <cod_subfuncao>305</cod_subfuncao>
+    <nom_subfuncao>VIGILÂNCIA EPIDEMIOLÓGICA</nom_subfuncao>
+    <cod_acao>2007</cod_acao>
+    <nom_acao>CONTROLE DE ZOONOSES E FATORES BIOLÓGICOS DE RISCOS</nom_acao>
+    <cod_programa>025</cod_programa>
+    <nom_programa>GESTÃO PLENA DO SISTEMA MUNICIPAL DE SAÚDE</nom_programa>
+    <esfera>SEG</esfera>
+    <vlr_projeto>105000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>105000.00</vlr_vinculado>
+    <vlr_total>105000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>7</fk_orgao>
+    <cod_funcao>08</cod_funcao>
+    <nom_funcao>ASSISTÊNCIA SOCIAL                                                                                  </nom_funcao>
+    <cod_subfuncao>244</cod_subfuncao>
+    <nom_subfuncao>ASSISTÊNCIA COMUNITÁRIA</nom_subfuncao>
+    <cod_acao>2132</cod_acao>
+    <nom_acao>MANUTENÇÃO DOS SERVIÇOS DE PROTEÇÃO SOCIAL ESPECIAL ÀS PESSOAS IDOSAS E COM DEFICIÊNCIAS</nom_acao>
+    <cod_programa>030</cod_programa>
+    <nom_programa>PROTEÇÃO SOCIAL ESPECIAL</nom_programa>
+    <esfera>SEG</esfera>
+    <vlr_projeto>7000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>7000.00</vlr_vinculado>
+    <vlr_total>7000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>8</fk_orgao>
+    <cod_funcao>04</cod_funcao>
+    <nom_funcao>ADMINISTRAÇÃO                                                                                       </nom_funcao>
+    <cod_subfuncao>122</cod_subfuncao>
+    <nom_subfuncao>ADMINISTRAÇÃO GERAL</nom_subfuncao>
+    <cod_acao>2105</cod_acao>
+    <nom_acao>MANUTENÇÃO E FUNCIONAMENTO ADMINISTRATIVO DA SECULT</nom_acao>
+    <cod_programa>038</cod_programa>
+    <nom_programa>COORDENAÇÃO GERAL E FUNCIONAMENTO ADMINISTRATIVO DA SECULT</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>43000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>43000.00</vlr_vinculado>
+    <vlr_total>43000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>12</fk_orgao>
+    <cod_funcao>27</cod_funcao>
+    <nom_funcao>DESPORTO E LAZER                                                                                    </nom_funcao>
+    <cod_subfuncao>811</cod_subfuncao>
+    <nom_subfuncao>DESPORTO DE RENDIMENTO</nom_subfuncao>
+    <cod_acao>1099</cod_acao>
+    <nom_acao>APOIAR A PRODUÇÃO E VEICULAÇÃO DO CONHECIMENTO CIENTÍFICO NO ÂMBITO DO ESPORTE</nom_acao>
+    <cod_programa>055</cod_programa>
+    <nom_programa>PROGRAMA DE DESENVOVIMENTO DO ESPORTE</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>10000.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>10000.00</vlr_vinculado>
+    <vlr_total>10000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>9</fk_orgao>
+    <cod_funcao>22</cod_funcao>
+    <nom_funcao>INDÚSTRIA                                                                                           </nom_funcao>
+    <cod_subfuncao>661</cod_subfuncao>
+    <nom_subfuncao>PROMOÇÃO INDUSTRIAL</nom_subfuncao>
+    <cod_acao>2069</cod_acao>
+    <nom_acao>MANUTENÇÃO E DIVULGAÇÃO DO PRODECON</nom_acao>
+    <cod_programa>042</cod_programa>
+    <nom_programa>PRODECON - PROGRAMA DE DESENVOLVIMENTO ECONÔMICO</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>33000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>33000.00</vlr_vinculado>
+    <vlr_total>33000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>4</fk_orgao>
+    <cod_funcao>04</cod_funcao>
+    <nom_funcao>ADMINISTRAÇÃO                                                                                       </nom_funcao>
+    <cod_subfuncao>122</cod_subfuncao>
+    <nom_subfuncao>ADMINISTRAÇÃO GERAL</nom_subfuncao>
+    <cod_acao>2152</cod_acao>
+    <nom_acao>MANUTENÇÃO E FUNCIONAMENTO ADMINISTRATIVO DA SCS</nom_acao>
+    <cod_programa>016</cod_programa>
+    <nom_programa>PROGRAMA MUNICIPAL DE SEGURANÇA E CIDADANIA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>125000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>125000.00</vlr_vinculado>
+    <vlr_total>125000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>15</fk_orgao>
+    <cod_funcao>16</cod_funcao>
+    <nom_funcao>HABITAÇÃO                                                                                           </nom_funcao>
+    <cod_subfuncao>481</cod_subfuncao>
+    <nom_subfuncao>HABITAÇÃO RURAL</nom_subfuncao>
+    <cod_acao>1045</cod_acao>
+    <nom_acao>RECONSTRUÇAO E MELHORIAS HABITACIONAIS - ÁREA RURAL</nom_acao>
+    <cod_programa>063</cod_programa>
+    <nom_programa>PROGRAMA HABITACIONAL</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>13230.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>13230.00</vlr_vinculado>
+    <vlr_total>13230.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>13</fk_orgao>
+    <cod_funcao>24</cod_funcao>
+    <nom_funcao>COMUNICAÇÕES                                                                                        </nom_funcao>
+    <cod_subfuncao>722</cod_subfuncao>
+    <nom_subfuncao>TELECOMUNICAÇÕES</nom_subfuncao>
+    <cod_acao>2141</cod_acao>
+    <nom_acao>MANUTENÇÃO E MODERNIZAÇÃO DOS SISTEMAS DE COMUNICAÇÃO</nom_acao>
+    <cod_programa>056</cod_programa>
+    <nom_programa>INFRA-ESTRUTURA BÁSICA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>54000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>54000.00</vlr_vinculado>
+    <vlr_total>54000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>7</fk_orgao>
+    <cod_funcao>08</cod_funcao>
+    <nom_funcao>ASSISTÊNCIA SOCIAL                                                                                  </nom_funcao>
+    <cod_subfuncao>244</cod_subfuncao>
+    <nom_subfuncao>ASSISTÊNCIA COMUNITÁRIA</nom_subfuncao>
+    <cod_acao>2050</cod_acao>
+    <nom_acao>MANUTENCAO DOS SERVICOS CONTINUADOS DE ATENCAO A FAMILIA - CRAS</nom_acao>
+    <cod_programa>029</cod_programa>
+    <nom_programa>PROTEÇÃO SOCIAL BÁSICA</nom_programa>
+    <esfera>SEG</esfera>
+    <vlr_projeto>167000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>167000.00</vlr_vinculado>
+    <vlr_total>167000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>7</fk_orgao>
+    <cod_funcao>08</cod_funcao>
+    <nom_funcao>ASSISTÊNCIA SOCIAL                                                                                  </nom_funcao>
+    <cod_subfuncao>306</cod_subfuncao>
+    <nom_subfuncao>ALIMENTAÇÃO E NUTRIÇÃO</nom_subfuncao>
+    <cod_acao>2017</cod_acao>
+    <nom_acao>MANUTENCAO E FUNCIONAMENTO DO RESTAURANTE POPULAR</nom_acao>
+    <cod_programa>031</cod_programa>
+    <nom_programa>SEGURANÇA ALIMENTAR E NUTRICIONAL</nom_programa>
+    <esfera>SEG</esfera>
+    <vlr_projeto>53200.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>53200.00</vlr_vinculado>
+    <vlr_total>53200.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>11</fk_orgao>
+    <cod_funcao>15</cod_funcao>
+    <nom_funcao>URBANISMO                                                                                           </nom_funcao>
+    <cod_subfuncao>127</cod_subfuncao>
+    <nom_subfuncao>ORDENAMENTO TERRITORIAL</nom_subfuncao>
+    <cod_acao>2001</cod_acao>
+    <nom_acao>OPERAÇÃO E MANUTENÇÃO DO SISTEMA DE INFORMAÇÕES GEOREFERENCIADAS.</nom_acao>
+    <cod_programa>050</cod_programa>
+    <nom_programa>INFRA-ESTRUTURA BÁSICA URBANA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>40000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>40000.00</vlr_vinculado>
+    <vlr_total>40000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>6</fk_orgao>
+    <cod_funcao>12</cod_funcao>
+    <nom_funcao>EDUCAÇÃO                                                                                            </nom_funcao>
+    <cod_subfuncao>365</cod_subfuncao>
+    <nom_subfuncao>EDUCAÇÃO INFANTIL</nom_subfuncao>
+    <cod_acao>2094</cod_acao>
+    <nom_acao>MANUTENÇÃO E FORTALECIMENTO DA AÇÃO PEDAGÓGICA E GESTÃO ESCOLAR - FUNDEB 40% EI</nom_acao>
+    <cod_programa>002</cod_programa>
+    <nom_programa>PROGRAMA DE FORTALECIMENTO DA AÇÃO PEDAGÓGICA E GESTÃO ESCOLAR - FUNDEB  EI</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>182290.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>182290.00</vlr_vinculado>
+    <vlr_total>182290.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>7</fk_orgao>
+    <cod_funcao>08</cod_funcao>
+    <nom_funcao>ASSISTÊNCIA SOCIAL                                                                                  </nom_funcao>
+    <cod_subfuncao>244</cod_subfuncao>
+    <nom_subfuncao>ASSISTÊNCIA COMUNITÁRIA</nom_subfuncao>
+    <cod_acao>2016</cod_acao>
+    <nom_acao>AMPLIAR AS POLÍTICAS VOLTADAS PARA AS CRIANÇAS, ADOLESCENTES E OS JOVENS EM SITUAÇÃO DE VULNERABILIDADE E RISCO SOCIAL</nom_acao>
+    <cod_programa>029</cod_programa>
+    <nom_programa>PROTEÇÃO SOCIAL BÁSICA</nom_programa>
+    <esfera>SEG</esfera>
+    <vlr_projeto>409000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>409000.00</vlr_vinculado>
+    <vlr_total>409000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>7</fk_orgao>
+    <cod_funcao>10</cod_funcao>
+    <nom_funcao>SAÚDE                                                                                               </nom_funcao>
+    <cod_subfuncao>305</cod_subfuncao>
+    <nom_subfuncao>VIGILÂNCIA EPIDEMIOLÓGICA</nom_subfuncao>
+    <cod_acao>2008</cod_acao>
+    <nom_acao>IMPLEMENTAR AÇÕES DE PREVENÇÃO E CONTRLE DE DST/AIDS</nom_acao>
+    <cod_programa>025</cod_programa>
+    <nom_programa>GESTÃO PLENA DO SISTEMA MUNICIPAL DE SAÚDE</nom_programa>
+    <esfera>SEG</esfera>
+    <vlr_projeto>200000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>200000.00</vlr_vinculado>
+    <vlr_total>200000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>6</fk_orgao>
+    <cod_funcao>12</cod_funcao>
+    <nom_funcao>EDUCAÇÃO                                                                                            </nom_funcao>
+    <cod_subfuncao>361</cod_subfuncao>
+    <nom_subfuncao>ENSINO FUNDAMENTAL</nom_subfuncao>
+    <cod_acao>2092</cod_acao>
+    <nom_acao>MANUTENÇÃO E DESENVOLVIMENTO DO ENSINO FUNDAMENTAL</nom_acao>
+    <cod_programa>020</cod_programa>
+    <nom_programa>PROGRAMA DE MANUTENÇÃO E DESENVOLVIMENTO DO ENSINO FUNDAMENTAL</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>200832.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>200832.00</vlr_vinculado>
+    <vlr_total>200832.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>11</fk_orgao>
+    <cod_funcao>15</cod_funcao>
+    <nom_funcao>URBANISMO                                                                                           </nom_funcao>
+    <cod_subfuncao>453</cod_subfuncao>
+    <nom_subfuncao>TRANSPORTES COLETIVOS URBANOS</nom_subfuncao>
+    <cod_acao>2000</cod_acao>
+    <nom_acao>MANUTENÇÃO DA INFRA-ESTRUTURA URBANA DE TRANSPORTES.</nom_acao>
+    <cod_programa>050</cod_programa>
+    <nom_programa>INFRA-ESTRUTURA BÁSICA URBANA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>52000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>52000.00</vlr_vinculado>
+    <vlr_total>52000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>7</fk_orgao>
+    <cod_funcao>10</cod_funcao>
+    <nom_funcao>SAÚDE                                                                                               </nom_funcao>
+    <cod_subfuncao>301</cod_subfuncao>
+    <nom_subfuncao>ATENÇÃO BÁSICA</nom_subfuncao>
+    <cod_acao>2073</cod_acao>
+    <nom_acao>ASSEGURA O PROCESSO DE MOBILIZAÇÃO E CAPACITAÇÃO DOS CONSELHEIROS MUN. SAÚDE</nom_acao>
+    <cod_programa>024</cod_programa>
+    <nom_programa>GESTÃO SOCIAL E CIDADANIA</nom_programa>
+    <esfera>SEG</esfera>
+    <vlr_projeto>25000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>25000.00</vlr_vinculado>
+    <vlr_total>25000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>10</fk_orgao>
+    <cod_funcao>20</cod_funcao>
+    <nom_funcao>AGRICULTURA                                                                                         </nom_funcao>
+    <cod_subfuncao>602</cod_subfuncao>
+    <nom_subfuncao>PROMOÇÃO DA PRODUÇÃO ANIMAL</nom_subfuncao>
+    <cod_acao>1092</cod_acao>
+    <nom_acao>GARANTIR ASSISTÊNCIA TÉCNICA PECUÁRIA</nom_acao>
+    <cod_programa>044</cod_programa>
+    <nom_programa>PROGRAMA DE DESENVOLVIMENTO DA PECUÁRIA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>67351.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>67351.00</vlr_vinculado>
+    <vlr_total>67351.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>9</fk_orgao>
+    <cod_funcao>19</cod_funcao>
+    <nom_funcao>CIÊNCIA E TECNOLOGIA                                                                                </nom_funcao>
+    <cod_subfuncao>573</cod_subfuncao>
+    <nom_subfuncao>DIFUSÃO DO CONHECIMENTO CIENTÍFICO E TECNOLÓGICO</nom_subfuncao>
+    <cod_acao>2116</cod_acao>
+    <nom_acao>MANUTENÇÃO DO PARQUE TECNOLOGICO</nom_acao>
+    <cod_programa>040</cod_programa>
+    <nom_programa>PROGRAMA DE DESENVOLVIMENTO TECNOLÓGICO - PRODETEC</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>3000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>3000.00</vlr_vinculado>
+    <vlr_total>3000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>6</fk_orgao>
+    <cod_funcao>12</cod_funcao>
+    <nom_funcao>EDUCAÇÃO                                                                                            </nom_funcao>
+    <cod_subfuncao>361</cod_subfuncao>
+    <nom_subfuncao>ENSINO FUNDAMENTAL</nom_subfuncao>
+    <cod_acao>2090</cod_acao>
+    <nom_acao>MANUTENÇÃO DA COORDENAÇÃO GERAL</nom_acao>
+    <cod_programa>020</cod_programa>
+    <nom_programa>PROGRAMA DE MANUTENÇÃO E DESENVOLVIMENTO DO ENSINO FUNDAMENTAL</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>189832.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>189832.00</vlr_vinculado>
+    <vlr_total>189832.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>7</fk_orgao>
+    <cod_funcao>08</cod_funcao>
+    <nom_funcao>ASSISTÊNCIA SOCIAL                                                                                  </nom_funcao>
+    <cod_subfuncao>243</cod_subfuncao>
+    <nom_subfuncao>ASSISTÊNCIA À CRIANÇA E AO ADOLESCENTE</nom_subfuncao>
+    <cod_acao>2123</cod_acao>
+    <nom_acao>PROTEÇÃO INTEGRAL E DEFESA DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE</nom_acao>
+    <cod_programa>028</cod_programa>
+    <nom_programa>PROTEÇÃO SOCIAL DA CRIANÇA E ADOLESCENTE</nom_programa>
+    <esfera>SEG</esfera>
+    <vlr_projeto>80900.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>80900.00</vlr_vinculado>
+    <vlr_total>80900.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>15</fk_orgao>
+    <cod_funcao>15</cod_funcao>
+    <nom_funcao>URBANISMO                                                                                           </nom_funcao>
+    <cod_subfuncao>452</cod_subfuncao>
+    <nom_subfuncao>SERVIÇOS URBANOS</nom_subfuncao>
+    <cod_acao>2066</cod_acao>
+    <nom_acao>MANUTENÇÃO E MELHORIAS DOS EQUIPAMENTOS DE LIMPEZA URBANA</nom_acao>
+    <cod_programa>059</cod_programa>
+    <nom_programa>SANEAMENTO E GESTÃO AMBIENTAL</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>24254.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>24254.00</vlr_vinculado>
+    <vlr_total>24254.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>7</fk_orgao>
+    <cod_funcao>08</cod_funcao>
+    <nom_funcao>ASSISTÊNCIA SOCIAL                                                                                  </nom_funcao>
+    <cod_subfuncao>244</cod_subfuncao>
+    <nom_subfuncao>ASSISTÊNCIA COMUNITÁRIA</nom_subfuncao>
+    <cod_acao>2136</cod_acao>
+    <nom_acao>MANUTENÇÃO DO SISTEMA DE VIGILÂNCIA E CONTROLE SOCIAL E INSTITUCIONAL</nom_acao>
+    <cod_programa>032</cod_programa>
+    <nom_programa>VIGILÂNCIA SOCIAL E DEFESA SOCIAL E INSTITUCIONAL</nom_programa>
+    <esfera>SEG</esfera>
+    <vlr_projeto>9000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>9000.00</vlr_vinculado>
+    <vlr_total>9000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>6</fk_orgao>
+    <cod_funcao>12</cod_funcao>
+    <nom_funcao>EDUCAÇÃO                                                                                            </nom_funcao>
+    <cod_subfuncao>365</cod_subfuncao>
+    <nom_subfuncao>EDUCAÇÃO INFANTIL</nom_subfuncao>
+    <cod_acao>2100</cod_acao>
+    <nom_acao>MANUTENÇÃO E DESENVOLVIMENTO DO ENSINO INFANTIL - FUNDEB 40% EI</nom_acao>
+    <cod_programa>004</cod_programa>
+    <nom_programa>PROGRAMA DE MANUTENÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO INFANTIL - FUNDEB  EI</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>316843.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>316843.00</vlr_vinculado>
+    <vlr_total>316843.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>12</fk_orgao>
+    <cod_funcao>27</cod_funcao>
+    <nom_funcao>DESPORTO E LAZER                                                                                    </nom_funcao>
+    <cod_subfuncao>811</cod_subfuncao>
+    <nom_subfuncao>DESPORTO DE RENDIMENTO</nom_subfuncao>
+    <cod_acao>1033</cod_acao>
+    <nom_acao>APOIO A ENTIDADES ESPORTIVAS E ATLETAS PROFISSIONAIS</nom_acao>
+    <cod_programa>055</cod_programa>
+    <nom_programa>PROGRAMA DE DESENVOVIMENTO DO ESPORTE</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>1500.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>1500.00</vlr_vinculado>
+    <vlr_total>1500.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>7</fk_orgao>
+    <cod_funcao>10</cod_funcao>
+    <nom_funcao>SAÚDE                                                                                               </nom_funcao>
+    <cod_subfuncao>301</cod_subfuncao>
+    <nom_subfuncao>ATENÇÃO BÁSICA</nom_subfuncao>
+    <cod_acao>2175</cod_acao>
+    <nom_acao>CAPACITAÇÃO DE PROFISSIONAIS (PROESF)</nom_acao>
+    <cod_programa>025</cod_programa>
+    <nom_programa>GESTÃO PLENA DO SISTEMA MUNICIPAL DE SAÚDE</nom_programa>
+    <esfera>SEG</esfera>
+    <vlr_projeto>10000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>10000.00</vlr_vinculado>
+    <vlr_total>10000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>17</fk_orgao>
+    <cod_funcao>04</cod_funcao>
+    <nom_funcao>ADMINISTRAÇÃO                                                                                       </nom_funcao>
+    <cod_subfuncao>122</cod_subfuncao>
+    <nom_subfuncao>ADMINISTRAÇÃO GERAL</nom_subfuncao>
+    <cod_acao>2104</cod_acao>
+    <nom_acao>COORDENAÇÃO GERAL E FUNCIONAMENTO ADMINISTRATIVO</nom_acao>
+    <cod_programa>068</cod_programa>
+    <nom_programa>COORDENAÇÃO GERAL E FUNCIONAMENTO DO GAB-VICE</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>23000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>23000.00</vlr_vinculado>
+    <vlr_total>23000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>4</fk_orgao>
+    <cod_funcao>04</cod_funcao>
+    <nom_funcao>ADMINISTRAÇÃO                                                                                       </nom_funcao>
+    <cod_subfuncao>122</cod_subfuncao>
+    <nom_subfuncao>ADMINISTRAÇÃO GERAL</nom_subfuncao>
+    <cod_acao>1054</cod_acao>
+    <nom_acao>DESENVOLVER AÇÕES DO PRONASCI</nom_acao>
+    <cod_programa>016</cod_programa>
+    <nom_programa>PROGRAMA MUNICIPAL DE SEGURANÇA E CIDADANIA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>10000.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>10000.00</vlr_vinculado>
+    <vlr_total>10000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>13</fk_orgao>
+    <cod_funcao>15</cod_funcao>
+    <nom_funcao>URBANISMO                                                                                           </nom_funcao>
+    <cod_subfuncao>451</cod_subfuncao>
+    <nom_subfuncao>INFRA- ESTRUTURA URBANA</nom_subfuncao>
+    <cod_acao>1013</cod_acao>
+    <nom_acao>CONSTRUÇÃO DE AVENIDAS E RUAS</nom_acao>
+    <cod_programa>056</cod_programa>
+    <nom_programa>INFRA-ESTRUTURA BÁSICA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>12840.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>12840.00</vlr_vinculado>
+    <vlr_total>12840.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>8</fk_orgao>
+    <cod_funcao>13</cod_funcao>
+    <nom_funcao>CULTURA                                                                                             </nom_funcao>
+    <cod_subfuncao>392</cod_subfuncao>
+    <nom_subfuncao>DIFUSÃO CULTURAL</nom_subfuncao>
+    <cod_acao>2018</cod_acao>
+    <nom_acao>APOIO A EDITORAÇÃO E PUBLICAÇÃO CULTURAL</nom_acao>
+    <cod_programa>037</cod_programa>
+    <nom_programa>MANIFESTAÇÕES ARTISTICAS E CULTURAIS</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>10000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>10000.00</vlr_vinculado>
+    <vlr_total>10000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>11</fk_orgao>
+    <cod_funcao>04</cod_funcao>
+    <nom_funcao>ADMINISTRAÇÃO                                                                                       </nom_funcao>
+    <cod_subfuncao>122</cod_subfuncao>
+    <nom_subfuncao>ADMINISTRAÇÃO GERAL</nom_subfuncao>
+    <cod_acao>2049</cod_acao>
+    <nom_acao>MANUTENÇÃO E FUNCIONAMENTO DA SPLAM</nom_acao>
+    <cod_programa>049</cod_programa>
+    <nom_programa>COORDENAÇÃO GERAL E FUNCIONAMENTO DA SPLAM</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>138000.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>138000.00</vlr_vinculado>
+    <vlr_total>138000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>10</fk_orgao>
+    <cod_funcao>20</cod_funcao>
+    <nom_funcao>AGRICULTURA                                                                                         </nom_funcao>
+    <cod_subfuncao>602</cod_subfuncao>
+    <nom_subfuncao>PROMOÇÃO DA PRODUÇÃO ANIMAL</nom_subfuncao>
+    <cod_acao>1090</cod_acao>
+    <nom_acao>CAPACITAÇÃO TÉCNICA PECUÁRIA</nom_acao>
+    <cod_programa>044</cod_programa>
+    <nom_programa>PROGRAMA DE DESENVOLVIMENTO DA PECUÁRIA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>42844.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>42844.00</vlr_vinculado>
+    <vlr_total>42844.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>2</fk_orgao>
+    <cod_funcao>04</cod_funcao>
+    <nom_funcao>ADMINISTRAÇÃO                                                                                       </nom_funcao>
+    <cod_subfuncao>122</cod_subfuncao>
+    <nom_subfuncao>ADMINISTRAÇÃO GERAL</nom_subfuncao>
+    <cod_acao>2044</cod_acao>
+    <nom_acao>MANUTENÇÃO DO ESCRITÓRIO DE FORTALEZA</nom_acao>
+    <cod_programa>014</cod_programa>
+    <nom_programa>COORDENAÇÃO GERAL E FUNCIONAMENTO ADMINISTRATIVO - GAB PREFEITO</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>21480.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>21480.00</vlr_vinculado>
+    <vlr_total>21480.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>13</fk_orgao>
+    <cod_funcao>18</cod_funcao>
+    <nom_funcao>GESTÃO AMBIENTAL                                                                                    </nom_funcao>
+    <cod_subfuncao>544</cod_subfuncao>
+    <nom_subfuncao>RECURSOS HÍDRICOS</nom_subfuncao>
+    <cod_acao>2027</cod_acao>
+    <nom_acao>MANUTENÇÃO, PERFURAÇÃO E INSTALAÇÃO DE POÇOS</nom_acao>
+    <cod_programa>058</cod_programa>
+    <nom_programa>INFRA-ESTRUTURA DE RECURSOS HÍDRICOS</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>66500.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>66500.00</vlr_vinculado>
+    <vlr_total>66500.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>6</fk_orgao>
+    <cod_funcao>12</cod_funcao>
+    <nom_funcao>EDUCAÇÃO                                                                                            </nom_funcao>
+    <cod_subfuncao>361</cod_subfuncao>
+    <nom_subfuncao>ENSINO FUNDAMENTAL</nom_subfuncao>
+    <cod_acao>2091</cod_acao>
+    <nom_acao>MANUTENÇÃO E FUNCIONAMENTO DA REDE INTEGRADA DE BIBLIOTECA</nom_acao>
+    <cod_programa>001</cod_programa>
+    <nom_programa>PROGRAMA DE FORTALECIMENTO DA AÇÃO PEDAGÓGICA E GESTÃO ESCOLAR</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>10000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>10000.00</vlr_vinculado>
+    <vlr_total>10000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>13</fk_orgao>
+    <cod_funcao>15</cod_funcao>
+    <nom_funcao>URBANISMO                                                                                           </nom_funcao>
+    <cod_subfuncao>451</cod_subfuncao>
+    <nom_subfuncao>INFRA- ESTRUTURA URBANA</nom_subfuncao>
+    <cod_acao>2142</cod_acao>
+    <nom_acao>DESENVOLVIMENTO DA INFRA-ESTRUTURA</nom_acao>
+    <cod_programa>056</cod_programa>
+    <nom_programa>INFRA-ESTRUTURA BÁSICA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>64000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>64000.00</vlr_vinculado>
+    <vlr_total>64000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>16</fk_orgao>
+    <cod_funcao>04</cod_funcao>
+    <nom_funcao>ADMINISTRAÇÃO                                                                                       </nom_funcao>
+    <cod_subfuncao>122</cod_subfuncao>
+    <nom_subfuncao>ADMINISTRAÇÃO GERAL</nom_subfuncao>
+    <cod_acao>2058</cod_acao>
+    <nom_acao>MANUTENÇÃO E FUNCIONAMENTO ADMINISTRATIVO SEGOV</nom_acao>
+    <cod_programa>067</cod_programa>
+    <nom_programa>CORDENAÇÃO GERAL E FUNCIONAMENTO ADMINISTRATIVO - SEGOV</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>50444.00</vlr_vinculado>
+    <vlr_total>50444.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>7</fk_orgao>
+    <cod_funcao>08</cod_funcao>
+    <nom_funcao>ASSISTÊNCIA SOCIAL                                                                                  </nom_funcao>
+    <cod_subfuncao>244</cod_subfuncao>
+    <nom_subfuncao>ASSISTÊNCIA COMUNITÁRIA</nom_subfuncao>
+    <cod_acao>2126</cod_acao>
+    <nom_acao>MANUTENÇÃO AO ACESSO AOS BENEFÍCIOS EVENTUAIS</nom_acao>
+    <cod_programa>027</cod_programa>
+    <nom_programa>APRIMORAMENTO DA GESTÃO DA POLITICA DA ASSISTENCIA SOCIAL</nom_programa>
+    <esfera>SEG</esfera>
+    <vlr_projeto>3000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>3000.00</vlr_vinculado>
+    <vlr_total>3000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>5</fk_orgao>
+    <cod_funcao>04</cod_funcao>
+    <nom_funcao>ADMINISTRAÇÃO                                                                                       </nom_funcao>
+    <cod_subfuncao>121</cod_subfuncao>
+    <nom_subfuncao>PLANEJAMENTO E ORÇAMENTO</nom_subfuncao>
+    <cod_acao>2002</cod_acao>
+    <nom_acao>ELABORAR O PLANEJAMENTO PARTICIPATIVO</nom_acao>
+    <cod_programa>017</cod_programa>
+    <nom_programa>PLANEJAMENTO E GESTÃO PARTICIPATIVA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>17400.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>17400.00</vlr_vinculado>
+    <vlr_total>17400.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>12</fk_orgao>
+    <cod_funcao>27</cod_funcao>
+    <nom_funcao>DESPORTO E LAZER                                                                                    </nom_funcao>
+    <cod_subfuncao>812</cod_subfuncao>
+    <nom_subfuncao>DESPORTO COMUNITÁRIO</nom_subfuncao>
+    <cod_acao>1035</cod_acao>
+    <nom_acao>APOIAR AÇÕES DE DESENVOLVIMENTO ESPORTIVO PARA JOVENS</nom_acao>
+    <cod_programa>053</cod_programa>
+    <nom_programa>PROGRAMA DE DESENVOLVIMENTO DA JUVENTUDE - JOVEM CIDADÃO</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>11000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>11000.00</vlr_vinculado>
+    <vlr_total>11000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>6</fk_orgao>
+    <cod_funcao>12</cod_funcao>
+    <nom_funcao>EDUCAÇÃO                                                                                            </nom_funcao>
+    <cod_subfuncao>361</cod_subfuncao>
+    <nom_subfuncao>ENSINO FUNDAMENTAL</nom_subfuncao>
+    <cod_acao>2107</cod_acao>
+    <nom_acao>MANUTENÇÃO E DESENVOLVIMENTO DO ENSINO FUNDAMENTAL - FUNDEB 40% EF</nom_acao>
+    <cod_programa>003</cod_programa>
+    <nom_programa>PROGRAMA DE MANUTENCAO E DESENVOLVIMENTO DO ENSINO FUNDAMENTAL - FUNDEB</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>8000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>8000.00</vlr_vinculado>
+    <vlr_total>8000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>9</fk_orgao>
+    <cod_funcao>11</cod_funcao>
+    <nom_funcao>TRABALHO                                                                                            </nom_funcao>
+    <cod_subfuncao>334</cod_subfuncao>
+    <nom_subfuncao>FOMENTO AO TRABALHO</nom_subfuncao>
+    <cod_acao>2143</cod_acao>
+    <nom_acao>MANUTENÇÃO E DIVULGAÇÃO DO TRABALHO PLENO</nom_acao>
+    <cod_programa>041</cod_programa>
+    <nom_programa>TRABALHO PLENO</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>3500.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>3500.00</vlr_vinculado>
+    <vlr_total>3500.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>7</fk_orgao>
+    <cod_funcao>10</cod_funcao>
+    <nom_funcao>SAÚDE                                                                                               </nom_funcao>
+    <cod_subfuncao>301</cod_subfuncao>
+    <nom_subfuncao>ATENÇÃO BÁSICA</nom_subfuncao>
+    <cod_acao>2011</cod_acao>
+    <nom_acao>MANUT. FUNCIONAMENTO DOS SERVIÇOS MUNICIPAIS DE SAÚDE</nom_acao>
+    <cod_programa>025</cod_programa>
+    <nom_programa>GESTÃO PLENA DO SISTEMA MUNICIPAL DE SAÚDE</nom_programa>
+    <esfera>SEG</esfera>
+    <vlr_projeto>3240000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>3240000.00</vlr_vinculado>
+    <vlr_total>3240000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>7</fk_orgao>
+    <cod_funcao>10</cod_funcao>
+    <nom_funcao>SAÚDE                                                                                               </nom_funcao>
+    <cod_subfuncao>303</cod_subfuncao>
+    <nom_subfuncao>SUPORTE PROFILÁTICO E TERAPÊUTICO</nom_subfuncao>
+    <cod_acao>2014</cod_acao>
+    <nom_acao>MANUTENÇÃO E FUNCIONAMENTO DA ASSISTÊNCIA FARMACÊUTICA MUNICIPAL</nom_acao>
+    <cod_programa>026</cod_programa>
+    <nom_programa>ASSISTÊCIA FARMACÊUTICA INTEGRAL</nom_programa>
+    <esfera>SEG</esfera>
+    <vlr_projeto>100000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>100000.00</vlr_vinculado>
+    <vlr_total>100000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>9</fk_orgao>
+    <cod_funcao>11</cod_funcao>
+    <nom_funcao>TRABALHO                                                                                            </nom_funcao>
+    <cod_subfuncao>334</cod_subfuncao>
+    <nom_subfuncao>FOMENTO AO TRABALHO</nom_subfuncao>
+    <cod_acao>2154</cod_acao>
+    <nom_acao>CAPACITAÇÃO, QUALIFICAÇÃO DE MICRO, PEQUENOS EMPREENDEDORES E PROFISSIONAIS DO TRAD DE EVENTOS</nom_acao>
+    <cod_programa>010</cod_programa>
+    <nom_programa>PRODENE - PROGRAMA DE DESENVOLVIMENTO DE EVENTOS DE NEGOCIOS</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>4000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>4000.00</vlr_vinculado>
+    <vlr_total>4000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>10</fk_orgao>
+    <cod_funcao>20</cod_funcao>
+    <nom_funcao>AGRICULTURA                                                                                         </nom_funcao>
+    <cod_subfuncao>601</cod_subfuncao>
+    <nom_subfuncao>PROMOÇÃO DA PRODUÇÃO VEGETAL</nom_subfuncao>
+    <cod_acao>1074</cod_acao>
+    <nom_acao>APOIAR A AGRICULTURA DE SEQUEIRO</nom_acao>
+    <cod_programa>043</cod_programa>
+    <nom_programa>PROGRAMA DE DESENVOLVIMENTO DA AGRICULTURA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>30884.00</vlr_vinculado>
+    <vlr_total>30884.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>13</fk_orgao>
+    <cod_funcao>15</cod_funcao>
+    <nom_funcao>URBANISMO                                                                                           </nom_funcao>
+    <cod_subfuncao>452</cod_subfuncao>
+    <nom_subfuncao>SERVIÇOS URBANOS</nom_subfuncao>
+    <cod_acao>2024</cod_acao>
+    <nom_acao>AMPLIAÇÃO E REESTRUTURAÇÃO DE RODOVIAS E ESTRADAS VICINAIS</nom_acao>
+    <cod_programa>056</cod_programa>
+    <nom_programa>INFRA-ESTRUTURA BÁSICA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>18000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>18000.00</vlr_vinculado>
+    <vlr_total>18000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>16</fk_orgao>
+    <cod_funcao>04</cod_funcao>
+    <nom_funcao>ADMINISTRAÇÃO                                                                                       </nom_funcao>
+    <cod_subfuncao>131</cod_subfuncao>
+    <nom_subfuncao>COMUNICAÇÃO SOCIAL</nom_subfuncao>
+    <cod_acao>2061</cod_acao>
+    <nom_acao>COORDENAÇÃO E REALIZAÇÃO DE EVENTOS</nom_acao>
+    <cod_programa>066</cod_programa>
+    <nom_programa>PROGRAMA DE ARTICULAÇÃO DE POLÍTICAS DE GOVERNO</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>71216.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>71216.00</vlr_vinculado>
+    <vlr_total>71216.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>9</fk_orgao>
+    <cod_funcao>04</cod_funcao>
+    <nom_funcao>ADMINISTRAÇÃO                                                                                       </nom_funcao>
+    <cod_subfuncao>122</cod_subfuncao>
+    <nom_subfuncao>ADMINISTRAÇÃO GERAL</nom_subfuncao>
+    <cod_acao>2067</cod_acao>
+    <nom_acao>MANUTENÇÃO E FUNCIONAMENTO ADMINISTRATIVO</nom_acao>
+    <cod_programa>039</cod_programa>
+    <nom_programa>COORDENAÇÃO GERAL E FUNCIONAMENTO ADMINISTRATIVO - STDE</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>96000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>96000.00</vlr_vinculado>
+    <vlr_total>96000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>9</fk_orgao>
+    <cod_funcao>22</cod_funcao>
+    <nom_funcao>INDÚSTRIA                                                                                           </nom_funcao>
+    <cod_subfuncao>661</cod_subfuncao>
+    <nom_subfuncao>PROMOÇÃO INDUSTRIAL</nom_subfuncao>
+    <cod_acao>2088</cod_acao>
+    <nom_acao>MANUTENÇÃO E MODERNIZAÇÃO DO LOTEAMENTO TERRA NOVA</nom_acao>
+    <cod_programa>042</cod_programa>
+    <nom_programa>PRODECON - PROGRAMA DE DESENVOLVIMENTO ECONÔMICO</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>35000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>35000.00</vlr_vinculado>
+    <vlr_total>35000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>8</fk_orgao>
+    <cod_funcao>13</cod_funcao>
+    <nom_funcao>CULTURA                                                                                             </nom_funcao>
+    <cod_subfuncao>695</cod_subfuncao>
+    <nom_subfuncao>TURISMO</nom_subfuncao>
+    <cod_acao>2165</cod_acao>
+    <nom_acao>PROMOVER  AÇÕES DE INCENTIVO AO TURISMO</nom_acao>
+    <cod_programa>034</cod_programa>
+    <nom_programa>PROGRAMA DO DESENVOLVIMENTO DO TURISMO</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>17000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>17000.00</vlr_vinculado>
+    <vlr_total>17000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>10</fk_orgao>
+    <cod_funcao>20</cod_funcao>
+    <nom_funcao>AGRICULTURA                                                                                         </nom_funcao>
+    <cod_subfuncao>601</cod_subfuncao>
+    <nom_subfuncao>PROMOÇÃO DA PRODUÇÃO VEGETAL</nom_subfuncao>
+    <cod_acao>1068</cod_acao>
+    <nom_acao>APOIAR A PRODUÇÃO DE PIMENTA TABASCO</nom_acao>
+    <cod_programa>043</cod_programa>
+    <nom_programa>PROGRAMA DE DESENVOLVIMENTO DA AGRICULTURA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>23420.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>23420.00</vlr_vinculado>
+    <vlr_total>23420.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>9</fk_orgao>
+    <cod_funcao>11</cod_funcao>
+    <nom_funcao>TRABALHO                                                                                            </nom_funcao>
+    <cod_subfuncao>334</cod_subfuncao>
+    <nom_subfuncao>FOMENTO AO TRABALHO</nom_subfuncao>
+    <cod_acao>1067</cod_acao>
+    <nom_acao>APOIO A REALIZAÇÃO DE MISSÕES EMPRESARIAIS</nom_acao>
+    <cod_programa>041</cod_programa>
+    <nom_programa>TRABALHO PLENO</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>10000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>10000.00</vlr_vinculado>
+    <vlr_total>10000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>12</fk_orgao>
+    <cod_funcao>27</cod_funcao>
+    <nom_funcao>DESPORTO E LAZER                                                                                    </nom_funcao>
+    <cod_subfuncao>812</cod_subfuncao>
+    <nom_subfuncao>DESPORTO COMUNITÁRIO</nom_subfuncao>
+    <cod_acao>1040</cod_acao>
+    <nom_acao>APOIAR A PRODUÇÃO E A VEICULAÇÃO DE CONHECIMENTO CIENTÍFICO NO ÂMBITO DA ATIVIDADE FÍSICA, RECREAÇÃO E LAZER</nom_acao>
+    <cod_programa>054</cod_programa>
+    <nom_programa>PROGRAMA DE DESENV. DE ATIVIDADES FÍSICAS, RECREAÇÃO E LAZER - AGITA SOBRAL</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>10000.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>10000.00</vlr_vinculado>
+    <vlr_total>10000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>9</fk_orgao>
+    <cod_funcao>19</cod_funcao>
+    <nom_funcao>CIÊNCIA E TECNOLOGIA                                                                                </nom_funcao>
+    <cod_subfuncao>573</cod_subfuncao>
+    <nom_subfuncao>DIFUSÃO DO CONHECIMENTO CIENTÍFICO E TECNOLÓGICO</nom_subfuncao>
+    <cod_acao>22222</cod_acao>
+    <nom_acao>APOIO A IMPLANTAÇÃO DO PARQUE TECNOLÓGICO</nom_acao>
+    <cod_programa>040</cod_programa>
+    <nom_programa>PROGRAMA DE DESENVOLVIMENTO TECNOLÓGICO - PRODETEC</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>2000.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>2000.00</vlr_vinculado>
+    <vlr_total>2000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>7</fk_orgao>
+    <cod_funcao>08</cod_funcao>
+    <nom_funcao>ASSISTÊNCIA SOCIAL                                                                                  </nom_funcao>
+    <cod_subfuncao>243</cod_subfuncao>
+    <nom_subfuncao>ASSISTÊNCIA À CRIANÇA E AO ADOLESCENTE</nom_subfuncao>
+    <cod_acao>2128</cod_acao>
+    <nom_acao>MANUTENÇÃO E FUNCIONAMENTO DO CONSELHO TUTELAR</nom_acao>
+    <cod_programa>027</cod_programa>
+    <nom_programa>APRIMORAMENTO DA GESTÃO DA POLITICA DA ASSISTENCIA SOCIAL</nom_programa>
+    <esfera>SEG</esfera>
+    <vlr_projeto>3000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>3000.00</vlr_vinculado>
+    <vlr_total>3000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>12</fk_orgao>
+    <cod_funcao>27</cod_funcao>
+    <nom_funcao>DESPORTO E LAZER                                                                                    </nom_funcao>
+    <cod_subfuncao>812</cod_subfuncao>
+    <nom_subfuncao>DESPORTO COMUNITÁRIO</nom_subfuncao>
+    <cod_acao>1027</cod_acao>
+    <nom_acao>DESENVOLVIMENTO DE AÇÕES DE ATIVIDADES FÍSICAS, RECREAÇÃO E LAZER</nom_acao>
+    <cod_programa>054</cod_programa>
+    <nom_programa>PROGRAMA DE DESENV. DE ATIVIDADES FÍSICAS, RECREAÇÃO E LAZER - AGITA SOBRAL</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>20000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>20000.00</vlr_vinculado>
+    <vlr_total>20000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>8</fk_orgao>
+    <cod_funcao>13</cod_funcao>
+    <nom_funcao>CULTURA                                                                                             </nom_funcao>
+    <cod_subfuncao>391</cod_subfuncao>
+    <nom_subfuncao>PATRIMÔNIO HISTÓRICO, ARTÍSTICO E ARQUEOLÓGICO</nom_subfuncao>
+    <cod_acao>2162</cod_acao>
+    <nom_acao>MANUTENÇÃO, CONSERVAÇÃO E FUNCIONAMENTO DOS EQUIPAMENTOS CULTURAIS</nom_acao>
+    <cod_programa>035</cod_programa>
+    <nom_programa>INFRA-ESTRUTURA CULTURAL TURÍSTICA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>29000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>29000.00</vlr_vinculado>
+    <vlr_total>29000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>11</fk_orgao>
+    <cod_funcao>18</cod_funcao>
+    <nom_funcao>GESTÃO AMBIENTAL                                                                                    </nom_funcao>
+    <cod_subfuncao>542</cod_subfuncao>
+    <nom_subfuncao>CONTROLE AMBIENTAL</nom_subfuncao>
+    <cod_acao>1041</cod_acao>
+    <nom_acao>CAPACITAÇÃO DA POPULAÇÃO PARA GESTÃO AMBIENTAL</nom_acao>
+    <cod_programa>048</cod_programa>
+    <nom_programa>GESTÃO DE POLÍTICAS DE MEIO AMBIENTE</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>70000.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>70000.00</vlr_vinculado>
+    <vlr_total>70000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>8</fk_orgao>
+    <cod_funcao>13</cod_funcao>
+    <nom_funcao>CULTURA                                                                                             </nom_funcao>
+    <cod_subfuncao>695</cod_subfuncao>
+    <nom_subfuncao>TURISMO</nom_subfuncao>
+    <cod_acao>2164</cod_acao>
+    <nom_acao>APOIO E INCENTIVO AO ARTESANATO</nom_acao>
+    <cod_programa>034</cod_programa>
+    <nom_programa>PROGRAMA DO DESENVOLVIMENTO DO TURISMO</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>32000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>32000.00</vlr_vinculado>
+    <vlr_total>32000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>7</fk_orgao>
+    <cod_funcao>08</cod_funcao>
+    <nom_funcao>ASSISTÊNCIA SOCIAL                                                                                  </nom_funcao>
+    <cod_subfuncao>244</cod_subfuncao>
+    <nom_subfuncao>ASSISTÊNCIA COMUNITÁRIA</nom_subfuncao>
+    <cod_acao>2127</cod_acao>
+    <nom_acao>MANUTENÇÃO DA CASA DOS CONSELHOS E MOBILIZAÇÃO SOCIAL</nom_acao>
+    <cod_programa>027</cod_programa>
+    <nom_programa>APRIMORAMENTO DA GESTÃO DA POLITICA DA ASSISTENCIA SOCIAL</nom_programa>
+    <esfera>SEG</esfera>
+    <vlr_projeto>25000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>25000.00</vlr_vinculado>
+    <vlr_total>25000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>12</fk_orgao>
+    <cod_funcao>27</cod_funcao>
+    <nom_funcao>DESPORTO E LAZER                                                                                    </nom_funcao>
+    <cod_subfuncao>811</cod_subfuncao>
+    <nom_subfuncao>DESPORTO DE RENDIMENTO</nom_subfuncao>
+    <cod_acao>1030</cod_acao>
+    <nom_acao>CONSTRUÇÃO, AMPLIAÇÃO E RESTAURAÇÃO DE EQUIPAMENTOS ESPORTIVOS</nom_acao>
+    <cod_programa>055</cod_programa>
+    <nom_programa>PROGRAMA DE DESENVOVIMENTO DO ESPORTE</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>1500.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>1500.00</vlr_vinculado>
+    <vlr_total>1500.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>15</fk_orgao>
+    <cod_funcao>17</cod_funcao>
+    <nom_funcao>SANEAMENTO                                                                                          </nom_funcao>
+    <cod_subfuncao>511</cod_subfuncao>
+    <nom_subfuncao>SANEAMENTO BÁSICO RURAL</nom_subfuncao>
+    <cod_acao>1053</cod_acao>
+    <nom_acao>ESGOTAMENTO SANITÁRIO - DISTRITOS</nom_acao>
+    <cod_programa>060</cod_programa>
+    <nom_programa>SANEAMENTO BÁSICO</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>13825.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>13825.00</vlr_vinculado>
+    <vlr_total>13825.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>6</fk_orgao>
+    <cod_funcao>12</cod_funcao>
+    <nom_funcao>EDUCAÇÃO                                                                                            </nom_funcao>
+    <cod_subfuncao>361</cod_subfuncao>
+    <nom_subfuncao>ENSINO FUNDAMENTAL</nom_subfuncao>
+    <cod_acao>2095</cod_acao>
+    <nom_acao>MANUTENCAO DO SETOR DE MERENDA ESCOLAR</nom_acao>
+    <cod_programa>020</cod_programa>
+    <nom_programa>PROGRAMA DE MANUTENÇÃO E DESENVOLVIMENTO DO ENSINO FUNDAMENTAL</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>170705.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>170705.00</vlr_vinculado>
+    <vlr_total>170705.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>15</fk_orgao>
+    <cod_funcao>18</cod_funcao>
+    <nom_funcao>GESTÃO AMBIENTAL                                                                                    </nom_funcao>
+    <cod_subfuncao>541</cod_subfuncao>
+    <nom_subfuncao>PRESERVAÇÃO E CONSERVAÇÃO AMBIENTAL</nom_subfuncao>
+    <cod_acao>2064</cod_acao>
+    <nom_acao>MODERNIZAÇÃO, MANUTENÇÃO E FUNCIONAMENTO DA USINA DE COMPOSTAGEM DE LIXO</nom_acao>
+    <cod_programa>059</cod_programa>
+    <nom_programa>SANEAMENTO E GESTÃO AMBIENTAL</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>13229.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>13229.00</vlr_vinculado>
+    <vlr_total>13229.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>7</fk_orgao>
+    <cod_funcao>08</cod_funcao>
+    <nom_funcao>ASSISTÊNCIA SOCIAL                                                                                  </nom_funcao>
+    <cod_subfuncao>244</cod_subfuncao>
+    <nom_subfuncao>ASSISTÊNCIA COMUNITÁRIA</nom_subfuncao>
+    <cod_acao>2134</cod_acao>
+    <nom_acao>MANUTENÇÃO DO ATENDIMENTO ESPECIALIZADO ÀS FAMILIAS E SEUS MEMBROS</nom_acao>
+    <cod_programa>030</cod_programa>
+    <nom_programa>PROTEÇÃO SOCIAL ESPECIAL</nom_programa>
+    <esfera>SEG</esfera>
+    <vlr_projeto>208000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>208000.00</vlr_vinculado>
+    <vlr_total>208000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>7</fk_orgao>
+    <cod_funcao>10</cod_funcao>
+    <nom_funcao>SAÚDE                                                                                               </nom_funcao>
+    <cod_subfuncao>304</cod_subfuncao>
+    <nom_subfuncao>VIGILÂNCIA SANITÁRIA</nom_subfuncao>
+    <cod_acao>2012</cod_acao>
+    <nom_acao>VIGILÂNCIA SANITÁRIA, À SAÚDE, NUTRICIONAL E AMBIENTAL</nom_acao>
+    <cod_programa>025</cod_programa>
+    <nom_programa>GESTÃO PLENA DO SISTEMA MUNICIPAL DE SAÚDE</nom_programa>
+    <esfera>SEG</esfera>
+    <vlr_projeto>100000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>100000.00</vlr_vinculado>
+    <vlr_total>100000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>7</fk_orgao>
+    <cod_funcao>08</cod_funcao>
+    <nom_funcao>ASSISTÊNCIA SOCIAL                                                                                  </nom_funcao>
+    <cod_subfuncao>244</cod_subfuncao>
+    <nom_subfuncao>ASSISTÊNCIA COMUNITÁRIA</nom_subfuncao>
+    <cod_acao>2121</cod_acao>
+    <nom_acao>MANUTENÇÃO DAS AÇÕES SÓCIO-EDUCATIVAS ESPECIALIZADAS COM CRIANÇAS, ADOLESCENTES E SUAS FAMÍLIAS</nom_acao>
+    <cod_programa>030</cod_programa>
+    <nom_programa>PROTEÇÃO SOCIAL ESPECIAL</nom_programa>
+    <esfera>SEG</esfera>
+    <vlr_projeto>28000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>28000.00</vlr_vinculado>
+    <vlr_total>28000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>9</fk_orgao>
+    <cod_funcao>22</cod_funcao>
+    <nom_funcao>INDÚSTRIA                                                                                           </nom_funcao>
+    <cod_subfuncao>661</cod_subfuncao>
+    <nom_subfuncao>PROMOÇÃO INDUSTRIAL</nom_subfuncao>
+    <cod_acao>1060</cod_acao>
+    <nom_acao>APOIO A IMPLANTAÇÃO DE UNIDADES PRODUTIVAS</nom_acao>
+    <cod_programa>042</cod_programa>
+    <nom_programa>PRODECON - PROGRAMA DE DESENVOLVIMENTO ECONÔMICO</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>33255.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>33255.00</vlr_vinculado>
+    <vlr_total>33255.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>10</fk_orgao>
+    <cod_funcao>20</cod_funcao>
+    <nom_funcao>AGRICULTURA                                                                                         </nom_funcao>
+    <cod_subfuncao>601</cod_subfuncao>
+    <nom_subfuncao>PROMOÇÃO DA PRODUÇÃO VEGETAL</nom_subfuncao>
+    <cod_acao>1076</cod_acao>
+    <nom_acao>CAPACITAR PRODUTORES RURAIS</nom_acao>
+    <cod_programa>043</cod_programa>
+    <nom_programa>PROGRAMA DE DESENVOLVIMENTO DA AGRICULTURA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>27206.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>27206.00</vlr_vinculado>
+    <vlr_total>27206.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>11</fk_orgao>
+    <cod_funcao>15</cod_funcao>
+    <nom_funcao>URBANISMO                                                                                           </nom_funcao>
+    <cod_subfuncao>452</cod_subfuncao>
+    <nom_subfuncao>SERVIÇOS URBANOS</nom_subfuncao>
+    <cod_acao>2053</cod_acao>
+    <nom_acao>MANUTENÇÃO E AMPLIAÇÃO DE EQUIPAMENTOS URBANOS</nom_acao>
+    <cod_programa>046</cod_programa>
+    <nom_programa>PLANEJAMENTO, GESTÃO E DESENVOLVIMENTO URBANO</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>90000.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>90000.00</vlr_vinculado>
+    <vlr_total>90000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>6</fk_orgao>
+    <cod_funcao>12</cod_funcao>
+    <nom_funcao>EDUCAÇÃO                                                                                            </nom_funcao>
+    <cod_subfuncao>361</cod_subfuncao>
+    <nom_subfuncao>ENSINO FUNDAMENTAL</nom_subfuncao>
+    <cod_acao>2138</cod_acao>
+    <nom_acao>MANUTENÇÃO E FORTALECIMENTO DA GESTÃO ESCOLAR -FUNDEB 40% - EF</nom_acao>
+    <cod_programa>007</cod_programa>
+    <nom_programa>PROGRAMA DE FORTALECIMENTO DA GESTÃO ESCOLAR - FUNDEB 40% - EF</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>561.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>561.00</vlr_vinculado>
+    <vlr_total>561.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>11</fk_orgao>
+    <cod_funcao>15</cod_funcao>
+    <nom_funcao>URBANISMO                                                                                           </nom_funcao>
+    <cod_subfuncao>451</cod_subfuncao>
+    <nom_subfuncao>INFRA- ESTRUTURA URBANA</nom_subfuncao>
+    <cod_acao>2052</cod_acao>
+    <nom_acao>PLANEJAMENTO E DESENVOLVIMENTO URBANO</nom_acao>
+    <cod_programa>046</cod_programa>
+    <nom_programa>PLANEJAMENTO, GESTÃO E DESENVOLVIMENTO URBANO</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>52000.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>52000.00</vlr_vinculado>
+    <vlr_total>52000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>13</fk_orgao>
+    <cod_funcao>04</cod_funcao>
+    <nom_funcao>ADMINISTRAÇÃO                                                                                       </nom_funcao>
+    <cod_subfuncao>122</cod_subfuncao>
+    <nom_subfuncao>ADMINISTRAÇÃO GERAL</nom_subfuncao>
+    <cod_acao>2028</cod_acao>
+    <nom_acao>MANUTENÇÃO E FUNCIONAMENTO ADMINISTRATIVO</nom_acao>
+    <cod_programa>057</cod_programa>
+    <nom_programa>COORDENAÇÃO E FUNCIONAMENTO ADMINISTRATIVO - SEINFRA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>599914.47</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>599914.47</vlr_vinculado>
+    <vlr_total>599914.47</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>9</fk_orgao>
+    <cod_funcao>11</cod_funcao>
+    <nom_funcao>TRABALHO                                                                                            </nom_funcao>
+    <cod_subfuncao>334</cod_subfuncao>
+    <nom_subfuncao>FOMENTO AO TRABALHO</nom_subfuncao>
+    <cod_acao>1066</cod_acao>
+    <nom_acao>INTERMEDIAÇÃO E APOIO A COMERCIALIZAÇÃO DE MICRO E PEQUENOS EMPREENDEDORES</nom_acao>
+    <cod_programa>041</cod_programa>
+    <nom_programa>TRABALHO PLENO</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>22000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>22000.00</vlr_vinculado>
+    <vlr_total>22000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>7</fk_orgao>
+    <cod_funcao>08</cod_funcao>
+    <nom_funcao>ASSISTÊNCIA SOCIAL                                                                                  </nom_funcao>
+    <cod_subfuncao>244</cod_subfuncao>
+    <nom_subfuncao>ASSISTÊNCIA COMUNITÁRIA</nom_subfuncao>
+    <cod_acao>2129</cod_acao>
+    <nom_acao>MANUTENÇÃO DA CASA DO CIDADÃO</nom_acao>
+    <cod_programa>027</cod_programa>
+    <nom_programa>APRIMORAMENTO DA GESTÃO DA POLITICA DA ASSISTENCIA SOCIAL</nom_programa>
+    <esfera>SEG</esfera>
+    <vlr_projeto>4000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>4000.00</vlr_vinculado>
+    <vlr_total>4000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>4</fk_orgao>
+    <cod_funcao>04</cod_funcao>
+    <nom_funcao>ADMINISTRAÇÃO                                                                                       </nom_funcao>
+    <cod_subfuncao>122</cod_subfuncao>
+    <nom_subfuncao>ADMINISTRAÇÃO GERAL</nom_subfuncao>
+    <cod_acao>2108</cod_acao>
+    <nom_acao>MANUTENÇÃO E FUNCIONAMENTO DA GUARDA MIRIM</nom_acao>
+    <cod_programa>016</cod_programa>
+    <nom_programa>PROGRAMA MUNICIPAL DE SEGURANÇA E CIDADANIA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>14000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>14000.00</vlr_vinculado>
+    <vlr_total>14000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>6</fk_orgao>
+    <cod_funcao>12</cod_funcao>
+    <nom_funcao>EDUCAÇÃO                                                                                            </nom_funcao>
+    <cod_subfuncao>366</cod_subfuncao>
+    <nom_subfuncao>EDUCAÇÃO DE JOVENS E ADULTOS</nom_subfuncao>
+    <cod_acao>2097</cod_acao>
+    <nom_acao>MANUTENÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO DE JOVENS E ADULTOS</nom_acao>
+    <cod_programa>023</cod_programa>
+    <nom_programa>PROGRAMA MANUTENÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO DE JOVENS E ADULTOS</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>32458.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>32458.00</vlr_vinculado>
+    <vlr_total>32458.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>7</fk_orgao>
+    <cod_funcao>08</cod_funcao>
+    <nom_funcao>ASSISTÊNCIA SOCIAL                                                                                  </nom_funcao>
+    <cod_subfuncao>128</cod_subfuncao>
+    <nom_subfuncao>FORMAÇÃO DE RECURSOS HUMANOS</nom_subfuncao>
+    <cod_acao>2172</cod_acao>
+    <nom_acao>FORMAÇÃO E CAPACITAÇÃO DE RECURSOS HUMANOS</nom_acao>
+    <cod_programa>027</cod_programa>
+    <nom_programa>APRIMORAMENTO DA GESTÃO DA POLITICA DA ASSISTENCIA SOCIAL</nom_programa>
+    <esfera>SEG</esfera>
+    <vlr_projeto>2000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>2000.00</vlr_vinculado>
+    <vlr_total>2000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>9</fk_orgao>
+    <cod_funcao>19</cod_funcao>
+    <nom_funcao>CIÊNCIA E TECNOLOGIA                                                                                </nom_funcao>
+    <cod_subfuncao>573</cod_subfuncao>
+    <nom_subfuncao>DIFUSÃO DO CONHECIMENTO CIENTÍFICO E TECNOLÓGICO</nom_subfuncao>
+    <cod_acao>2068</cod_acao>
+    <nom_acao>MANUTENÇÃO E DIVULGAÇÃO DO PRODETEC</nom_acao>
+    <cod_programa>040</cod_programa>
+    <nom_programa>PROGRAMA DE DESENVOLVIMENTO TECNOLÓGICO - PRODETEC</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>6000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>6000.00</vlr_vinculado>
+    <vlr_total>6000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>15</fk_orgao>
+    <cod_funcao>16</cod_funcao>
+    <nom_funcao>HABITAÇÃO                                                                                           </nom_funcao>
+    <cod_subfuncao>482</cod_subfuncao>
+    <nom_subfuncao>HABITAÇÃO URBANA</nom_subfuncao>
+    <cod_acao>1046</cod_acao>
+    <nom_acao>CONSTRUÇÃO DE CONJUNTOS E UNIDADES HABITACIONAIS - ÁREA URBANA</nom_acao>
+    <cod_programa>063</cod_programa>
+    <nom_programa>PROGRAMA HABITACIONAL</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>78278.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>78278.00</vlr_vinculado>
+    <vlr_total>78278.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>10</fk_orgao>
+    <cod_funcao>20</cod_funcao>
+    <nom_funcao>AGRICULTURA                                                                                         </nom_funcao>
+    <cod_subfuncao>601</cod_subfuncao>
+    <nom_subfuncao>PROMOÇÃO DA PRODUÇÃO VEGETAL</nom_subfuncao>
+    <cod_acao>1071</cod_acao>
+    <nom_acao>PROMOVER O DESENVOLVIMENTO DA VITIVINICULTURA</nom_acao>
+    <cod_programa>043</cod_programa>
+    <nom_programa>PROGRAMA DE DESENVOLVIMENTO DA AGRICULTURA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>37140.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>37140.00</vlr_vinculado>
+    <vlr_total>37140.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>9</fk_orgao>
+    <cod_funcao>19</cod_funcao>
+    <nom_funcao>CIÊNCIA E TECNOLOGIA                                                                                </nom_funcao>
+    <cod_subfuncao>573</cod_subfuncao>
+    <nom_subfuncao>DIFUSÃO DO CONHECIMENTO CIENTÍFICO E TECNOLÓGICO</nom_subfuncao>
+    <cod_acao>2065</cod_acao>
+    <nom_acao>CAPACITAÇÃO TECNOLÓGICA PARA JOVENS, ESTUDANTES, EMPRESÁRIOS E PROFISSIONAIS</nom_acao>
+    <cod_programa>040</cod_programa>
+    <nom_programa>PROGRAMA DE DESENVOLVIMENTO TECNOLÓGICO - PRODETEC</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>5000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>5000.00</vlr_vinculado>
+    <vlr_total>5000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>10</fk_orgao>
+    <cod_funcao>20</cod_funcao>
+    <nom_funcao>AGRICULTURA                                                                                         </nom_funcao>
+    <cod_subfuncao>601</cod_subfuncao>
+    <nom_subfuncao>PROMOÇÃO DA PRODUÇÃO VEGETAL</nom_subfuncao>
+    <cod_acao>1069</cod_acao>
+    <nom_acao>ASSISTÊNCIA TÉCNICA A PRODUTORES</nom_acao>
+    <cod_programa>043</cod_programa>
+    <nom_programa>PROGRAMA DE DESENVOLVIMENTO DA AGRICULTURA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>38142.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>38142.00</vlr_vinculado>
+    <vlr_total>38142.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>10</fk_orgao>
+    <cod_funcao>20</cod_funcao>
+    <nom_funcao>AGRICULTURA                                                                                         </nom_funcao>
+    <cod_subfuncao>601</cod_subfuncao>
+    <nom_subfuncao>PROMOÇÃO DA PRODUÇÃO VEGETAL</nom_subfuncao>
+    <cod_acao>1077</cod_acao>
+    <nom_acao>APOIAR A PRODUÇÃO DE FRUTICULTURA IRRIGADA</nom_acao>
+    <cod_programa>043</cod_programa>
+    <nom_programa>PROGRAMA DE DESENVOLVIMENTO DA AGRICULTURA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>25900.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>25900.00</vlr_vinculado>
+    <vlr_total>25900.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>15</fk_orgao>
+    <cod_funcao>16</cod_funcao>
+    <nom_funcao>HABITAÇÃO                                                                                           </nom_funcao>
+    <cod_subfuncao>481</cod_subfuncao>
+    <nom_subfuncao>HABITAÇÃO RURAL</nom_subfuncao>
+    <cod_acao>1043</cod_acao>
+    <nom_acao>CONSTRUÇÃO DE CONJUNTOS E UNIDADES HABITACIONAIS - ÁREA RURAL</nom_acao>
+    <cod_programa>063</cod_programa>
+    <nom_programa>PROGRAMA HABITACIONAL</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>12309.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>12309.00</vlr_vinculado>
+    <vlr_total>12309.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>12</fk_orgao>
+    <cod_funcao>04</cod_funcao>
+    <nom_funcao>ADMINISTRAÇÃO                                                                                       </nom_funcao>
+    <cod_subfuncao>122</cod_subfuncao>
+    <nom_subfuncao>ADMINISTRAÇÃO GERAL</nom_subfuncao>
+    <cod_acao>2046</cod_acao>
+    <nom_acao>MANUTENÇÃO E FUNCIONAMENTO ADMINISTRATIVO</nom_acao>
+    <cod_programa>052</cod_programa>
+    <nom_programa>COORDENAÇÃO GERAL E FUNCIONAMENTO ADMINISTRATIVO DA SEC DO ESPORTE</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>21000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>21000.00</vlr_vinculado>
+    <vlr_total>21000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>15</fk_orgao>
+    <cod_funcao>15</cod_funcao>
+    <nom_funcao>URBANISMO                                                                                           </nom_funcao>
+    <cod_subfuncao>452</cod_subfuncao>
+    <nom_subfuncao>SERVIÇOS URBANOS</nom_subfuncao>
+    <cod_acao>2063</cod_acao>
+    <nom_acao>MELHORIA DA LIMPEZA PÚBLICA</nom_acao>
+    <cod_programa>059</cod_programa>
+    <nom_programa>SANEAMENTO E GESTÃO AMBIENTAL</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>1309324.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>1309324.00</vlr_vinculado>
+    <vlr_total>1309324.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>7</fk_orgao>
+    <cod_funcao>10</cod_funcao>
+    <nom_funcao>SAÚDE                                                                                               </nom_funcao>
+    <cod_subfuncao>301</cod_subfuncao>
+    <nom_subfuncao>ATENÇÃO BÁSICA</nom_subfuncao>
+    <cod_acao>2023</cod_acao>
+    <nom_acao>MANUT.FUNCIONAMENTO DOS ATENDIMENTO À SAUDE ESPECIALIZADA, BUCAL, MENTAL, AUDITI</nom_acao>
+    <cod_programa>025</cod_programa>
+    <nom_programa>GESTÃO PLENA DO SISTEMA MUNICIPAL DE SAÚDE</nom_programa>
+    <esfera>SEG</esfera>
+    <vlr_projeto>107000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>107000.00</vlr_vinculado>
+    <vlr_total>107000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>16</fk_orgao>
+    <cod_funcao>04</cod_funcao>
+    <nom_funcao>ADMINISTRAÇÃO                                                                                       </nom_funcao>
+    <cod_subfuncao>122</cod_subfuncao>
+    <nom_subfuncao>ADMINISTRAÇÃO GERAL</nom_subfuncao>
+    <cod_acao>2059</cod_acao>
+    <nom_acao>APOIAR O DESENVOLVIMENTO DAS ONG'S, SINDICATOS, COOPERATIVAS E ASSOCIAÇÕES</nom_acao>
+    <cod_programa>066</cod_programa>
+    <nom_programa>PROGRAMA DE ARTICULAÇÃO DE POLÍTICAS DE GOVERNO</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>12540.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>12540.00</vlr_vinculado>
+    <vlr_total>12540.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>11</fk_orgao>
+    <cod_funcao>18</cod_funcao>
+    <nom_funcao>GESTÃO AMBIENTAL                                                                                    </nom_funcao>
+    <cod_subfuncao>541</cod_subfuncao>
+    <nom_subfuncao>PRESERVAÇÃO E CONSERVAÇÃO AMBIENTAL</nom_subfuncao>
+    <cod_acao>1131</cod_acao>
+    <nom_acao>EDUCAÇÃO AMBIENTAL E RECICLAGEM</nom_acao>
+    <cod_programa>048</cod_programa>
+    <nom_programa>GESTÃO DE POLÍTICAS DE MEIO AMBIENTE</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>70000.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>70000.00</vlr_vinculado>
+    <vlr_total>70000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>9</fk_orgao>
+    <cod_funcao>11</cod_funcao>
+    <nom_funcao>TRABALHO                                                                                            </nom_funcao>
+    <cod_subfuncao>334</cod_subfuncao>
+    <nom_subfuncao>FOMENTO AO TRABALHO</nom_subfuncao>
+    <cod_acao>2145</cod_acao>
+    <nom_acao>APOIO A DESBUROCRATIZAÇÃO E FORMALIZAÇÃO DE MICROS E PEQUENOS EMPRESAS, PROFISSIONAIS INDIVIDUAIS E INFORMAIS</nom_acao>
+    <cod_programa>041</cod_programa>
+    <nom_programa>TRABALHO PLENO</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>3000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>3000.00</vlr_vinculado>
+    <vlr_total>3000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>13</fk_orgao>
+    <cod_funcao>18</cod_funcao>
+    <nom_funcao>GESTÃO AMBIENTAL                                                                                    </nom_funcao>
+    <cod_subfuncao>544</cod_subfuncao>
+    <nom_subfuncao>RECURSOS HÍDRICOS</nom_subfuncao>
+    <cod_acao>2025</cod_acao>
+    <nom_acao>RECUPERAÇÃO, MANUTENÇÃO DA INFRA-ESTRUTURA HÍDRICA</nom_acao>
+    <cod_programa>058</cod_programa>
+    <nom_programa>INFRA-ESTRUTURA DE RECURSOS HÍDRICOS</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>11107.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>11107.00</vlr_vinculado>
+    <vlr_total>11107.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>10</fk_orgao>
+    <cod_funcao>20</cod_funcao>
+    <nom_funcao>AGRICULTURA                                                                                         </nom_funcao>
+    <cod_subfuncao>602</cod_subfuncao>
+    <nom_subfuncao>PROMOÇÃO DA PRODUÇÃO ANIMAL</nom_subfuncao>
+    <cod_acao>1014</cod_acao>
+    <nom_acao>APOIAR A APICULTURA</nom_acao>
+    <cod_programa>044</cod_programa>
+    <nom_programa>PROGRAMA DE DESENVOLVIMENTO DA PECUÁRIA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>42846.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>42846.00</vlr_vinculado>
+    <vlr_total>42846.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>11</fk_orgao>
+    <cod_funcao>15</cod_funcao>
+    <nom_funcao>URBANISMO                                                                                           </nom_funcao>
+    <cod_subfuncao>127</cod_subfuncao>
+    <nom_subfuncao>ORDENAMENTO TERRITORIAL</nom_subfuncao>
+    <cod_acao>1039</cod_acao>
+    <nom_acao>IMPLANTAÇÃO DO SISTEMA DE INFORMAÇÕES GEOREFENCIADAS</nom_acao>
+    <cod_programa>050</cod_programa>
+    <nom_programa>INFRA-ESTRUTURA BÁSICA URBANA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>50000.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>50000.00</vlr_vinculado>
+    <vlr_total>50000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>11</fk_orgao>
+    <cod_funcao>18</cod_funcao>
+    <nom_funcao>GESTÃO AMBIENTAL                                                                                    </nom_funcao>
+    <cod_subfuncao>541</cod_subfuncao>
+    <nom_subfuncao>PRESERVAÇÃO E CONSERVAÇÃO AMBIENTAL</nom_subfuncao>
+    <cod_acao>2051</cod_acao>
+    <nom_acao>PLANEJAMENTO, PRESERVAÇÃO E CONSERVAÇÃO DO MEIO AMBIENTE</nom_acao>
+    <cod_programa>048</cod_programa>
+    <nom_programa>GESTÃO DE POLÍTICAS DE MEIO AMBIENTE</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>310000.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>310000.00</vlr_vinculado>
+    <vlr_total>310000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>4</fk_orgao>
+    <cod_funcao>04</cod_funcao>
+    <nom_funcao>ADMINISTRAÇÃO                                                                                       </nom_funcao>
+    <cod_subfuncao>122</cod_subfuncao>
+    <nom_subfuncao>ADMINISTRAÇÃO GERAL</nom_subfuncao>
+    <cod_acao>2040</cod_acao>
+    <nom_acao>MANUTENÇÃO E FUNCIONAMENTO DAS ATIVIDADES DO TRÂNSITO</nom_acao>
+    <cod_programa>016</cod_programa>
+    <nom_programa>PROGRAMA MUNICIPAL DE SEGURANÇA E CIDADANIA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>15000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>15000.00</vlr_vinculado>
+    <vlr_total>15000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>15</fk_orgao>
+    <cod_funcao>04</cod_funcao>
+    <nom_funcao>ADMINISTRAÇÃO                                                                                       </nom_funcao>
+    <cod_subfuncao>122</cod_subfuncao>
+    <nom_subfuncao>ADMINISTRAÇÃO GERAL</nom_subfuncao>
+    <cod_acao>2056</cod_acao>
+    <nom_acao>MANUTENÇÃO E FUNCIONAMENTO ADMINISTRATIVO</nom_acao>
+    <cod_programa>061</cod_programa>
+    <nom_programa>COORDENAÇÃO GERAL E FUNCIONAMENTO ADMINISTRATIVO - SEHABS</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>241500.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>241500.00</vlr_vinculado>
+    <vlr_total>241500.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>10</fk_orgao>
+    <cod_funcao>04</cod_funcao>
+    <nom_funcao>ADMINISTRAÇÃO                                                                                       </nom_funcao>
+    <cod_subfuncao>122</cod_subfuncao>
+    <nom_subfuncao>ADMINISTRAÇÃO GERAL</nom_subfuncao>
+    <cod_acao>2072</cod_acao>
+    <nom_acao>MANUTENÇÃO E FUNCIONAMENTO ADMINISTRATIVO </nom_acao>
+    <cod_programa>045</cod_programa>
+    <nom_programa>COORDENAÇÃO E MANUTENÇÃO GERAL DA SEAGRI</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>160797.00</vlr_vinculado>
+    <vlr_total>160797.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>4</fk_orgao>
+    <cod_funcao>04</cod_funcao>
+    <nom_funcao>ADMINISTRAÇÃO                                                                                       </nom_funcao>
+    <cod_subfuncao>122</cod_subfuncao>
+    <nom_subfuncao>ADMINISTRAÇÃO GERAL</nom_subfuncao>
+    <cod_acao>2171</cod_acao>
+    <nom_acao>DESENVOLVER AÇÕES DA COORDENADORIA DE DEFESA CIVIL</nom_acao>
+    <cod_programa>016</cod_programa>
+    <nom_programa>PROGRAMA MUNICIPAL DE SEGURANÇA E CIDADANIA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>18000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>18000.00</vlr_vinculado>
+    <vlr_total>18000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>10</fk_orgao>
+    <cod_funcao>20</cod_funcao>
+    <nom_funcao>AGRICULTURA                                                                                         </nom_funcao>
+    <cod_subfuncao>602</cod_subfuncao>
+    <nom_subfuncao>PROMOÇÃO DA PRODUÇÃO ANIMAL</nom_subfuncao>
+    <cod_acao>1012</cod_acao>
+    <nom_acao>APOIAR A PISCICULTURA</nom_acao>
+    <cod_programa>044</cod_programa>
+    <nom_programa>PROGRAMA DE DESENVOLVIMENTO DA PECUÁRIA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>78620.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>78620.00</vlr_vinculado>
+    <vlr_total>78620.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>10</fk_orgao>
+    <cod_funcao>20</cod_funcao>
+    <nom_funcao>AGRICULTURA                                                                                         </nom_funcao>
+    <cod_subfuncao>601</cod_subfuncao>
+    <nom_subfuncao>PROMOÇÃO DA PRODUÇÃO VEGETAL</nom_subfuncao>
+    <cod_acao>1081</cod_acao>
+    <nom_acao>AQUISIÇÃO DE IMÓVEIS</nom_acao>
+    <cod_programa>043</cod_programa>
+    <nom_programa>PROGRAMA DE DESENVOLVIMENTO DA AGRICULTURA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>261509.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>261509.00</vlr_vinculado>
+    <vlr_total>261509.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>4</fk_orgao>
+    <cod_funcao>04</cod_funcao>
+    <nom_funcao>ADMINISTRAÇÃO                                                                                       </nom_funcao>
+    <cod_subfuncao>122</cod_subfuncao>
+    <nom_subfuncao>ADMINISTRAÇÃO GERAL</nom_subfuncao>
+    <cod_acao>1026</cod_acao>
+    <nom_acao>EXPANSÃO E MODERNIZAÇÃO DAS ATIVIDADES DO TRÂNSITO</nom_acao>
+    <cod_programa>016</cod_programa>
+    <nom_programa>PROGRAMA MUNICIPAL DE SEGURANÇA E CIDADANIA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>10000.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>10000.00</vlr_vinculado>
+    <vlr_total>10000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>12</fk_orgao>
+    <cod_funcao>27</cod_funcao>
+    <nom_funcao>DESPORTO E LAZER                                                                                    </nom_funcao>
+    <cod_subfuncao>811</cod_subfuncao>
+    <nom_subfuncao>DESPORTO DE RENDIMENTO</nom_subfuncao>
+    <cod_acao>2062</cod_acao>
+    <nom_acao>MANUTENÇÃO E MODERNIZAÇÃO DE EQUIPAMENTOS ESPORTIVOS</nom_acao>
+    <cod_programa>055</cod_programa>
+    <nom_programa>PROGRAMA DE DESENVOVIMENTO DO ESPORTE</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>71000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>71000.00</vlr_vinculado>
+    <vlr_total>71000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>7</fk_orgao>
+    <cod_funcao>08</cod_funcao>
+    <nom_funcao>ASSISTÊNCIA SOCIAL                                                                                  </nom_funcao>
+    <cod_subfuncao>241</cod_subfuncao>
+    <nom_subfuncao>ASSITÊNCIA AO IDOSO</nom_subfuncao>
+    <cod_acao>2131</cod_acao>
+    <nom_acao>MANUTENÇÃO D0 ATENDIMENTO CONTINUADO À PESSOA IDOSA</nom_acao>
+    <cod_programa>029</cod_programa>
+    <nom_programa>PROTEÇÃO SOCIAL BÁSICA</nom_programa>
+    <esfera>SEG</esfera>
+    <vlr_projeto>40000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>40000.00</vlr_vinculado>
+    <vlr_total>40000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>6</fk_orgao>
+    <cod_funcao>12</cod_funcao>
+    <nom_funcao>EDUCAÇÃO                                                                                            </nom_funcao>
+    <cod_subfuncao>365</cod_subfuncao>
+    <nom_subfuncao>EDUCAÇÃO INFANTIL</nom_subfuncao>
+    <cod_acao>2102</cod_acao>
+    <nom_acao>MANUTENÇÃO E DESENVOLVIMENTO DO ENSINO INFANTIL</nom_acao>
+    <cod_programa>021</cod_programa>
+    <nom_programa>PROGRAMA DE MANUTENÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO INFANTIL</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>380251.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>380251.00</vlr_vinculado>
+    <vlr_total>380251.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>2</fk_orgao>
+    <cod_funcao>04</cod_funcao>
+    <nom_funcao>ADMINISTRAÇÃO                                                                                       </nom_funcao>
+    <cod_subfuncao>122</cod_subfuncao>
+    <nom_subfuncao>ADMINISTRAÇÃO GERAL</nom_subfuncao>
+    <cod_acao>2045</cod_acao>
+    <nom_acao>MANUTENÇÃO E FUNCIONAMENTO ADMINISTRATIVO</nom_acao>
+    <cod_programa>014</cod_programa>
+    <nom_programa>COORDENAÇÃO GERAL E FUNCIONAMENTO ADMINISTRATIVO - GAB PREFEITO</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>87607.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>87607.00</vlr_vinculado>
+    <vlr_total>87607.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>7</fk_orgao>
+    <cod_funcao>08</cod_funcao>
+    <nom_funcao>ASSISTÊNCIA SOCIAL                                                                                  </nom_funcao>
+    <cod_subfuncao>243</cod_subfuncao>
+    <nom_subfuncao>ASSISTÊNCIA À CRIANÇA E AO ADOLESCENTE</nom_subfuncao>
+    <cod_acao>2124</cod_acao>
+    <nom_acao>FORMAÇÃO E CAPACITAÇÃO DA REDE DE ATENDIMENTO DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE</nom_acao>
+    <cod_programa>028</cod_programa>
+    <nom_programa>PROTEÇÃO SOCIAL DA CRIANÇA E ADOLESCENTE</nom_programa>
+    <esfera>SEG</esfera>
+    <vlr_projeto>12000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>12000.00</vlr_vinculado>
+    <vlr_total>12000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>7</fk_orgao>
+    <cod_funcao>08</cod_funcao>
+    <nom_funcao>ASSISTÊNCIA SOCIAL                                                                                  </nom_funcao>
+    <cod_subfuncao>244</cod_subfuncao>
+    <nom_subfuncao>ASSISTÊNCIA COMUNITÁRIA</nom_subfuncao>
+    <cod_acao>2147</cod_acao>
+    <nom_acao>MANUTENÇÃO E FUNCIONAMENTO DO CADASTRO UNICO</nom_acao>
+    <cod_programa>032</cod_programa>
+    <nom_programa>VIGILÂNCIA SOCIAL E DEFESA SOCIAL E INSTITUCIONAL</nom_programa>
+    <esfera>SEG</esfera>
+    <vlr_projeto>242500.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>242500.00</vlr_vinculado>
+    <vlr_total>242500.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>7</fk_orgao>
+    <cod_funcao>08</cod_funcao>
+    <nom_funcao>ASSISTÊNCIA SOCIAL                                                                                  </nom_funcao>
+    <cod_subfuncao>122</cod_subfuncao>
+    <nom_subfuncao>ADMINISTRAÇÃO GERAL</nom_subfuncao>
+    <cod_acao>2140</cod_acao>
+    <nom_acao>MANUTENÇÃO E FUNCIONAMENTO DOS SERVIÇOS MUNICIPAIS DE ASSISTÊNCIA SOCIAL</nom_acao>
+    <cod_programa>027</cod_programa>
+    <nom_programa>APRIMORAMENTO DA GESTÃO DA POLITICA DA ASSISTENCIA SOCIAL</nom_programa>
+    <esfera>SEG</esfera>
+    <vlr_projeto>2500.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>2500.00</vlr_vinculado>
+    <vlr_total>2500.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>12</fk_orgao>
+    <cod_funcao>27</cod_funcao>
+    <nom_funcao>DESPORTO E LAZER                                                                                    </nom_funcao>
+    <cod_subfuncao>812</cod_subfuncao>
+    <nom_subfuncao>DESPORTO COMUNITÁRIO</nom_subfuncao>
+    <cod_acao>1028</cod_acao>
+    <nom_acao>CAPACITAÇÃO PARA A ATIVIDADE FÍSICA, RECREAÇÃO E LAZER</nom_acao>
+    <cod_programa>054</cod_programa>
+    <nom_programa>PROGRAMA DE DESENV. DE ATIVIDADES FÍSICAS, RECREAÇÃO E LAZER - AGITA SOBRAL</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>11000.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>11000.00</vlr_vinculado>
+    <vlr_total>11000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>4</fk_orgao>
+    <cod_funcao>04</cod_funcao>
+    <nom_funcao>ADMINISTRAÇÃO                                                                                       </nom_funcao>
+    <cod_subfuncao>122</cod_subfuncao>
+    <nom_subfuncao>ADMINISTRAÇÃO GERAL</nom_subfuncao>
+    <cod_acao>2153</cod_acao>
+    <nom_acao>DESENVOLVER AÇÕES DE SELEÇÃO, APERFEIÇOAMENTO E CAPACITAÇÃO DOS SERVIDORES DA SCS.</nom_acao>
+    <cod_programa>016</cod_programa>
+    <nom_programa>PROGRAMA MUNICIPAL DE SEGURANÇA E CIDADANIA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>15000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>15000.00</vlr_vinculado>
+    <vlr_total>15000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>7</fk_orgao>
+    <cod_funcao>08</cod_funcao>
+    <nom_funcao>ASSISTÊNCIA SOCIAL                                                                                  </nom_funcao>
+    <cod_subfuncao>244</cod_subfuncao>
+    <nom_subfuncao>ASSISTÊNCIA COMUNITÁRIA</nom_subfuncao>
+    <cod_acao>2122</cod_acao>
+    <nom_acao>MANUTENÇÃO DAS UNIDADES PRODUTIVAS DE ALIMENTOS</nom_acao>
+    <cod_programa>031</cod_programa>
+    <nom_programa>SEGURANÇA ALIMENTAR E NUTRICIONAL</nom_programa>
+    <esfera>SEG</esfera>
+    <vlr_projeto>12800.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>12800.00</vlr_vinculado>
+    <vlr_total>12800.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>10</fk_orgao>
+    <cod_funcao>20</cod_funcao>
+    <nom_funcao>AGRICULTURA                                                                                         </nom_funcao>
+    <cod_subfuncao>601</cod_subfuncao>
+    <nom_subfuncao>PROMOÇÃO DA PRODUÇÃO VEGETAL</nom_subfuncao>
+    <cod_acao>1075</cod_acao>
+    <nom_acao>PROMOVER O DESENVOLVIMENTO DA AGRICULTURA FAMILIAR</nom_acao>
+    <cod_programa>043</cod_programa>
+    <nom_programa>PROGRAMA DE DESENVOLVIMENTO DA AGRICULTURA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>79450.00</vlr_vinculado>
+    <vlr_total>79450.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>15</fk_orgao>
+    <cod_funcao>15</cod_funcao>
+    <nom_funcao>URBANISMO                                                                                           </nom_funcao>
+    <cod_subfuncao>451</cod_subfuncao>
+    <nom_subfuncao>INFRA- ESTRUTURA URBANA</nom_subfuncao>
+    <cod_acao>1048</cod_acao>
+    <nom_acao>REGULARIZAÇÃO FUNDIÁRIA</nom_acao>
+    <cod_programa>062</cod_programa>
+    <nom_programa>DESENVOLVIMENTO URBANO</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>11025.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>11025.00</vlr_vinculado>
+    <vlr_total>11025.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>9</fk_orgao>
+    <cod_funcao>11</cod_funcao>
+    <nom_funcao>TRABALHO                                                                                            </nom_funcao>
+    <cod_subfuncao>334</cod_subfuncao>
+    <nom_subfuncao>FOMENTO AO TRABALHO</nom_subfuncao>
+    <cod_acao>2155</cod_acao>
+    <nom_acao>CAPTAÇÃO E REALIZAÇÃO DE EVENTOS DE INCENTIVO AOS NEGÓCIOS</nom_acao>
+    <cod_programa>010</cod_programa>
+    <nom_programa>PRODENE - PROGRAMA DE DESENVOLVIMENTO DE EVENTOS DE NEGOCIOS</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>14000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>14000.00</vlr_vinculado>
+    <vlr_total>14000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>12</fk_orgao>
+    <cod_funcao>27</cod_funcao>
+    <nom_funcao>DESPORTO E LAZER                                                                                    </nom_funcao>
+    <cod_subfuncao>811</cod_subfuncao>
+    <nom_subfuncao>DESPORTO DE RENDIMENTO</nom_subfuncao>
+    <cod_acao>1121</cod_acao>
+    <nom_acao>CAPACITAÇÃO PARA TÉCNICOS E ATLETAS EM ESPORTES</nom_acao>
+    <cod_programa>055</cod_programa>
+    <nom_programa>PROGRAMA DE DESENVOVIMENTO DO ESPORTE</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>5000.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>5000.00</vlr_vinculado>
+    <vlr_total>5000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>12</fk_orgao>
+    <cod_funcao>27</cod_funcao>
+    <nom_funcao>DESPORTO E LAZER                                                                                    </nom_funcao>
+    <cod_subfuncao>812</cod_subfuncao>
+    <nom_subfuncao>DESPORTO COMUNITÁRIO</nom_subfuncao>
+    <cod_acao>1029</cod_acao>
+    <nom_acao>REALIZAÇÃO DE EVENTOS DE ATIVIDADE FÍSICA, RECREAÇÃO E LAZER</nom_acao>
+    <cod_programa>054</cod_programa>
+    <nom_programa>PROGRAMA DE DESENV. DE ATIVIDADES FÍSICAS, RECREAÇÃO E LAZER - AGITA SOBRAL</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>20000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>20000.00</vlr_vinculado>
+    <vlr_total>20000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>6</fk_orgao>
+    <cod_funcao>12</cod_funcao>
+    <nom_funcao>EDUCAÇÃO                                                                                            </nom_funcao>
+    <cod_subfuncao>361</cod_subfuncao>
+    <nom_subfuncao>ENSINO FUNDAMENTAL</nom_subfuncao>
+    <cod_acao>2096</cod_acao>
+    <nom_acao>TRANSPORTE ESCOLAR PARA ALUNOS DO ENSINO FUNDAMENTAL</nom_acao>
+    <cod_programa>020</cod_programa>
+    <nom_programa>PROGRAMA DE MANUTENÇÃO E DESENVOLVIMENTO DO ENSINO FUNDAMENTAL</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>5451123.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>5451123.00</vlr_vinculado>
+    <vlr_total>5451123.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>8</fk_orgao>
+    <cod_funcao>13</cod_funcao>
+    <nom_funcao>CULTURA                                                                                             </nom_funcao>
+    <cod_subfuncao>391</cod_subfuncao>
+    <nom_subfuncao>PATRIMÔNIO HISTÓRICO, ARTÍSTICO E ARQUEOLÓGICO</nom_subfuncao>
+    <cod_acao>2022</cod_acao>
+    <nom_acao>EDUCAÇÃO PATRIMONIAL</nom_acao>
+    <cod_programa>036</cod_programa>
+    <nom_programa>SOBRAL HISTÓRICO E CULTURAL</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>3000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>3000.00</vlr_vinculado>
+    <vlr_total>3000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>10</fk_orgao>
+    <cod_funcao>20</cod_funcao>
+    <nom_funcao>AGRICULTURA                                                                                         </nom_funcao>
+    <cod_subfuncao>602</cod_subfuncao>
+    <nom_subfuncao>PROMOÇÃO DA PRODUÇÃO ANIMAL</nom_subfuncao>
+    <cod_acao>1091</cod_acao>
+    <nom_acao>APOIAR A OVINOCAPRINOCULTURA</nom_acao>
+    <cod_programa>044</cod_programa>
+    <nom_programa>PROGRAMA DE DESENVOLVIMENTO DA PECUÁRIA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>21423.00</vlr_vinculado>
+    <vlr_total>21423.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>10</fk_orgao>
+    <cod_funcao>20</cod_funcao>
+    <nom_funcao>AGRICULTURA                                                                                         </nom_funcao>
+    <cod_subfuncao>601</cod_subfuncao>
+    <nom_subfuncao>PROMOÇÃO DA PRODUÇÃO VEGETAL</nom_subfuncao>
+    <cod_acao>1070</cod_acao>
+    <nom_acao>IMPLANTAR PROJETOS DE PRODUÇÃO DE HORTALIÇAS</nom_acao>
+    <cod_programa>043</cod_programa>
+    <nom_programa>PROGRAMA DE DESENVOLVIMENTO DA AGRICULTURA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>0</vlr_projeto>
+    <vlr_atividade>27871.00</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>27871.00</vlr_vinculado>
+    <vlr_total>27871.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <tb_anoxoviii_loa>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_orgao>4</fk_orgao>
+    <cod_funcao>04</cod_funcao>
+    <nom_funcao>ADMINISTRAÇÃO                                                                                       </nom_funcao>
+    <cod_subfuncao>122</cod_subfuncao>
+    <nom_subfuncao>ADMINISTRAÇÃO GERAL</nom_subfuncao>
+    <cod_acao>2130</cod_acao>
+    <nom_acao>MANUTENÇÃO E FUNCIONAMENTO DA GUARDA CIVIL MUNICIPAL</nom_acao>
+    <cod_programa>016</cod_programa>
+    <nom_programa>PROGRAMA MUNICIPAL DE SEGURANÇA E CIDADANIA</nom_programa>
+    <esfera>FIS</esfera>
+    <vlr_projeto>31000.00</vlr_projeto>
+    <vlr_atividade>0</vlr_atividade>
+    <vlr_ordinario>0</vlr_ordinario>
+    <vlr_vinculado>31000.00</vlr_vinculado>
+    <vlr_total>31000.00</vlr_total>
+  </tb_anoxoviii_loa>
+  <ReportHeader>
+    <linha1>ESTADO DO CEARÁ</linha1>
+    <linha2>GOVERNO MUNICIPAL DE SOBRAL</linha2>
+    <linha3>LEI ORÇAMENTÁRIA ANUAL Nº 1037 DE 04/11/2010</linha3>
+    <linha4>ANEXO VIII - ADENDO VI A PORTARIA SOF Nº 08, DE 04 DE FEVEREIRO DE 1985 (ANEXO VII, DA LEI Nº 4.320/64)</linha4>
+    <rodape>Rodape</rodape>
+  </ReportHeader>
+</NewDataSet>

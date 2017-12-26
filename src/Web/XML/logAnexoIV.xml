@@ -1,0 +1,136 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <TB_PRINCIPAL>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <cod_entidade>0100</cod_entidade>
+    <nom_entidade>te</nom_entidade>
+    <vlr_projeto_lei>131000.00</vlr_projeto_lei>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <cod_entidade>0101</cod_entidade>
+    <nom_entidade>CÂMARA MUNICIPAL</nom_entidade>
+    <vlr_projeto_lei>98.00</vlr_projeto_lei>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <cod_entidade>0201</cod_entidade>
+    <nom_entidade>GABINETE DO PREFEITO</nom_entidade>
+    <vlr_projeto_lei>157937.00</vlr_projeto_lei>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <cod_entidade>0401</cod_entidade>
+    <nom_entidade>SECRETARIA DA CIDADANIA E SEGURANÇA</nom_entidade>
+    <vlr_projeto_lei>291000.00</vlr_projeto_lei>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <cod_entidade>0501</cod_entidade>
+    <nom_entidade>SECRETARIA DA GESTÃO</nom_entidade>
+    <vlr_projeto_lei>280200.00</vlr_projeto_lei>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <cod_entidade>0502</cod_entidade>
+    <nom_entidade>IMPRENSA OFICIAL DO MUNICÍPIO</nom_entidade>
+    <vlr_projeto_lei>11300.00</vlr_projeto_lei>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <cod_entidade>0601</cod_entidade>
+    <nom_entidade>SECRETARIA DA EDUCAÇÃO</nom_entidade>
+    <vlr_projeto_lei>6536324.00</vlr_projeto_lei>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <cod_entidade>0603</cod_entidade>
+    <nom_entidade>FUNDEB - FUNDO DE MANUT. E DESENV. DA EDUCAÇÃO BÁSICA E VALORIZAÇÃO</nom_entidade>
+    <vlr_projeto_lei>1661329.04</vlr_projeto_lei>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <cod_entidade>0701</cod_entidade>
+    <nom_entidade>FUNDO MUNICIPAL DE SAÚDE</nom_entidade>
+    <vlr_projeto_lei>3887000.00</vlr_projeto_lei>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <cod_entidade>0702</cod_entidade>
+    <nom_entidade>FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL</nom_entidade>
+    <vlr_projeto_lei>1390000.00</vlr_projeto_lei>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <cod_entidade>0703</cod_entidade>
+    <nom_entidade>FUNDO MUNICIPAL DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE</nom_entidade>
+    <vlr_projeto_lei>100900.00</vlr_projeto_lei>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <cod_entidade>0801</cod_entidade>
+    <nom_entidade>SECRETARIA DA CULTURA E TURISMO</nom_entidade>
+    <vlr_projeto_lei>258000.00</vlr_projeto_lei>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <cod_entidade>0901</cod_entidade>
+    <nom_entidade>SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</nom_entidade>
+    <vlr_projeto_lei>415055.00</vlr_projeto_lei>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <cod_entidade>1001</cod_entidade>
+    <nom_entidade>SECRETARIA DA AGRICULTURA E PECUÁRIA</nom_entidade>
+    <vlr_projeto_lei>1095538.00</vlr_projeto_lei>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <cod_entidade>1101</cod_entidade>
+    <nom_entidade>SECRETARIA DO PLANEJAMENTO E DESENVOLVIMENTO URBANO E MEIO AMBIENTE</nom_entidade>
+    <vlr_projeto_lei>922000.00</vlr_projeto_lei>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <cod_entidade>1102</cod_entidade>
+    <nom_entidade>AUTARQUIA MUNICIPAL DO MEIO AMBIENTE - AMMA</nom_entidade>
+    <vlr_projeto_lei>4133.00</vlr_projeto_lei>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <cod_entidade>1201</cod_entidade>
+    <nom_entidade>SECRETARIA DO ESPORTE E JUVENTUDE</nom_entidade>
+    <vlr_projeto_lei>246500.00</vlr_projeto_lei>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <cod_entidade>1301</cod_entidade>
+    <nom_entidade>SECRETARIA DA INFRA - ESTRUTURA</nom_entidade>
+    <vlr_projeto_lei>910016.01</vlr_projeto_lei>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <cod_entidade>1401</cod_entidade>
+    <nom_entidade>SECRETARIA DA HABITAÇÃO E SANEAMENTO AMBIENTAL</nom_entidade>
+    <vlr_projeto_lei>1895905.00</vlr_projeto_lei>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <cod_entidade>1501</cod_entidade>
+    <nom_entidade>SECRETARIA DE GOVERNO</nom_entidade>
+    <vlr_projeto_lei>134200.00</vlr_projeto_lei>
+  </TB_PRINCIPAL>
+  <TB_PRINCIPAL>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <cod_entidade>1601</cod_entidade>
+    <nom_entidade>GABINETE DO VICE-PREFEITO</nom_entidade>
+    <vlr_projeto_lei>23000.00</vlr_projeto_lei>
+  </TB_PRINCIPAL>
+  <ReportHeader>
+    <linha1>ESTADO DO CEARÁ</linha1>
+    <linha2>GOVERNO MUNICIPAL DE SOBRAL</linha2>
+    <linha3>LEI ORÇAMENTÁRIA ANUAL Nº 1037 DE 04/11/2010</linha3>
+    <linha4>ANEXO IV - DEMONSTRATIVO DA DESPESA POR UNIDADE ORÇAMENTÁRIA</linha4>
+    <rodape>Rodape</rodape>
+  </ReportHeader>
+</NewDataSet>

@@ -1,0 +1,5077 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>37</fk_entidade>
+    <fk_programa>132</fk_programa>
+    <fk_acao>44</fk_acao>
+    <fk_projeto_lei>250</fk_projeto_lei>
+    <orgao>1400.SECRETARIA DA HABITAÇÃO E SANEAMENTO AMBIENTAL</orgao>
+    <entidade>1401.SECRETARIA DA HABITAÇÃO E SANEAMENTO AMBIENTAL</entidade>
+    <programa>062.DESENVOLVIMENTO URBANO</programa>
+    <acao>1049.PLANO MUNICIPAL DE HABITAÇÃO E SISTEMA DE INDICADORES HABITACIONAI</acao>
+    <funcao>15.URBANISMO</funcao>
+    <subfuncao>451.INFRA- ESTRUTURA URBANA</subfuncao>
+    <vlr_ano1>10102.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>37</fk_entidade>
+    <fk_programa>133</fk_programa>
+    <fk_acao>39</fk_acao>
+    <fk_projeto_lei>203</fk_projeto_lei>
+    <orgao>1400.SECRETARIA DA HABITAÇÃO E SANEAMENTO AMBIENTAL</orgao>
+    <entidade>1401.SECRETARIA DA HABITAÇÃO E SANEAMENTO AMBIENTAL</entidade>
+    <programa>063.PROGRAMA HABITACIONAL</programa>
+    <acao>1044.RECONSTRUÇÃO E MELHORIAS  HABITACIONAIS - ÁREA URBANA</acao>
+    <funcao>16.HABITAÇÃO</funcao>
+    <subfuncao>482.HABITAÇÃO URBANA</subfuncao>
+    <vlr_ano1>21025.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>21</fk_entidade>
+    <fk_programa>73</fk_programa>
+    <fk_acao>110</fk_acao>
+    <fk_projeto_lei>192</fk_projeto_lei>
+    <orgao>0400.SECRETARIA DA CIDADANIA E SEGURANÇA</orgao>
+    <entidade>0401.SECRETARIA DA CIDADANIA E SEGURANÇA</entidade>
+    <programa>016.PROGRAMA MUNICIPAL DE SEGURANÇA E CIDADANIA</programa>
+    <acao>1119.EXPANSÃO E MODERNIZAÇÃO DAS AÇÕES DA GUARDA CIVIL MUNICIPAL DE SOBRAL</acao>
+    <funcao>04.ADMINISTRAÇÃO</funcao>
+    <subfuncao>122.ADMINISTRAÇÃO GERAL</subfuncao>
+    <vlr_ano1>10000.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>37</fk_entidade>
+    <fk_programa>131</fk_programa>
+    <fk_acao>168</fk_acao>
+    <fk_projeto_lei>287</fk_projeto_lei>
+    <orgao>1400.SECRETARIA DA HABITAÇÃO E SANEAMENTO AMBIENTAL</orgao>
+    <entidade>1401.SECRETARIA DA HABITAÇÃO E SANEAMENTO AMBIENTAL</entidade>
+    <programa>061.COORDENAÇÃO GERAL E FUNCIONAMENTO ADMINISTRATIVO - SEHABS</programa>
+    <acao>2056.MANUTENÇÃO E FUNCIONAMENTO ADMINISTRATIVO</acao>
+    <funcao>04.ADMINISTRAÇÃO</funcao>
+    <subfuncao>122.ADMINISTRAÇÃO GERAL</subfuncao>
+    <vlr_ano1>241500.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>41</fk_entidade>
+    <fk_programa>10</fk_programa>
+    <fk_acao>272</fk_acao>
+    <fk_projeto_lei>63</fk_projeto_lei>
+    <orgao>0600.SECRETARIA DA EDUCAÇÃO</orgao>
+    <entidade>0603.FUNDEB - FUNDO DE MANUT. E DESENV. DA EDUCAÇÃO BÁSICA E VALORIZAÇÃO</entidade>
+    <programa>002.PROGRAMA DE FORTALECIMENTO DA AÇÃO PEDAGÓGICA E GESTÃO ESCOLAR - FUNDEB  EI</programa>
+    <acao>2094.MANUTENÇÃO E FORTALECIMENTO DA AÇÃO PEDAGÓGICA E GESTÃO ESCOLAR - FUNDEB 40% EI</acao>
+    <funcao>12.EDUCAÇÃO</funcao>
+    <subfuncao>365.EDUCAÇÃO INFANTIL</subfuncao>
+    <vlr_ano1>182290.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>25</fk_entidade>
+    <fk_programa>81</fk_programa>
+    <fk_acao>200</fk_acao>
+    <fk_projeto_lei>56</fk_projeto_lei>
+    <orgao>0600.SECRETARIA DA EDUCAÇÃO</orgao>
+    <entidade>0601.SECRETARIA DA EDUCAÇÃO</entidade>
+    <programa>020.PROGRAMA DE MANUTENÇÃO E DESENVOLVIMENTO DO ENSINO FUNDAMENTAL</programa>
+    <acao>2090.MANUTENÇÃO DA COORDENAÇÃO GERAL</acao>
+    <funcao>12.EDUCAÇÃO</funcao>
+    <subfuncao>361.ENSINO FUNDAMENTAL</subfuncao>
+    <vlr_ano1>189832.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>34</fk_entidade>
+    <fk_programa>122</fk_programa>
+    <fk_acao>343</fk_acao>
+    <fk_projeto_lei>198</fk_projeto_lei>
+    <orgao>1200.SECRETARIA DO ESPORTE E JUVENTUDE</orgao>
+    <entidade>1201.SECRETARIA DO ESPORTE E JUVENTUDE</entidade>
+    <programa>053.PROGRAMA DE DESENVOLVIMENTO DA JUVENTUDE - JOVEM CIDADÃO</programa>
+    <acao>1122.CAPACITAÇÃO PARA JUVENTUDE</acao>
+    <funcao>27.DESPORTO E LAZER</funcao>
+    <subfuncao>812.DESPORTO COMUNITÁRIO</subfuncao>
+    <vlr_ano1>5000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>29</fk_entidade>
+    <fk_programa>109</fk_programa>
+    <fk_acao>58</fk_acao>
+    <fk_projeto_lei>12</fk_projeto_lei>
+    <orgao>0900.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</orgao>
+    <entidade>0901.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</entidade>
+    <programa>041.TRABALHO PLENO</programa>
+    <acao>2089.CAPACITAÇÃO DE MICRO E PEQUENOS EMPREENDEDORES EM GESTÃO EMPRESARIAL E TECNOLÓGICA</acao>
+    <funcao>11.TRABALHO</funcao>
+    <subfuncao>334.FOMENTO AO TRABALHO</subfuncao>
+    <vlr_ano1>51000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>37</fk_entidade>
+    <fk_programa>129</fk_programa>
+    <fk_acao>50</fk_acao>
+    <fk_projeto_lei>283</fk_projeto_lei>
+    <orgao>1400.SECRETARIA DA HABITAÇÃO E SANEAMENTO AMBIENTAL</orgao>
+    <entidade>1401.SECRETARIA DA HABITAÇÃO E SANEAMENTO AMBIENTAL</entidade>
+    <programa>059.SANEAMENTO E GESTÃO AMBIENTAL</programa>
+    <acao>1056.IMPLANTAÇÃO DA USINA DE TRIAGEM DE MATERIAL RECICLADO</acao>
+    <funcao>18.GESTÃO AMBIENTAL</funcao>
+    <subfuncao>541.PRESERVAÇÃO E CONSERVAÇÃO AMBIENTAL</subfuncao>
+    <vlr_ano1>24254.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>30</fk_entidade>
+    <fk_programa>112</fk_programa>
+    <fk_acao>63</fk_acao>
+    <fk_projeto_lei>207</fk_projeto_lei>
+    <orgao>1000.SECRETARIA DA AGRICULTURA E PECUÁRIA</orgao>
+    <entidade>1001.SECRETARIA DA AGRICULTURA E PECUÁRIA</entidade>
+    <programa>043.PROGRAMA DE DESENVOLVIMENTO DA AGRICULTURA</programa>
+    <acao>1069.ASSISTÊNCIA TÉCNICA A PRODUTORES</acao>
+    <funcao>20.AGRICULTURA</funcao>
+    <subfuncao>601.PROMOÇÃO DA PRODUÇÃO VEGETAL</subfuncao>
+    <vlr_ano1>38142.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>23</fk_entidade>
+    <fk_programa>77</fk_programa>
+    <fk_acao>116</fk_acao>
+    <fk_projeto_lei>38</fk_projeto_lei>
+    <orgao>0500.SECRETARIA DA GESTÃO</orgao>
+    <entidade>0501.SECRETARIA DA GESTÃO</entidade>
+    <programa>018.COORDENAÇÃO GERAL E FUNCIONAMENTO ADMINISTRATIVO - SEC GESTÃO</programa>
+    <acao>2003.MANUTENÇÃO E FUNCIONAMENTO ADMINISTRATIVO - SEC GESTÃO</acao>
+    <funcao>04.ADMINISTRAÇÃO</funcao>
+    <subfuncao>122.ADMINISTRAÇÃO GERAL</subfuncao>
+    <vlr_ano1>252800.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>27</fk_entidade>
+    <fk_programa>96</fk_programa>
+    <fk_acao>360</fk_acao>
+    <fk_projeto_lei>245</fk_projeto_lei>
+    <orgao>0700.SECRETARIA DA SAÚDE E AÇÃO SOCIAL</orgao>
+    <entidade>0702.FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL</entidade>
+    <programa>030.PROTEÇÃO SOCIAL ESPECIAL</programa>
+    <acao>2134.MANUTENÇÃO DO ATENDIMENTO ESPECIALIZADO ÀS FAMILIAS E SEUS MEMBROS</acao>
+    <funcao>08.ASSISTÊNCIA SOCIAL</funcao>
+    <subfuncao>244.ASSISTÊNCIA COMUNITÁRIA</subfuncao>
+    <vlr_ano1>208000.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>29</fk_entidade>
+    <fk_programa>19</fk_programa>
+    <fk_acao>387</fk_acao>
+    <fk_projeto_lei>221</fk_projeto_lei>
+    <orgao>0900.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</orgao>
+    <entidade>0901.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</entidade>
+    <programa>010.PRODENE - PROGRAMA DE DESENVOLVIMENTO DE EVENTOS DE NEGOCIOS</programa>
+    <acao>2055.MANUTENÇÃO E DIVULGAÇÃO DO PRODENE</acao>
+    <funcao>11.TRABALHO</funcao>
+    <subfuncao>334.FOMENTO AO TRABALHO</subfuncao>
+    <vlr_ano1>3000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>29</fk_entidade>
+    <fk_programa>108</fk_programa>
+    <fk_acao>313</fk_acao>
+    <fk_projeto_lei>114</fk_projeto_lei>
+    <orgao>0900.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</orgao>
+    <entidade>0901.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</entidade>
+    <programa>040.PROGRAMA DE DESENVOLVIMENTO TECNOLÓGICO - PRODETEC</programa>
+    <acao>22222.APOIO A IMPLANTAÇÃO DO PARQUE TECNOLÓGICO</acao>
+    <funcao>19.CIÊNCIA E TECNOLOGIA</funcao>
+    <subfuncao>573.DIFUSÃO DO CONHECIMENTO CIENTÍFICO E TECNOLÓGICO</subfuncao>
+    <vlr_ano1>2000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>35</fk_entidade>
+    <fk_programa>125</fk_programa>
+    <fk_acao>13</fk_acao>
+    <fk_projeto_lei>139</fk_projeto_lei>
+    <orgao>1300.SECRETARIA  DA INFRA - ESTRUTURA</orgao>
+    <entidade>1301.SECRETARIA DA INFRA - ESTRUTURA</entidade>
+    <programa>056.INFRA-ESTRUTURA BÁSICA</programa>
+    <acao>1013.CONSTRUÇÃO DE AVENIDAS E RUAS</acao>
+    <funcao>15.URBANISMO</funcao>
+    <subfuncao>451.INFRA- ESTRUTURA URBANA</subfuncao>
+    <vlr_ano1>12840.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>31</fk_entidade>
+    <fk_programa>119</fk_programa>
+    <fk_acao>336</fk_acao>
+    <fk_projeto_lei>123</fk_projeto_lei>
+    <orgao>1100.SECRETARIA DO PLANEJAMENTO E DESENVOLVIMENTO URBANO E MEIO AMBIENTE</orgao>
+    <entidade>1101.SECRETARIA DO PLANEJAMENTO E DESENVOLVIMENTO URBANO E MEIO AMBIENTE</entidade>
+    <programa>050.INFRA-ESTRUTURA BÁSICA URBANA</programa>
+    <acao>2000.MANUTENÇÃO DA INFRA-ESTRUTURA URBANA DE TRANSPORTES.</acao>
+    <funcao>15.URBANISMO</funcao>
+    <subfuncao>453.TRANSPORTES COLETIVOS URBANOS</subfuncao>
+    <vlr_ano1>52000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>27</fk_entidade>
+    <fk_programa>97</fk_programa>
+    <fk_acao>229</fk_acao>
+    <fk_projeto_lei>259</fk_projeto_lei>
+    <orgao>0700.SECRETARIA DA SAÚDE E AÇÃO SOCIAL</orgao>
+    <entidade>0702.FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL</entidade>
+    <programa>031.SEGURANÇA ALIMENTAR E NUTRICIONAL</programa>
+    <acao>2122.MANUTENÇÃO DAS UNIDADES PRODUTIVAS DE ALIMENTOS</acao>
+    <funcao>08.ASSISTÊNCIA SOCIAL</funcao>
+    <subfuncao>244.ASSISTÊNCIA COMUNITÁRIA</subfuncao>
+    <vlr_ano1>12800.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>37</fk_entidade>
+    <fk_programa>129</fk_programa>
+    <fk_acao>175</fk_acao>
+    <fk_projeto_lei>284</fk_projeto_lei>
+    <orgao>1400.SECRETARIA DA HABITAÇÃO E SANEAMENTO AMBIENTAL</orgao>
+    <entidade>1401.SECRETARIA DA HABITAÇÃO E SANEAMENTO AMBIENTAL</entidade>
+    <programa>059.SANEAMENTO E GESTÃO AMBIENTAL</programa>
+    <acao>2063.MELHORIA DA LIMPEZA PÚBLICA</acao>
+    <funcao>15.URBANISMO</funcao>
+    <subfuncao>452.SERVIÇOS URBANOS</subfuncao>
+    <vlr_ano1>1309324.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>29</fk_entidade>
+    <fk_programa>110</fk_programa>
+    <fk_acao>54</fk_acao>
+    <fk_projeto_lei>104</fk_projeto_lei>
+    <orgao>0900.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</orgao>
+    <entidade>0901.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</entidade>
+    <programa>042.PRODECON - PROGRAMA DE DESENVOLVIMENTO ECONÔMICO</programa>
+    <acao>1060.APOIO A IMPLANTAÇÃO DE UNIDADES PRODUTIVAS</acao>
+    <funcao>22.INDÚSTRIA</funcao>
+    <subfuncao>661.PROMOÇÃO INDUSTRIAL</subfuncao>
+    <vlr_ano1>33255.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>35</fk_entidade>
+    <fk_programa>127</fk_programa>
+    <fk_acao>138</fk_acao>
+    <fk_projeto_lei>146</fk_projeto_lei>
+    <orgao>1300.SECRETARIA  DA INFRA - ESTRUTURA</orgao>
+    <entidade>1301.SECRETARIA DA INFRA - ESTRUTURA</entidade>
+    <programa>058.INFRA-ESTRUTURA DE RECURSOS HÍDRICOS</programa>
+    <acao>2025.RECUPERAÇÃO, MANUTENÇÃO DA INFRA-ESTRUTURA HÍDRICA</acao>
+    <funcao>18.GESTÃO AMBIENTAL</funcao>
+    <subfuncao>544.RECURSOS HÍDRICOS</subfuncao>
+    <vlr_ano1>11107.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>27</fk_entidade>
+    <fk_programa>95</fk_programa>
+    <fk_acao>238</fk_acao>
+    <fk_projeto_lei>256</fk_projeto_lei>
+    <orgao>0700.SECRETARIA DA SAÚDE E AÇÃO SOCIAL</orgao>
+    <entidade>0702.FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL</entidade>
+    <programa>029.PROTEÇÃO SOCIAL BÁSICA</programa>
+    <acao>2131.MANUTENÇÃO D0 ATENDIMENTO CONTINUADO À PESSOA IDOSA</acao>
+    <funcao>08.ASSISTÊNCIA SOCIAL</funcao>
+    <subfuncao>241.ASSITÊNCIA AO IDOSO</subfuncao>
+    <vlr_ano1>40000.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>37</fk_entidade>
+    <fk_programa>130</fk_programa>
+    <fk_acao>47</fk_acao>
+    <fk_projeto_lei>278</fk_projeto_lei>
+    <orgao>1400.SECRETARIA DA HABITAÇÃO E SANEAMENTO AMBIENTAL</orgao>
+    <entidade>1401.SECRETARIA DA HABITAÇÃO E SANEAMENTO AMBIENTAL</entidade>
+    <programa>060.SANEAMENTO BÁSICO</programa>
+    <acao>1052.ESGOTAMENTO SANITÁRIO - SEDE DO MUNICÍPIO</acao>
+    <funcao>17.SANEAMENTO</funcao>
+    <subfuncao>512.SANEAMENTO BÁSICO URBANO</subfuncao>
+    <vlr_ano1>101500.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>30</fk_entidade>
+    <fk_programa>113</fk_programa>
+    <fk_acao>81</fk_acao>
+    <fk_projeto_lei>271</fk_projeto_lei>
+    <orgao>1000.SECRETARIA DA AGRICULTURA E PECUÁRIA</orgao>
+    <entidade>1001.SECRETARIA DA AGRICULTURA E PECUÁRIA</entidade>
+    <programa>044.PROGRAMA DE DESENVOLVIMENTO DA PECUÁRIA</programa>
+    <acao>1087.APOIAR A ESTRUTIOCULTURA</acao>
+    <funcao>20.AGRICULTURA</funcao>
+    <subfuncao>602.PROMOÇÃO DA PRODUÇÃO ANIMAL</subfuncao>
+    <vlr_ano1>32952.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>19</fk_entidade>
+    <fk_programa>71</fk_programa>
+    <fk_acao>157</fk_acao>
+    <fk_projeto_lei>78</fk_projeto_lei>
+    <orgao>0200.GABINETE DO PREFEITO</orgao>
+    <entidade>0201.GABINETE DO PREFEITO</entidade>
+    <programa>014.COORDENAÇÃO GERAL E FUNCIONAMENTO ADMINISTRATIVO - GAB PREFEITO</programa>
+    <acao>2044.MANUTENÇÃO DO ESCRITÓRIO DE FORTALEZA</acao>
+    <funcao>04.ADMINISTRAÇÃO</funcao>
+    <subfuncao>122.ADMINISTRAÇÃO GERAL</subfuncao>
+    <vlr_ano1>21480.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>27</fk_entidade>
+    <fk_programa>92</fk_programa>
+    <fk_acao>430</fk_acao>
+    <fk_projeto_lei>293</fk_projeto_lei>
+    <orgao>0700.SECRETARIA DA SAÚDE E AÇÃO SOCIAL</orgao>
+    <entidade>0702.FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL</entidade>
+    <programa>027.APRIMORAMENTO DA GESTÃO DA POLITICA DA ASSISTENCIA SOCIAL</programa>
+    <acao>2126.MANUTENÇÃO AO ACESSO AOS BENEFÍCIOS EVENTUAIS</acao>
+    <funcao>08.ASSISTÊNCIA SOCIAL</funcao>
+    <subfuncao>244.ASSISTÊNCIA COMUNITÁRIA</subfuncao>
+    <vlr_ano1>3000.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>21</fk_entidade>
+    <fk_programa>73</fk_programa>
+    <fk_acao>327</fk_acao>
+    <fk_projeto_lei>191</fk_projeto_lei>
+    <orgao>0400.SECRETARIA DA CIDADANIA E SEGURANÇA</orgao>
+    <entidade>0401.SECRETARIA DA CIDADANIA E SEGURANÇA</entidade>
+    <programa>016.PROGRAMA MUNICIPAL DE SEGURANÇA E CIDADANIA</programa>
+    <acao>2153.DESENVOLVER AÇÕES DE SELEÇÃO, APERFEIÇOAMENTO E CAPACITAÇÃO DOS SERVIDORES DA SCS.</acao>
+    <funcao>04.ADMINISTRAÇÃO</funcao>
+    <subfuncao>122.ADMINISTRAÇÃO GERAL</subfuncao>
+    <vlr_ano1>15000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>18</fk_entidade>
+    <fk_programa>70</fk_programa>
+    <fk_acao>183</fk_acao>
+    <fk_projeto_lei>17</fk_projeto_lei>
+    <orgao>0100.CÂMARA MUNICIPAL</orgao>
+    <entidade>0101.CÂMARA MUNICIPAL</entidade>
+    <programa>013.AÇÃO LEGISLATIVA E CONTRÔLE EXTERNO</programa>
+    <acao>2071.COORDENAÇÃO GERAL E FUNCIONAMENTO DA CAMARA MUNICIPAL</acao>
+    <funcao>01.LEGISLATIVA</funcao>
+    <subfuncao>031.AÇÃO LEGISLATIVA</subfuncao>
+    <vlr_ano1>98.00</vlr_ano1>
+    <vlr_ano2>8.00</vlr_ano2>
+    <vlr_ano3>8.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>28</fk_entidade>
+    <fk_programa>104</fk_programa>
+    <fk_acao>128</fk_acao>
+    <fk_projeto_lei>169</fk_projeto_lei>
+    <orgao>0800.SECRETARIA DA CULTURA E TURISMO</orgao>
+    <entidade>0801.SECRETARIA DA CULTURA E TURISMO</entidade>
+    <programa>037.MANIFESTAÇÕES ARTISTICAS E CULTURAIS</programa>
+    <acao>2015.APOIO A CRIAÇÃO, PRODUÇÃO E DIFUSÃO DAS MANIFESTAÇÕES CULTURAIS</acao>
+    <funcao>13.CULTURA</funcao>
+    <subfuncao>392.DIFUSÃO CULTURAL</subfuncao>
+    <vlr_ano1>111000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>29</fk_entidade>
+    <fk_programa>108</fk_programa>
+    <fk_acao>428</fk_acao>
+    <fk_projeto_lei>300</fk_projeto_lei>
+    <orgao>0900.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</orgao>
+    <entidade>0901.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</entidade>
+    <programa>040.PROGRAMA DE DESENVOLVIMENTO TECNOLÓGICO - PRODETEC</programa>
+    <acao>2125.MANUTENÇÃO E MODERNIZAÇÃO DO CENTRO DE RECONDICIONAMENTO DE COMPUTADORES - CRC E TELECENTROS</acao>
+    <funcao>19.CIÊNCIA E TECNOLOGIA</funcao>
+    <subfuncao>573.DIFUSÃO DO CONHECIMENTO CIENTÍFICO E TECNOLÓGICO</subfuncao>
+    <vlr_ano1>4000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>35</fk_entidade>
+    <fk_programa>126</fk_programa>
+    <fk_acao>349</fk_acao>
+    <fk_projeto_lei>133</fk_projeto_lei>
+    <orgao>1300.SECRETARIA  DA INFRA - ESTRUTURA</orgao>
+    <entidade>1301.SECRETARIA DA INFRA - ESTRUTURA</entidade>
+    <programa>057.COORDENAÇÃO E FUNCIONAMENTO ADMINISTRATIVO - SEINFRA</programa>
+    <acao>2151.MANUTENÇÃO E MODERNIZAÇÃO DA USINA DE ASFALTO</acao>
+    <funcao>15.URBANISMO</funcao>
+    <subfuncao>451.INFRA- ESTRUTURA URBANA</subfuncao>
+    <vlr_ano1>40554.54</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>25</fk_entidade>
+    <fk_programa>9</fk_programa>
+    <fk_acao>271</fk_acao>
+    <fk_projeto_lei>62</fk_projeto_lei>
+    <orgao>0600.SECRETARIA DA EDUCAÇÃO</orgao>
+    <entidade>0601.SECRETARIA DA EDUCAÇÃO</entidade>
+    <programa>001.PROGRAMA DE FORTALECIMENTO DA AÇÃO PEDAGÓGICA E GESTÃO ESCOLAR</programa>
+    <acao>2093.MANUTENÇÃO E FORTALECIMENTO DA AÇÃO PEDAGÓGICA E GESTÃO ESCOLAR</acao>
+    <funcao>12.EDUCAÇÃO</funcao>
+    <subfuncao>361.ENSINO FUNDAMENTAL</subfuncao>
+    <vlr_ano1>101123.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>41</fk_entidade>
+    <fk_programa>11</fk_programa>
+    <fk_acao>277</fk_acao>
+    <fk_projeto_lei>69</fk_projeto_lei>
+    <orgao>0600.SECRETARIA DA EDUCAÇÃO</orgao>
+    <entidade>0603.FUNDEB - FUNDO DE MANUT. E DESENV. DA EDUCAÇÃO BÁSICA E VALORIZAÇÃO</entidade>
+    <programa>003.PROGRAMA DE MANUTENCAO E DESENVOLVIMENTO DO ENSINO FUNDAMENTAL - FUNDEB</programa>
+    <acao>2109.TRANSPORTE ESCOLA PARA ALUNOS DO ENSINO FUNDAMENTAL - FUNDEB 40% EF</acao>
+    <funcao>12.EDUCAÇÃO</funcao>
+    <subfuncao>361.ENSINO FUNDAMENTAL</subfuncao>
+    <vlr_ano1>503764.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>37</fk_entidade>
+    <fk_programa>129</fk_programa>
+    <fk_acao>178</fk_acao>
+    <fk_projeto_lei>285</fk_projeto_lei>
+    <orgao>1400.SECRETARIA DA HABITAÇÃO E SANEAMENTO AMBIENTAL</orgao>
+    <entidade>1401.SECRETARIA DA HABITAÇÃO E SANEAMENTO AMBIENTAL</entidade>
+    <programa>059.SANEAMENTO E GESTÃO AMBIENTAL</programa>
+    <acao>2066.MANUTENÇÃO E MELHORIAS DOS EQUIPAMENTOS DE LIMPEZA URBANA</acao>
+    <funcao>15.URBANISMO</funcao>
+    <subfuncao>452.SERVIÇOS URBANOS</subfuncao>
+    <vlr_ano1>24254.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>21</fk_entidade>
+    <fk_programa>73</fk_programa>
+    <fk_acao>376</fk_acao>
+    <fk_projeto_lei>193</fk_projeto_lei>
+    <orgao>0400.SECRETARIA DA CIDADANIA E SEGURANÇA</orgao>
+    <entidade>0401.SECRETARIA DA CIDADANIA E SEGURANÇA</entidade>
+    <programa>016.PROGRAMA MUNICIPAL DE SEGURANÇA E CIDADANIA</programa>
+    <acao>2108.MANUTENÇÃO E FUNCIONAMENTO DA GUARDA MIRIM</acao>
+    <funcao>04.ADMINISTRAÇÃO</funcao>
+    <subfuncao>122.ADMINISTRAÇÃO GERAL</subfuncao>
+    <vlr_ano1>14000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>29</fk_entidade>
+    <fk_programa>107</fk_programa>
+    <fk_acao>179</fk_acao>
+    <fk_projeto_lei>96</fk_projeto_lei>
+    <orgao>0900.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</orgao>
+    <entidade>0901.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</entidade>
+    <programa>039.COORDENAÇÃO GERAL E FUNCIONAMENTO ADMINISTRATIVO - STDE</programa>
+    <acao>2067.MANUTENÇÃO E FUNCIONAMENTO ADMINISTRATIVO</acao>
+    <funcao>04.ADMINISTRAÇÃO</funcao>
+    <subfuncao>122.ADMINISTRAÇÃO GERAL</subfuncao>
+    <vlr_ano1>96000.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>27</fk_entidade>
+    <fk_programa>96</fk_programa>
+    <fk_acao>351</fk_acao>
+    <fk_projeto_lei>180</fk_projeto_lei>
+    <orgao>0700.SECRETARIA DA SAÚDE E AÇÃO SOCIAL</orgao>
+    <entidade>0702.FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL</entidade>
+    <programa>030.PROTEÇÃO SOCIAL ESPECIAL</programa>
+    <acao>2159.MANUTENÇAO DOS SERVIÇOS DE PROTEÇÃO SOCIAL ESPECIAL À FAMÍLIA</acao>
+    <funcao>08.ASSISTÊNCIA SOCIAL</funcao>
+    <subfuncao>244.ASSISTÊNCIA COMUNITÁRIA</subfuncao>
+    <vlr_ano1>32000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>26</fk_entidade>
+    <fk_programa>87</fk_programa>
+    <fk_acao>125</fk_acao>
+    <fk_projeto_lei>235</fk_projeto_lei>
+    <orgao>0700.SECRETARIA DA SAÚDE E AÇÃO SOCIAL</orgao>
+    <entidade>0701.FUNDO MUNICIPAL DE SAÚDE</entidade>
+    <programa>025.GESTÃO PLENA DO SISTEMA MUNICIPAL DE SAÚDE</programa>
+    <acao>2012.VIGILÂNCIA SANITÁRIA, À SAÚDE, NUTRICIONAL E AMBIENTAL</acao>
+    <funcao>10.SAÚDE</funcao>
+    <subfuncao>304.VIGILÂNCIA SANITÁRIA</subfuncao>
+    <vlr_ano1>100000.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>27</fk_entidade>
+    <fk_programa>95</fk_programa>
+    <fk_acao>113</fk_acao>
+    <fk_projeto_lei>179</fk_projeto_lei>
+    <orgao>0700.SECRETARIA DA SAÚDE E AÇÃO SOCIAL</orgao>
+    <entidade>0702.FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL</entidade>
+    <programa>029.PROTEÇÃO SOCIAL BÁSICA</programa>
+    <acao>2050.MANUTENCAO DOS SERVICOS CONTINUADOS DE ATENCAO A FAMILIA - CRAS</acao>
+    <funcao>08.ASSISTÊNCIA SOCIAL</funcao>
+    <subfuncao>244.ASSISTÊNCIA COMUNITÁRIA</subfuncao>
+    <vlr_ano1>167000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>31</fk_entidade>
+    <fk_programa>117</fk_programa>
+    <fk_acao>350</fk_acao>
+    <fk_projeto_lei>151</fk_projeto_lei>
+    <orgao>1100.SECRETARIA DO PLANEJAMENTO E DESENVOLVIMENTO URBANO E MEIO AMBIENTE</orgao>
+    <entidade>1101.SECRETARIA DO PLANEJAMENTO E DESENVOLVIMENTO URBANO E MEIO AMBIENTE</entidade>
+    <programa>048.GESTÃO DE POLÍTICAS DE MEIO AMBIENTE</programa>
+    <acao>1131.EDUCAÇÃO AMBIENTAL E RECICLAGEM</acao>
+    <funcao>18.GESTÃO AMBIENTAL</funcao>
+    <subfuncao>541.PRESERVAÇÃO E CONSERVAÇÃO AMBIENTAL</subfuncao>
+    <vlr_ano1>70000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>27</fk_entidade>
+    <fk_programa>92</fk_programa>
+    <fk_acao>432</fk_acao>
+    <fk_projeto_lei>295</fk_projeto_lei>
+    <orgao>0700.SECRETARIA DA SAÚDE E AÇÃO SOCIAL</orgao>
+    <entidade>0702.FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL</entidade>
+    <programa>027.APRIMORAMENTO DA GESTÃO DA POLITICA DA ASSISTENCIA SOCIAL</programa>
+    <acao>2128.MANUTENÇÃO E FUNCIONAMENTO DO CONSELHO TUTELAR</acao>
+    <funcao>08.ASSISTÊNCIA SOCIAL</funcao>
+    <subfuncao>243.ASSISTÊNCIA À CRIANÇA E AO ADOLESCENTE</subfuncao>
+    <vlr_ano1>3000.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>36</fk_entidade>
+    <fk_programa>94</fk_programa>
+    <fk_acao>406</fk_acao>
+    <fk_projeto_lei>249</fk_projeto_lei>
+    <orgao>0700.SECRETARIA DA SAÚDE E AÇÃO SOCIAL</orgao>
+    <entidade>0703.FUNDO MUNICIPAL DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE</entidade>
+    <programa>028.PROTEÇÃO SOCIAL DA CRIANÇA E ADOLESCENTE</programa>
+    <acao>2123.PROTEÇÃO INTEGRAL E DEFESA DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE</acao>
+    <funcao>08.ASSISTÊNCIA SOCIAL</funcao>
+    <subfuncao>243.ASSISTÊNCIA À CRIANÇA E AO ADOLESCENTE</subfuncao>
+    <vlr_ano1>80900.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>29</fk_entidade>
+    <fk_programa>109</fk_programa>
+    <fk_acao>59</fk_acao>
+    <fk_projeto_lei>10</fk_projeto_lei>
+    <orgao>0900.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</orgao>
+    <entidade>0901.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</entidade>
+    <programa>041.TRABALHO PLENO</programa>
+    <acao>1031.APOIO A IMPLANTAÇÃO DA CENTRAL DE ARTESANATO</acao>
+    <funcao>11.TRABALHO</funcao>
+    <subfuncao>334.FOMENTO AO TRABALHO</subfuncao>
+    <vlr_ano1>5000.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>30</fk_entidade>
+    <fk_programa>113</fk_programa>
+    <fk_acao>88</fk_acao>
+    <fk_projeto_lei>268</fk_projeto_lei>
+    <orgao>1000.SECRETARIA DA AGRICULTURA E PECUÁRIA</orgao>
+    <entidade>1001.SECRETARIA DA AGRICULTURA E PECUÁRIA</entidade>
+    <programa>044.PROGRAMA DE DESENVOLVIMENTO DA PECUÁRIA</programa>
+    <acao>1094.DISPONIBILIZAR REPRODUTORES CAPRINOS PARA MELHORAMENTO GENÉTICO</acao>
+    <funcao>20.AGRICULTURA</funcao>
+    <subfuncao>602.PROMOÇÃO DA PRODUÇÃO ANIMAL</subfuncao>
+    <vlr_ano1>21421.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>29</fk_entidade>
+    <fk_programa>109</fk_programa>
+    <fk_acao>61</fk_acao>
+    <fk_projeto_lei>13</fk_projeto_lei>
+    <orgao>0900.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</orgao>
+    <entidade>0901.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</entidade>
+    <programa>041.TRABALHO PLENO</programa>
+    <acao>1067.APOIO A REALIZAÇÃO DE MISSÕES EMPRESARIAIS</acao>
+    <funcao>11.TRABALHO</funcao>
+    <subfuncao>334.FOMENTO AO TRABALHO</subfuncao>
+    <vlr_ano1>10000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>33</fk_entidade>
+    <fk_programa>116</fk_programa>
+    <fk_acao>161</fk_acao>
+    <fk_projeto_lei>157</fk_projeto_lei>
+    <orgao>1100.SECRETARIA DO PLANEJAMENTO E DESENVOLVIMENTO URBANO E MEIO AMBIENTE</orgao>
+    <entidade>1102.AUTARQUIA MUNICIPAL DO MEIO AMBIENTE - AMMA</entidade>
+    <programa>047.COORDENAÇÃO E MANUTENÇÃO GERAL DA AMMA</programa>
+    <acao>2048.MANUTENÇÃO E FUNCIONAMENTO ADMINISTRATIVO DA AMMA</acao>
+    <funcao>04.ADMINISTRAÇÃO</funcao>
+    <subfuncao>122.ADMINISTRAÇÃO GERAL</subfuncao>
+    <vlr_ano1>4133.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>31</fk_entidade>
+    <fk_programa>119</fk_programa>
+    <fk_acao>338</fk_acao>
+    <fk_projeto_lei>122</fk_projeto_lei>
+    <orgao>1100.SECRETARIA DO PLANEJAMENTO E DESENVOLVIMENTO URBANO E MEIO AMBIENTE</orgao>
+    <entidade>1101.SECRETARIA DO PLANEJAMENTO E DESENVOLVIMENTO URBANO E MEIO AMBIENTE</entidade>
+    <programa>050.INFRA-ESTRUTURA BÁSICA URBANA</programa>
+    <acao>2001.OPERAÇÃO E MANUTENÇÃO DO SISTEMA DE INFORMAÇÕES GEOREFERENCIADAS.</acao>
+    <funcao>15.URBANISMO</funcao>
+    <subfuncao>127.ORDENAMENTO TERRITORIAL</subfuncao>
+    <vlr_ano1>40000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>27</fk_entidade>
+    <fk_programa>95</fk_programa>
+    <fk_acao>226</fk_acao>
+    <fk_projeto_lei>184</fk_projeto_lei>
+    <orgao>0700.SECRETARIA DA SAÚDE E AÇÃO SOCIAL</orgao>
+    <entidade>0702.FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL</entidade>
+    <programa>029.PROTEÇÃO SOCIAL BÁSICA</programa>
+    <acao>2119.IMPLEMENTAÇÃO DO PROGRAMA MUNICIPAL DE ECONOMIA SOLIDÁRIA</acao>
+    <funcao>08.ASSISTÊNCIA SOCIAL</funcao>
+    <subfuncao>244.ASSISTÊNCIA COMUNITÁRIA</subfuncao>
+    <vlr_ano1>131000.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>36</fk_entidade>
+    <fk_programa>94</fk_programa>
+    <fk_acao>407</fk_acao>
+    <fk_projeto_lei>248</fk_projeto_lei>
+    <orgao>0700.SECRETARIA DA SAÚDE E AÇÃO SOCIAL</orgao>
+    <entidade>0703.FUNDO MUNICIPAL DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE</entidade>
+    <programa>028.PROTEÇÃO SOCIAL DA CRIANÇA E ADOLESCENTE</programa>
+    <acao>2124.FORMAÇÃO E CAPACITAÇÃO DA REDE DE ATENDIMENTO DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE</acao>
+    <funcao>08.ASSISTÊNCIA SOCIAL</funcao>
+    <subfuncao>243.ASSISTÊNCIA À CRIANÇA E AO ADOLESCENTE</subfuncao>
+    <vlr_ano1>12000.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>23</fk_entidade>
+    <fk_programa>78</fk_programa>
+    <fk_acao>1</fk_acao>
+    <fk_projeto_lei>37</fk_projeto_lei>
+    <orgao>0500.SECRETARIA DA GESTÃO</orgao>
+    <entidade>0501.SECRETARIA DA GESTÃO</entidade>
+    <programa>019.MODERNIZAÇÃO DA GESTÃO PÚBLICA</programa>
+    <acao>1001.MODERNIZAR A GESTÃO FISCAL E ADMINISTRATIVA - PNAFM</acao>
+    <funcao>04.ADMINISTRAÇÃO</funcao>
+    <subfuncao>122.ADMINISTRAÇÃO GERAL</subfuncao>
+    <vlr_ano1>10000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>25</fk_entidade>
+    <fk_programa>81</fk_programa>
+    <fk_acao>205</fk_acao>
+    <fk_projeto_lei>48</fk_projeto_lei>
+    <orgao>0600.SECRETARIA DA EDUCAÇÃO</orgao>
+    <entidade>0601.SECRETARIA DA EDUCAÇÃO</entidade>
+    <programa>020.PROGRAMA DE MANUTENÇÃO E DESENVOLVIMENTO DO ENSINO FUNDAMENTAL</programa>
+    <acao>2095.MANUTENCAO DO SETOR DE MERENDA ESCOLAR</acao>
+    <funcao>12.EDUCAÇÃO</funcao>
+    <subfuncao>361.ENSINO FUNDAMENTAL</subfuncao>
+    <vlr_ano1>170705.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>35</fk_entidade>
+    <fk_programa>125</fk_programa>
+    <fk_acao>17</fk_acao>
+    <fk_projeto_lei>142</fk_projeto_lei>
+    <orgao>1300.SECRETARIA  DA INFRA - ESTRUTURA</orgao>
+    <entidade>1301.SECRETARIA DA INFRA - ESTRUTURA</entidade>
+    <programa>056.INFRA-ESTRUTURA BÁSICA</programa>
+    <acao>1017.AMPLIAÇÃO DA REDE DE ENERGIA ELÉTRICA</acao>
+    <funcao>25.ENERGIA</funcao>
+    <subfuncao>752.ENERGIA ELÉTRICA</subfuncao>
+    <vlr_ano1>12100.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>30</fk_entidade>
+    <fk_programa>112</fk_programa>
+    <fk_acao>68</fk_acao>
+    <fk_projeto_lei>212</fk_projeto_lei>
+    <orgao>1000.SECRETARIA DA AGRICULTURA E PECUÁRIA</orgao>
+    <entidade>1001.SECRETARIA DA AGRICULTURA E PECUÁRIA</entidade>
+    <programa>043.PROGRAMA DE DESENVOLVIMENTO DA AGRICULTURA</programa>
+    <acao>1074.APOIAR A AGRICULTURA DE SEQUEIRO</acao>
+    <funcao>20.AGRICULTURA</funcao>
+    <subfuncao>601.PROMOÇÃO DA PRODUÇÃO VEGETAL</subfuncao>
+    <vlr_ano1>30884.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>29</fk_entidade>
+    <fk_programa>108</fk_programa>
+    <fk_acao>317</fk_acao>
+    <fk_projeto_lei>118</fk_projeto_lei>
+    <orgao>0900.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</orgao>
+    <entidade>0901.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</entidade>
+    <programa>040.PROGRAMA DE DESENVOLVIMENTO TECNOLÓGICO - PRODETEC</programa>
+    <acao>1025.APOIO A IMPLANTAÇÃO DO CENTRO DE RECONDICIONAMENTO DE COMPUTADORES - CRC E TELECENTROS</acao>
+    <funcao>19.CIÊNCIA E TECNOLOGIA</funcao>
+    <subfuncao>573.DIFUSÃO DO CONHECIMENTO CIENTÍFICO E TECNOLÓGICO</subfuncao>
+    <vlr_ano1>4000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>28</fk_entidade>
+    <fk_programa>103</fk_programa>
+    <fk_acao>135</fk_acao>
+    <fk_projeto_lei>175</fk_projeto_lei>
+    <orgao>0800.SECRETARIA DA CULTURA E TURISMO</orgao>
+    <entidade>0801.SECRETARIA DA CULTURA E TURISMO</entidade>
+    <programa>036.SOBRAL HISTÓRICO E CULTURAL</programa>
+    <acao>2022.EDUCAÇÃO PATRIMONIAL</acao>
+    <funcao>13.CULTURA</funcao>
+    <subfuncao>391.PATRIMÔNIO HISTÓRICO, ARTÍSTICO E ARQUEOLÓGICO</subfuncao>
+    <vlr_ano1>3000.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>35</fk_entidade>
+    <fk_programa>126</fk_programa>
+    <fk_acao>20</fk_acao>
+    <fk_projeto_lei>134</fk_projeto_lei>
+    <orgao>1300.SECRETARIA  DA INFRA - ESTRUTURA</orgao>
+    <entidade>1301.SECRETARIA DA INFRA - ESTRUTURA</entidade>
+    <programa>057.COORDENAÇÃO E FUNCIONAMENTO ADMINISTRATIVO - SEINFRA</programa>
+    <acao>2150.MODERNIZAÇÃO, MANUTENÇÃO E AQUISIÇÃO DE MÁQUINAS E VEÍCULOS</acao>
+    <funcao>04.ADMINISTRAÇÃO</funcao>
+    <subfuncao>122.ADMINISTRAÇÃO GERAL</subfuncao>
+    <vlr_ano1>13000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>41</fk_entidade>
+    <fk_programa>12</fk_programa>
+    <fk_acao>274</fk_acao>
+    <fk_projeto_lei>66</fk_projeto_lei>
+    <orgao>0600.SECRETARIA DA EDUCAÇÃO</orgao>
+    <entidade>0603.FUNDEB - FUNDO DE MANUT. E DESENV. DA EDUCAÇÃO BÁSICA E VALORIZAÇÃO</entidade>
+    <programa>004.PROGRAMA DE MANUTENÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO INFANTIL - FUNDEB  EI</programa>
+    <acao>2100.MANUTENÇÃO E DESENVOLVIMENTO DO ENSINO INFANTIL - FUNDEB 40% EI</acao>
+    <funcao>12.EDUCAÇÃO</funcao>
+    <subfuncao>365.EDUCAÇÃO INFANTIL</subfuncao>
+    <vlr_ano1>316843.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>30</fk_entidade>
+    <fk_programa>113</fk_programa>
+    <fk_acao>437</fk_acao>
+    <fk_projeto_lei>302</fk_projeto_lei>
+    <orgao>1000.SECRETARIA DA AGRICULTURA E PECUÁRIA</orgao>
+    <entidade>1001.SECRETARIA DA AGRICULTURA E PECUÁRIA</entidade>
+    <programa>044.PROGRAMA DE DESENVOLVIMENTO DA PECUÁRIA</programa>
+    <acao>1012.APOIAR A PISCICULTURA</acao>
+    <funcao>20.AGRICULTURA</funcao>
+    <subfuncao>602.PROMOÇÃO DA PRODUÇÃO ANIMAL</subfuncao>
+    <vlr_ano1>78620.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>34</fk_entidade>
+    <fk_programa>122</fk_programa>
+    <fk_acao>31</fk_acao>
+    <fk_projeto_lei>126</fk_projeto_lei>
+    <orgao>1200.SECRETARIA DO ESPORTE E JUVENTUDE</orgao>
+    <entidade>1201.SECRETARIA DO ESPORTE E JUVENTUDE</entidade>
+    <programa>053.PROGRAMA DE DESENVOLVIMENTO DA JUVENTUDE - JOVEM CIDADÃO</programa>
+    <acao>1035.APOIAR AÇÕES DE DESENVOLVIMENTO ESPORTIVO PARA JOVENS</acao>
+    <funcao>27.DESPORTO E LAZER</funcao>
+    <subfuncao>812.DESPORTO COMUNITÁRIO</subfuncao>
+    <vlr_ano1>11000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>27</fk_entidade>
+    <fk_programa>92</fk_programa>
+    <fk_acao>433</fk_acao>
+    <fk_projeto_lei>296</fk_projeto_lei>
+    <orgao>0700.SECRETARIA DA SAÚDE E AÇÃO SOCIAL</orgao>
+    <entidade>0702.FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL</entidade>
+    <programa>027.APRIMORAMENTO DA GESTÃO DA POLITICA DA ASSISTENCIA SOCIAL</programa>
+    <acao>2129.MANUTENÇÃO DA CASA DO CIDADÃO</acao>
+    <funcao>08.ASSISTÊNCIA SOCIAL</funcao>
+    <subfuncao>244.ASSISTÊNCIA COMUNITÁRIA</subfuncao>
+    <vlr_ano1>4000.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>41</fk_entidade>
+    <fk_programa>16</fk_programa>
+    <fk_acao>285</fk_acao>
+    <fk_projeto_lei>80</fk_projeto_lei>
+    <orgao>0600.SECRETARIA DA EDUCAÇÃO</orgao>
+    <entidade>0603.FUNDEB - FUNDO DE MANUT. E DESENV. DA EDUCAÇÃO BÁSICA E VALORIZAÇÃO</entidade>
+    <programa>008.PROGRAMA DE FORTALECIMENTO DO SISTEMA MUNICIPAL DE EDUCAÇÃO- FUNDEB 40%EF</programa>
+    <acao>2139.MANUTENÇÃO DO FORTALECIMENTO DO SISTEMA MUNICIPAL DE EDUCAÇÃO - FUNDEB 40%EF</acao>
+    <funcao>12.EDUCAÇÃO</funcao>
+    <subfuncao>361.ENSINO FUNDAMENTAL</subfuncao>
+    <vlr_ano1>112782.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>27</fk_entidade>
+    <fk_programa>97</fk_programa>
+    <fk_acao>418</fk_acao>
+    <fk_projeto_lei>258</fk_projeto_lei>
+    <orgao>0700.SECRETARIA DA SAÚDE E AÇÃO SOCIAL</orgao>
+    <entidade>0702.FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL</entidade>
+    <programa>031.SEGURANÇA ALIMENTAR E NUTRICIONAL</programa>
+    <acao>2017.MANUTENCAO E FUNCIONAMENTO DO RESTAURANTE POPULAR</acao>
+    <funcao>08.ASSISTÊNCIA SOCIAL</funcao>
+    <subfuncao>306.ALIMENTAÇÃO E NUTRIÇÃO</subfuncao>
+    <vlr_ano1>53200.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>30</fk_entidade>
+    <fk_programa>112</fk_programa>
+    <fk_acao>73</fk_acao>
+    <fk_projeto_lei>211</fk_projeto_lei>
+    <orgao>1000.SECRETARIA DA AGRICULTURA E PECUÁRIA</orgao>
+    <entidade>1001.SECRETARIA DA AGRICULTURA E PECUÁRIA</entidade>
+    <programa>043.PROGRAMA DE DESENVOLVIMENTO DA AGRICULTURA</programa>
+    <acao>1079.APOIAR A REALIZAÇÃO DE CURSOS, PALESTRAS, CONGRESSOS, SEMINÁRIOS E FEIRAS</acao>
+    <funcao>20.AGRICULTURA</funcao>
+    <subfuncao>601.PROMOÇÃO DA PRODUÇÃO VEGETAL</subfuncao>
+    <vlr_ano1>43367.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>26</fk_entidade>
+    <fk_programa>89</fk_programa>
+    <fk_acao>127</fk_acao>
+    <fk_projeto_lei>8</fk_projeto_lei>
+    <orgao>0700.SECRETARIA DA SAÚDE E AÇÃO SOCIAL</orgao>
+    <entidade>0701.FUNDO MUNICIPAL DE SAÚDE</entidade>
+    <programa>026.ASSISTÊCIA FARMACÊUTICA INTEGRAL</programa>
+    <acao>2014.MANUTENÇÃO E FUNCIONAMENTO DA ASSISTÊNCIA FARMACÊUTICA MUNICIPAL</acao>
+    <funcao>10.SAÚDE</funcao>
+    <subfuncao>303.SUPORTE PROFILÁTICO E TERAPÊUTICO</subfuncao>
+    <vlr_ano1>100000.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>25</fk_entidade>
+    <fk_programa>81</fk_programa>
+    <fk_acao>206</fk_acao>
+    <fk_projeto_lei>58</fk_projeto_lei>
+    <orgao>0600.SECRETARIA DA EDUCAÇÃO</orgao>
+    <entidade>0601.SECRETARIA DA EDUCAÇÃO</entidade>
+    <programa>020.PROGRAMA DE MANUTENÇÃO E DESENVOLVIMENTO DO ENSINO FUNDAMENTAL</programa>
+    <acao>2096.TRANSPORTE ESCOLAR PARA ALUNOS DO ENSINO FUNDAMENTAL</acao>
+    <funcao>12.EDUCAÇÃO</funcao>
+    <subfuncao>361.ENSINO FUNDAMENTAL</subfuncao>
+    <vlr_ano1>5451123.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>29</fk_entidade>
+    <fk_programa>109</fk_programa>
+    <fk_acao>309</fk_acao>
+    <fk_projeto_lei>91</fk_projeto_lei>
+    <orgao>0900.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</orgao>
+    <entidade>0901.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</entidade>
+    <programa>041.TRABALHO PLENO</programa>
+    <acao>2143.MANUTENÇÃO E DIVULGAÇÃO DO TRABALHO PLENO</acao>
+    <funcao>11.TRABALHO</funcao>
+    <subfuncao>334.FOMENTO AO TRABALHO</subfuncao>
+    <vlr_ano1>3500.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>31</fk_entidade>
+    <fk_programa>120</fk_programa>
+    <fk_acao>166</fk_acao>
+    <fk_projeto_lei>238</fk_projeto_lei>
+    <orgao>1100.SECRETARIA DO PLANEJAMENTO E DESENVOLVIMENTO URBANO E MEIO AMBIENTE</orgao>
+    <entidade>1101.SECRETARIA DO PLANEJAMENTO E DESENVOLVIMENTO URBANO E MEIO AMBIENTE</entidade>
+    <programa>051.PATRIMÔNIO HISTÓRICO E CULTURAL</programa>
+    <acao>2054.PLANEJAMENTO, PRESERVAÇÃO E CONSERVAÇÃO DO PATRIMÔNIO HISTÓRICO</acao>
+    <funcao>13.CULTURA</funcao>
+    <subfuncao>391.PATRIMÔNIO HISTÓRICO, ARTÍSTICO E ARQUEOLÓGICO</subfuncao>
+    <vlr_ano1>50000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>30</fk_entidade>
+    <fk_programa>113</fk_programa>
+    <fk_acao>86</fk_acao>
+    <fk_projeto_lei>273</fk_projeto_lei>
+    <orgao>1000.SECRETARIA DA AGRICULTURA E PECUÁRIA</orgao>
+    <entidade>1001.SECRETARIA DA AGRICULTURA E PECUÁRIA</entidade>
+    <programa>044.PROGRAMA DE DESENVOLVIMENTO DA PECUÁRIA</programa>
+    <acao>1092.GARANTIR ASSISTÊNCIA TÉCNICA PECUÁRIA</acao>
+    <funcao>20.AGRICULTURA</funcao>
+    <subfuncao>602.PROMOÇÃO DA PRODUÇÃO ANIMAL</subfuncao>
+    <vlr_ano1>67351.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>29</fk_entidade>
+    <fk_programa>110</fk_programa>
+    <fk_acao>312</fk_acao>
+    <fk_projeto_lei>109</fk_projeto_lei>
+    <orgao>0900.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</orgao>
+    <entidade>0901.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</entidade>
+    <programa>042.PRODECON - PROGRAMA DE DESENVOLVIMENTO ECONÔMICO</programa>
+    <acao>2146.CAPACITAÇÃO E QUALIFICAÇÃO EMPRESARIAL</acao>
+    <funcao>22.INDÚSTRIA</funcao>
+    <subfuncao>661.PROMOÇÃO INDUSTRIAL</subfuncao>
+    <vlr_ano1>10000.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>30</fk_entidade>
+    <fk_programa>113</fk_programa>
+    <fk_acao>438</fk_acao>
+    <fk_projeto_lei>303</fk_projeto_lei>
+    <orgao>1000.SECRETARIA DA AGRICULTURA E PECUÁRIA</orgao>
+    <entidade>1001.SECRETARIA DA AGRICULTURA E PECUÁRIA</entidade>
+    <programa>044.PROGRAMA DE DESENVOLVIMENTO DA PECUÁRIA</programa>
+    <acao>1014.APOIAR A APICULTURA</acao>
+    <funcao>20.AGRICULTURA</funcao>
+    <subfuncao>602.PROMOÇÃO DA PRODUÇÃO ANIMAL</subfuncao>
+    <vlr_ano1>42846.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>28</fk_entidade>
+    <fk_programa>100</fk_programa>
+    <fk_acao>92</fk_acao>
+    <fk_projeto_lei>177</fk_projeto_lei>
+    <orgao>0800.SECRETARIA DA CULTURA E TURISMO</orgao>
+    <entidade>0801.SECRETARIA DA CULTURA E TURISMO</entidade>
+    <programa>034.PROGRAMA DO DESENVOLVIMENTO DO TURISMO</programa>
+    <acao>2164.APOIO E INCENTIVO AO ARTESANATO</acao>
+    <funcao>13.CULTURA</funcao>
+    <subfuncao>695.TURISMO</subfuncao>
+    <vlr_ano1>32000.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>30</fk_entidade>
+    <fk_programa>112</fk_programa>
+    <fk_acao>64</fk_acao>
+    <fk_projeto_lei>215</fk_projeto_lei>
+    <orgao>1000.SECRETARIA DA AGRICULTURA E PECUÁRIA</orgao>
+    <entidade>1001.SECRETARIA DA AGRICULTURA E PECUÁRIA</entidade>
+    <programa>043.PROGRAMA DE DESENVOLVIMENTO DA AGRICULTURA</programa>
+    <acao>1070.IMPLANTAR PROJETOS DE PRODUÇÃO DE HORTALIÇAS</acao>
+    <funcao>20.AGRICULTURA</funcao>
+    <subfuncao>601.PROMOÇÃO DA PRODUÇÃO VEGETAL</subfuncao>
+    <vlr_ano1>27871.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>36</fk_entidade>
+    <fk_programa>94</fk_programa>
+    <fk_acao>408</fk_acao>
+    <fk_projeto_lei>247</fk_projeto_lei>
+    <orgao>0700.SECRETARIA DA SAÚDE E AÇÃO SOCIAL</orgao>
+    <entidade>0703.FUNDO MUNICIPAL DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE</entidade>
+    <programa>028.PROTEÇÃO SOCIAL DA CRIANÇA E ADOLESCENTE</programa>
+    <acao>2133.MOBILIZAÇÃO E COMUNICAÇÃO DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE</acao>
+    <funcao>08.ASSISTÊNCIA SOCIAL</funcao>
+    <subfuncao>243.ASSISTÊNCIA À CRIANÇA E AO ADOLESCENTE</subfuncao>
+    <vlr_ano1>8000.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>29</fk_entidade>
+    <fk_programa>110</fk_programa>
+    <fk_acao>56</fk_acao>
+    <fk_projeto_lei>106</fk_projeto_lei>
+    <orgao>0900.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</orgao>
+    <entidade>0901.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</entidade>
+    <programa>042.PRODECON - PROGRAMA DE DESENVOLVIMENTO ECONÔMICO</programa>
+    <acao>1062.CRIAÇÃO DE NOVAS ÁREAS PARA ATRAÇÃO DE INVESTIMENTOS</acao>
+    <funcao>22.INDÚSTRIA</funcao>
+    <subfuncao>661.PROMOÇÃO INDUSTRIAL</subfuncao>
+    <vlr_ano1>43300.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>25</fk_entidade>
+    <fk_programa>85</fk_programa>
+    <fk_acao>267</fk_acao>
+    <fk_projeto_lei>47</fk_projeto_lei>
+    <orgao>0600.SECRETARIA DA EDUCAÇÃO</orgao>
+    <entidade>0601.SECRETARIA DA EDUCAÇÃO</entidade>
+    <programa>023.PROGRAMA MANUTENÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO DE JOVENS E ADULTOS</programa>
+    <acao>2097.MANUTENÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO DE JOVENS E ADULTOS</acao>
+    <funcao>12.EDUCAÇÃO</funcao>
+    <subfuncao>366.EDUCAÇÃO DE JOVENS E ADULTOS</subfuncao>
+    <vlr_ano1>32458.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>29</fk_entidade>
+    <fk_programa>108</fk_programa>
+    <fk_acao>180</fk_acao>
+    <fk_projeto_lei>113</fk_projeto_lei>
+    <orgao>0900.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</orgao>
+    <entidade>0901.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</entidade>
+    <programa>040.PROGRAMA DE DESENVOLVIMENTO TECNOLÓGICO - PRODETEC</programa>
+    <acao>2068.MANUTENÇÃO E DIVULGAÇÃO DO PRODETEC</acao>
+    <funcao>19.CIÊNCIA E TECNOLOGIA</funcao>
+    <subfuncao>573.DIFUSÃO DO CONHECIMENTO CIENTÍFICO E TECNOLÓGICO</subfuncao>
+    <vlr_ano1>6000.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>25</fk_entidade>
+    <fk_programa>83</fk_programa>
+    <fk_acao>212</fk_acao>
+    <fk_projeto_lei>55</fk_projeto_lei>
+    <orgao>0600.SECRETARIA DA EDUCAÇÃO</orgao>
+    <entidade>0601.SECRETARIA DA EDUCAÇÃO</entidade>
+    <programa>021.PROGRAMA DE MANUTENÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO INFANTIL</programa>
+    <acao>2102.MANUTENÇÃO E DESENVOLVIMENTO DO ENSINO INFANTIL</acao>
+    <funcao>12.EDUCAÇÃO</funcao>
+    <subfuncao>365.EDUCAÇÃO INFANTIL</subfuncao>
+    <vlr_ano1>380251.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>35</fk_entidade>
+    <fk_programa>125</fk_programa>
+    <fk_acao>18</fk_acao>
+    <fk_projeto_lei>143</fk_projeto_lei>
+    <orgao>1300.SECRETARIA  DA INFRA - ESTRUTURA</orgao>
+    <entidade>1301.SECRETARIA DA INFRA - ESTRUTURA</entidade>
+    <programa>056.INFRA-ESTRUTURA BÁSICA</programa>
+    <acao>2142.DESENVOLVIMENTO DA INFRA-ESTRUTURA</acao>
+    <funcao>15.URBANISMO</funcao>
+    <subfuncao>451.INFRA- ESTRUTURA URBANA</subfuncao>
+    <vlr_ano1>64000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>30</fk_entidade>
+    <fk_programa>113</fk_programa>
+    <fk_acao>84</fk_acao>
+    <fk_projeto_lei>272</fk_projeto_lei>
+    <orgao>1000.SECRETARIA DA AGRICULTURA E PECUÁRIA</orgao>
+    <entidade>1001.SECRETARIA DA AGRICULTURA E PECUÁRIA</entidade>
+    <programa>044.PROGRAMA DE DESENVOLVIMENTO DA PECUÁRIA</programa>
+    <acao>1090.CAPACITAÇÃO TÉCNICA PECUÁRIA</acao>
+    <funcao>20.AGRICULTURA</funcao>
+    <subfuncao>602.PROMOÇÃO DA PRODUÇÃO ANIMAL</subfuncao>
+    <vlr_ano1>42844.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>25</fk_entidade>
+    <fk_programa>81</fk_programa>
+    <fk_acao>202</fk_acao>
+    <fk_projeto_lei>57</fk_projeto_lei>
+    <orgao>0600.SECRETARIA DA EDUCAÇÃO</orgao>
+    <entidade>0601.SECRETARIA DA EDUCAÇÃO</entidade>
+    <programa>020.PROGRAMA DE MANUTENÇÃO E DESENVOLVIMENTO DO ENSINO FUNDAMENTAL</programa>
+    <acao>2092.MANUTENÇÃO E DESENVOLVIMENTO DO ENSINO FUNDAMENTAL</acao>
+    <funcao>12.EDUCAÇÃO</funcao>
+    <subfuncao>361.ENSINO FUNDAMENTAL</subfuncao>
+    <vlr_ano1>200832.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>31</fk_entidade>
+    <fk_programa>117</fk_programa>
+    <fk_acao>36</fk_acao>
+    <fk_projeto_lei>150</fk_projeto_lei>
+    <orgao>1100.SECRETARIA DO PLANEJAMENTO E DESENVOLVIMENTO URBANO E MEIO AMBIENTE</orgao>
+    <entidade>1101.SECRETARIA DO PLANEJAMENTO E DESENVOLVIMENTO URBANO E MEIO AMBIENTE</entidade>
+    <programa>048.GESTÃO DE POLÍTICAS DE MEIO AMBIENTE</programa>
+    <acao>1041.CAPACITAÇÃO DA POPULAÇÃO PARA GESTÃO AMBIENTAL</acao>
+    <funcao>18.GESTÃO AMBIENTAL</funcao>
+    <subfuncao>542.CONTROLE AMBIENTAL</subfuncao>
+    <vlr_ano1>70000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>34</fk_entidade>
+    <fk_programa>121</fk_programa>
+    <fk_acao>159</fk_acao>
+    <fk_projeto_lei>102</fk_projeto_lei>
+    <orgao>1200.SECRETARIA DO ESPORTE E JUVENTUDE</orgao>
+    <entidade>1201.SECRETARIA DO ESPORTE E JUVENTUDE</entidade>
+    <programa>052.COORDENAÇÃO GERAL E FUNCIONAMENTO ADMINISTRATIVO DA SEC DO ESPORTE</programa>
+    <acao>2046.MANUTENÇÃO E FUNCIONAMENTO ADMINISTRATIVO</acao>
+    <funcao>04.ADMINISTRAÇÃO</funcao>
+    <subfuncao>122.ADMINISTRAÇÃO GERAL</subfuncao>
+    <vlr_ano1>21000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>23</fk_entidade>
+    <fk_programa>76</fk_programa>
+    <fk_acao>115</fk_acao>
+    <fk_projeto_lei>36</fk_projeto_lei>
+    <orgao>0500.SECRETARIA DA GESTÃO</orgao>
+    <entidade>0501.SECRETARIA DA GESTÃO</entidade>
+    <programa>017.PLANEJAMENTO E GESTÃO PARTICIPATIVA</programa>
+    <acao>2002.ELABORAR O PLANEJAMENTO PARTICIPATIVO</acao>
+    <funcao>04.ADMINISTRAÇÃO</funcao>
+    <subfuncao>121.PLANEJAMENTO E ORÇAMENTO</subfuncao>
+    <vlr_ano1>17400.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>34</fk_entidade>
+    <fk_programa>123</fk_programa>
+    <fk_acao>377</fk_acao>
+    <fk_projeto_lei>199</fk_projeto_lei>
+    <orgao>1200.SECRETARIA DO ESPORTE E JUVENTUDE</orgao>
+    <entidade>1201.SECRETARIA DO ESPORTE E JUVENTUDE</entidade>
+    <programa>054.PROGRAMA DE DESENV. DE ATIVIDADES FÍSICAS, RECREAÇÃO E LAZER - AGITA SOBRAL</programa>
+    <acao>1040.APOIAR A PRODUÇÃO E A VEICULAÇÃO DE CONHECIMENTO CIENTÍFICO NO ÂMBITO DA ATIVIDADE FÍSICA, RECREAÇÃO E LAZER</acao>
+    <funcao>27.DESPORTO E LAZER</funcao>
+    <subfuncao>812.DESPORTO COMUNITÁRIO</subfuncao>
+    <vlr_ano1>10000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>19</fk_entidade>
+    <fk_programa>71</fk_programa>
+    <fk_acao>158</fk_acao>
+    <fk_projeto_lei>94</fk_projeto_lei>
+    <orgao>0200.GABINETE DO PREFEITO</orgao>
+    <entidade>0201.GABINETE DO PREFEITO</entidade>
+    <programa>014.COORDENAÇÃO GERAL E FUNCIONAMENTO ADMINISTRATIVO - GAB PREFEITO</programa>
+    <acao>2045.MANUTENÇÃO E FUNCIONAMENTO ADMINISTRATIVO</acao>
+    <funcao>04.ADMINISTRAÇÃO</funcao>
+    <subfuncao>122.ADMINISTRAÇÃO GERAL</subfuncao>
+    <vlr_ano1>87607.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>29</fk_entidade>
+    <fk_programa>19</fk_programa>
+    <fk_acao>329</fk_acao>
+    <fk_projeto_lei>164</fk_projeto_lei>
+    <orgao>0900.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</orgao>
+    <entidade>0901.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</entidade>
+    <programa>010.PRODENE - PROGRAMA DE DESENVOLVIMENTO DE EVENTOS DE NEGOCIOS</programa>
+    <acao>2154.CAPACITAÇÃO, QUALIFICAÇÃO DE MICRO, PEQUENOS EMPREENDEDORES E PROFISSIONAIS DO TRAD DE EVENTOS</acao>
+    <funcao>11.TRABALHO</funcao>
+    <subfuncao>334.FOMENTO AO TRABALHO</subfuncao>
+    <vlr_ano1>4000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>21</fk_entidade>
+    <fk_programa>73</fk_programa>
+    <fk_acao>154</fk_acao>
+    <fk_projeto_lei>196</fk_projeto_lei>
+    <orgao>0400.SECRETARIA DA CIDADANIA E SEGURANÇA</orgao>
+    <entidade>0401.SECRETARIA DA CIDADANIA E SEGURANÇA</entidade>
+    <programa>016.PROGRAMA MUNICIPAL DE SEGURANÇA E CIDADANIA</programa>
+    <acao>2041.MANUTENÇÃO E APERFEIÇOAMENTO DAS AÇÕES DE CIDADANIA E SEGURANÇA MUNICIPAL</acao>
+    <funcao>04.ADMINISTRAÇÃO</funcao>
+    <subfuncao>122.ADMINISTRAÇÃO GERAL</subfuncao>
+    <vlr_ano1>43000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>31</fk_entidade>
+    <fk_programa>115</fk_programa>
+    <fk_acao>165</fk_acao>
+    <fk_projeto_lei>239</fk_projeto_lei>
+    <orgao>1100.SECRETARIA DO PLANEJAMENTO E DESENVOLVIMENTO URBANO E MEIO AMBIENTE</orgao>
+    <entidade>1101.SECRETARIA DO PLANEJAMENTO E DESENVOLVIMENTO URBANO E MEIO AMBIENTE</entidade>
+    <programa>046.PLANEJAMENTO, GESTÃO E DESENVOLVIMENTO URBANO</programa>
+    <acao>2053.MANUTENÇÃO E AMPLIAÇÃO DE EQUIPAMENTOS URBANOS</acao>
+    <funcao>15.URBANISMO</funcao>
+    <subfuncao>452.SERVIÇOS URBANOS</subfuncao>
+    <vlr_ano1>90000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>41</fk_entidade>
+    <fk_programa>11</fk_programa>
+    <fk_acao>276</fk_acao>
+    <fk_projeto_lei>68</fk_projeto_lei>
+    <orgao>0600.SECRETARIA DA EDUCAÇÃO</orgao>
+    <entidade>0603.FUNDEB - FUNDO DE MANUT. E DESENV. DA EDUCAÇÃO BÁSICA E VALORIZAÇÃO</entidade>
+    <programa>003.PROGRAMA DE MANUTENCAO E DESENVOLVIMENTO DO ENSINO FUNDAMENTAL - FUNDEB</programa>
+    <acao>2107.MANUTENÇÃO E DESENVOLVIMENTO DO ENSINO FUNDAMENTAL - FUNDEB 40% EF</acao>
+    <funcao>12.EDUCAÇÃO</funcao>
+    <subfuncao>361.ENSINO FUNDAMENTAL</subfuncao>
+    <vlr_ano1>8000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>27</fk_entidade>
+    <fk_programa>96</fk_programa>
+    <fk_acao>239</fk_acao>
+    <fk_projeto_lei>88</fk_projeto_lei>
+    <orgao>0700.SECRETARIA DA SAÚDE E AÇÃO SOCIAL</orgao>
+    <entidade>0702.FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL</entidade>
+    <programa>030.PROTEÇÃO SOCIAL ESPECIAL</programa>
+    <acao>2132.MANUTENÇÃO DOS SERVIÇOS DE PROTEÇÃO SOCIAL ESPECIAL ÀS PESSOAS IDOSAS E COM DEFICIÊNCIAS</acao>
+    <funcao>08.ASSISTÊNCIA SOCIAL</funcao>
+    <subfuncao>244.ASSISTÊNCIA COMUNITÁRIA</subfuncao>
+    <vlr_ano1>7000.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>41</fk_entidade>
+    <fk_programa>15</fk_programa>
+    <fk_acao>286</fk_acao>
+    <fk_projeto_lei>81</fk_projeto_lei>
+    <orgao>0600.SECRETARIA DA EDUCAÇÃO</orgao>
+    <entidade>0603.FUNDEB - FUNDO DE MANUT. E DESENV. DA EDUCAÇÃO BÁSICA E VALORIZAÇÃO</entidade>
+    <programa>007.PROGRAMA DE FORTALECIMENTO DA GESTÃO ESCOLAR - FUNDEB 40% - EF</programa>
+    <acao>2138.MANUTENÇÃO E FORTALECIMENTO DA GESTÃO ESCOLAR -FUNDEB 40% - EF</acao>
+    <funcao>12.EDUCAÇÃO</funcao>
+    <subfuncao>361.ENSINO FUNDAMENTAL</subfuncao>
+    <vlr_ano1>561.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>31</fk_entidade>
+    <fk_programa>117</fk_programa>
+    <fk_acao>163</fk_acao>
+    <fk_projeto_lei>149</fk_projeto_lei>
+    <orgao>1100.SECRETARIA DO PLANEJAMENTO E DESENVOLVIMENTO URBANO E MEIO AMBIENTE</orgao>
+    <entidade>1101.SECRETARIA DO PLANEJAMENTO E DESENVOLVIMENTO URBANO E MEIO AMBIENTE</entidade>
+    <programa>048.GESTÃO DE POLÍTICAS DE MEIO AMBIENTE</programa>
+    <acao>2051.PLANEJAMENTO, PRESERVAÇÃO E CONSERVAÇÃO DO MEIO AMBIENTE</acao>
+    <funcao>18.GESTÃO AMBIENTAL</funcao>
+    <subfuncao>541.PRESERVAÇÃO E CONSERVAÇÃO AMBIENTAL</subfuncao>
+    <vlr_ano1>310000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>30</fk_entidade>
+    <fk_programa>112</fk_programa>
+    <fk_acao>67</fk_acao>
+    <fk_projeto_lei>209</fk_projeto_lei>
+    <orgao>1000.SECRETARIA DA AGRICULTURA E PECUÁRIA</orgao>
+    <entidade>1001.SECRETARIA DA AGRICULTURA E PECUÁRIA</entidade>
+    <programa>043.PROGRAMA DE DESENVOLVIMENTO DA AGRICULTURA</programa>
+    <acao>1073.APOIAR A PRODUÇÃO DA AGRICULTURA ORGÂNICA</acao>
+    <funcao>20.AGRICULTURA</funcao>
+    <subfuncao>601.PROMOÇÃO DA PRODUÇÃO VEGETAL</subfuncao>
+    <vlr_ano1>32395.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>34</fk_entidade>
+    <fk_programa>124</fk_programa>
+    <fk_acao>27</fk_acao>
+    <fk_projeto_lei>153</fk_projeto_lei>
+    <orgao>1200.SECRETARIA DO ESPORTE E JUVENTUDE</orgao>
+    <entidade>1201.SECRETARIA DO ESPORTE E JUVENTUDE</entidade>
+    <programa>055.PROGRAMA DE DESENVOVIMENTO DO ESPORTE</programa>
+    <acao>2062.MANUTENÇÃO E MODERNIZAÇÃO DE EQUIPAMENTOS ESPORTIVOS</acao>
+    <funcao>27.DESPORTO E LAZER</funcao>
+    <subfuncao>811.DESPORTO DE RENDIMENTO</subfuncao>
+    <vlr_ano1>71000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>35</fk_entidade>
+    <fk_programa>22</fk_programa>
+    <fk_acao>344</fk_acao>
+    <fk_projeto_lei>128</fk_projeto_lei>
+    <orgao>1300.SECRETARIA  DA INFRA - ESTRUTURA</orgao>
+    <entidade>1301.SECRETARIA DA INFRA - ESTRUTURA</entidade>
+    <programa>011.DESENVOLVIMENTO URBANO</programa>
+    <acao>2158.URBANIZAÇÃO DE LOGRADOUROS PÚBLICOS</acao>
+    <funcao>15.URBANISMO</funcao>
+    <subfuncao>451.INFRA- ESTRUTURA URBANA</subfuncao>
+    <vlr_ano1>12000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>27</fk_entidade>
+    <fk_programa>98</fk_programa>
+    <fk_acao>435</fk_acao>
+    <fk_projeto_lei>298</fk_projeto_lei>
+    <orgao>0700.SECRETARIA DA SAÚDE E AÇÃO SOCIAL</orgao>
+    <entidade>0702.FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL</entidade>
+    <programa>032.VIGILÂNCIA SOCIAL E DEFESA SOCIAL E INSTITUCIONAL</programa>
+    <acao>2136.MANUTENÇÃO DO SISTEMA DE VIGILÂNCIA E CONTROLE SOCIAL E INSTITUCIONAL</acao>
+    <funcao>08.ASSISTÊNCIA SOCIAL</funcao>
+    <subfuncao>244.ASSISTÊNCIA COMUNITÁRIA</subfuncao>
+    <vlr_ano1>9000.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>19</fk_entidade>
+    <fk_programa>71</fk_programa>
+    <fk_acao>155</fk_acao>
+    <fk_projeto_lei>92</fk_projeto_lei>
+    <orgao>0200.GABINETE DO PREFEITO</orgao>
+    <entidade>0201.GABINETE DO PREFEITO</entidade>
+    <programa>014.COORDENAÇÃO GERAL E FUNCIONAMENTO ADMINISTRATIVO - GAB PREFEITO</programa>
+    <acao>2042.DIVULGAÇÃO DAS AÇÕES GOVERNAMENTAIS</acao>
+    <funcao>04.ADMINISTRAÇÃO</funcao>
+    <subfuncao>122.ADMINISTRAÇÃO GERAL</subfuncao>
+    <vlr_ano1>48850.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>41</fk_entidade>
+    <fk_programa>13</fk_programa>
+    <fk_acao>279</fk_acao>
+    <fk_projeto_lei>71</fk_projeto_lei>
+    <orgao>0600.SECRETARIA DA EDUCAÇÃO</orgao>
+    <entidade>0603.FUNDEB - FUNDO DE MANUT. E DESENV. DA EDUCAÇÃO BÁSICA E VALORIZAÇÃO</entidade>
+    <programa>005.PROGRAMA DE MANUTENÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO DE JOVENS E ADULTOS - FUNDEB  EJA</programa>
+    <acao>2113.MANUTENÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO DE JOVENS E ADULTOS - FUNDEB 40% EJA</acao>
+    <funcao>12.EDUCAÇÃO</funcao>
+    <subfuncao>366.EDUCAÇÃO DE JOVENS E ADULTOS</subfuncao>
+    <vlr_ano1>338992.04</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>24</fk_entidade>
+    <fk_programa>18</fk_programa>
+    <fk_acao>305</fk_acao>
+    <fk_projeto_lei>83</fk_projeto_lei>
+    <orgao>0500.SECRETARIA DA GESTÃO</orgao>
+    <entidade>0502.IMPRENSA OFICIAL DO MUNICÍPIO</entidade>
+    <programa>009.COORDENAÇÃO GERAL E FUNCIONAMENTO ADMINISTRATIVO - IOM</programa>
+    <acao>2005.MANUTENÇÃO E FUNCIONAMENTO ADMINISTRATIVO - IOM</acao>
+    <funcao>04.ADMINISTRAÇÃO</funcao>
+    <subfuncao>122.ADMINISTRAÇÃO GERAL</subfuncao>
+    <vlr_ano1>11300.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>30</fk_entidade>
+    <fk_programa>112</fk_programa>
+    <fk_acao>65</fk_acao>
+    <fk_projeto_lei>210</fk_projeto_lei>
+    <orgao>1000.SECRETARIA DA AGRICULTURA E PECUÁRIA</orgao>
+    <entidade>1001.SECRETARIA DA AGRICULTURA E PECUÁRIA</entidade>
+    <programa>043.PROGRAMA DE DESENVOLVIMENTO DA AGRICULTURA</programa>
+    <acao>1071.PROMOVER O DESENVOLVIMENTO DA VITIVINICULTURA</acao>
+    <funcao>20.AGRICULTURA</funcao>
+    <subfuncao>601.PROMOÇÃO DA PRODUÇÃO VEGETAL</subfuncao>
+    <vlr_ano1>37140.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>37</fk_entidade>
+    <fk_programa>133</fk_programa>
+    <fk_acao>38</fk_acao>
+    <fk_projeto_lei>202</fk_projeto_lei>
+    <orgao>1400.SECRETARIA DA HABITAÇÃO E SANEAMENTO AMBIENTAL</orgao>
+    <entidade>1401.SECRETARIA DA HABITAÇÃO E SANEAMENTO AMBIENTAL</entidade>
+    <programa>063.PROGRAMA HABITACIONAL</programa>
+    <acao>1043.CONSTRUÇÃO DE CONJUNTOS E UNIDADES HABITACIONAIS - ÁREA RURAL</acao>
+    <funcao>16.HABITAÇÃO</funcao>
+    <subfuncao>481.HABITAÇÃO RURAL</subfuncao>
+    <vlr_ano1>12309.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>29</fk_entidade>
+    <fk_programa>108</fk_programa>
+    <fk_acao>51</fk_acao>
+    <fk_projeto_lei>110</fk_projeto_lei>
+    <orgao>0900.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</orgao>
+    <entidade>0901.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</entidade>
+    <programa>040.PROGRAMA DE DESENVOLVIMENTO TECNOLÓGICO - PRODETEC</programa>
+    <acao>2065.CAPACITAÇÃO TECNOLÓGICA PARA JOVENS, ESTUDANTES, EMPRESÁRIOS E PROFISSIONAIS</acao>
+    <funcao>19.CIÊNCIA E TECNOLOGIA</funcao>
+    <subfuncao>573.DIFUSÃO DO CONHECIMENTO CIENTÍFICO E TECNOLÓGICO</subfuncao>
+    <vlr_ano1>5000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>38</fk_entidade>
+    <fk_programa>136</fk_programa>
+    <fk_acao>173</fk_acao>
+    <fk_projeto_lei>229</fk_projeto_lei>
+    <orgao>1500.SECRETARIA DE GOVERNO</orgao>
+    <entidade>1501.SECRETARIA DE GOVERNO</entidade>
+    <programa>066.PROGRAMA DE ARTICULAÇÃO DE POLÍTICAS DE GOVERNO</programa>
+    <acao>2061.COORDENAÇÃO E REALIZAÇÃO DE EVENTOS</acao>
+    <funcao>04.ADMINISTRAÇÃO</funcao>
+    <subfuncao>131.COMUNICAÇÃO SOCIAL</subfuncao>
+    <vlr_ano1>71216.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>26</fk_entidade>
+    <fk_programa>87</fk_programa>
+    <fk_acao>120</fk_acao>
+    <fk_projeto_lei>233</fk_projeto_lei>
+    <orgao>0700.SECRETARIA DA SAÚDE E AÇÃO SOCIAL</orgao>
+    <entidade>0701.FUNDO MUNICIPAL DE SAÚDE</entidade>
+    <programa>025.GESTÃO PLENA DO SISTEMA MUNICIPAL DE SAÚDE</programa>
+    <acao>2007.CONTROLE DE ZOONOSES E FATORES BIOLÓGICOS DE RISCOS</acao>
+    <funcao>10.SAÚDE</funcao>
+    <subfuncao>305.VIGILÂNCIA EPIDEMIOLÓGICA</subfuncao>
+    <vlr_ano1>105000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>28</fk_entidade>
+    <fk_programa>102</fk_programa>
+    <fk_acao>9</fk_acao>
+    <fk_projeto_lei>171</fk_projeto_lei>
+    <orgao>0800.SECRETARIA DA CULTURA E TURISMO</orgao>
+    <entidade>0801.SECRETARIA DA CULTURA E TURISMO</entidade>
+    <programa>035.INFRA-ESTRUTURA CULTURAL TURÍSTICA</programa>
+    <acao>2162.MANUTENÇÃO, CONSERVAÇÃO E FUNCIONAMENTO DOS EQUIPAMENTOS CULTURAIS</acao>
+    <funcao>13.CULTURA</funcao>
+    <subfuncao>391.PATRIMÔNIO HISTÓRICO, ARTÍSTICO E ARQUEOLÓGICO</subfuncao>
+    <vlr_ano1>29000.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>26</fk_entidade>
+    <fk_programa>87</fk_programa>
+    <fk_acao>124</fk_acao>
+    <fk_projeto_lei>31</fk_projeto_lei>
+    <orgao>0700.SECRETARIA DA SAÚDE E AÇÃO SOCIAL</orgao>
+    <entidade>0701.FUNDO MUNICIPAL DE SAÚDE</entidade>
+    <programa>025.GESTÃO PLENA DO SISTEMA MUNICIPAL DE SAÚDE</programa>
+    <acao>2011.MANUT. FUNCIONAMENTO DOS SERVIÇOS MUNICIPAIS DE SAÚDE</acao>
+    <funcao>10.SAÚDE</funcao>
+    <subfuncao>301.ATENÇÃO BÁSICA</subfuncao>
+    <vlr_ano1>3240000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>37</fk_entidade>
+    <fk_programa>130</fk_programa>
+    <fk_acao>48</fk_acao>
+    <fk_projeto_lei>279</fk_projeto_lei>
+    <orgao>1400.SECRETARIA DA HABITAÇÃO E SANEAMENTO AMBIENTAL</orgao>
+    <entidade>1401.SECRETARIA DA HABITAÇÃO E SANEAMENTO AMBIENTAL</entidade>
+    <programa>060.SANEAMENTO BÁSICO</programa>
+    <acao>1053.ESGOTAMENTO SANITÁRIO - DISTRITOS</acao>
+    <funcao>17.SANEAMENTO</funcao>
+    <subfuncao>511.SANEAMENTO BÁSICO RURAL</subfuncao>
+    <vlr_ano1>13825.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>34</fk_entidade>
+    <fk_programa>123</fk_programa>
+    <fk_acao>24</fk_acao>
+    <fk_projeto_lei>35</fk_projeto_lei>
+    <orgao>1200.SECRETARIA DO ESPORTE E JUVENTUDE</orgao>
+    <entidade>1201.SECRETARIA DO ESPORTE E JUVENTUDE</entidade>
+    <programa>054.PROGRAMA DE DESENV. DE ATIVIDADES FÍSICAS, RECREAÇÃO E LAZER - AGITA SOBRAL</programa>
+    <acao>1028.CAPACITAÇÃO PARA A ATIVIDADE FÍSICA, RECREAÇÃO E LAZER</acao>
+    <funcao>27.DESPORTO E LAZER</funcao>
+    <subfuncao>812.DESPORTO COMUNITÁRIO</subfuncao>
+    <vlr_ano1>11000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>21</fk_entidade>
+    <fk_programa>73</fk_programa>
+    <fk_acao>324</fk_acao>
+    <fk_projeto_lei>197</fk_projeto_lei>
+    <orgao>0400.SECRETARIA DA CIDADANIA E SEGURANÇA</orgao>
+    <entidade>0401.SECRETARIA DA CIDADANIA E SEGURANÇA</entidade>
+    <programa>016.PROGRAMA MUNICIPAL DE SEGURANÇA E CIDADANIA</programa>
+    <acao>2152.MANUTENÇÃO E FUNCIONAMENTO ADMINISTRATIVO DA SCS</acao>
+    <funcao>04.ADMINISTRAÇÃO</funcao>
+    <subfuncao>122.ADMINISTRAÇÃO GERAL</subfuncao>
+    <vlr_ano1>125000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>26</fk_entidade>
+    <fk_programa>86</fk_programa>
+    <fk_acao>185</fk_acao>
+    <fk_projeto_lei>242</fk_projeto_lei>
+    <orgao>0700.SECRETARIA DA SAÚDE E AÇÃO SOCIAL</orgao>
+    <entidade>0701.FUNDO MUNICIPAL DE SAÚDE</entidade>
+    <programa>024.GESTÃO SOCIAL E CIDADANIA</programa>
+    <acao>2073.ASSEGURA O PROCESSO DE MOBILIZAÇÃO E CAPACITAÇÃO DOS CONSELHEIROS MUN. SAÚDE</acao>
+    <funcao>10.SAÚDE</funcao>
+    <subfuncao>301.ATENÇÃO BÁSICA</subfuncao>
+    <vlr_ano1>25000.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>28</fk_entidade>
+    <fk_programa>104</fk_programa>
+    <fk_acao>131</fk_acao>
+    <fk_projeto_lei>170</fk_projeto_lei>
+    <orgao>0800.SECRETARIA DA CULTURA E TURISMO</orgao>
+    <entidade>0801.SECRETARIA DA CULTURA E TURISMO</entidade>
+    <programa>037.MANIFESTAÇÕES ARTISTICAS E CULTURAIS</programa>
+    <acao>2018.APOIO A EDITORAÇÃO E PUBLICAÇÃO CULTURAL</acao>
+    <funcao>13.CULTURA</funcao>
+    <subfuncao>392.DIFUSÃO CULTURAL</subfuncao>
+    <vlr_ano1>10000.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>30</fk_entidade>
+    <fk_programa>113</fk_programa>
+    <fk_acao>85</fk_acao>
+    <fk_projeto_lei>269</fk_projeto_lei>
+    <orgao>1000.SECRETARIA DA AGRICULTURA E PECUÁRIA</orgao>
+    <entidade>1001.SECRETARIA DA AGRICULTURA E PECUÁRIA</entidade>
+    <programa>044.PROGRAMA DE DESENVOLVIMENTO DA PECUÁRIA</programa>
+    <acao>1091.APOIAR A OVINOCAPRINOCULTURA</acao>
+    <funcao>20.AGRICULTURA</funcao>
+    <subfuncao>602.PROMOÇÃO DA PRODUÇÃO ANIMAL</subfuncao>
+    <vlr_ano1>21423.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>31</fk_entidade>
+    <fk_programa>119</fk_programa>
+    <fk_acao>35</fk_acao>
+    <fk_projeto_lei>125</fk_projeto_lei>
+    <orgao>1100.SECRETARIA DO PLANEJAMENTO E DESENVOLVIMENTO URBANO E MEIO AMBIENTE</orgao>
+    <entidade>1101.SECRETARIA DO PLANEJAMENTO E DESENVOLVIMENTO URBANO E MEIO AMBIENTE</entidade>
+    <programa>050.INFRA-ESTRUTURA BÁSICA URBANA</programa>
+    <acao>1039.IMPLANTAÇÃO DO SISTEMA DE INFORMAÇÕES GEOREFENCIADAS</acao>
+    <funcao>15.URBANISMO</funcao>
+    <subfuncao>127.ORDENAMENTO TERRITORIAL</subfuncao>
+    <vlr_ano1>50000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>31</fk_entidade>
+    <fk_programa>118</fk_programa>
+    <fk_acao>162</fk_acao>
+    <fk_projeto_lei>236</fk_projeto_lei>
+    <orgao>1100.SECRETARIA DO PLANEJAMENTO E DESENVOLVIMENTO URBANO E MEIO AMBIENTE</orgao>
+    <entidade>1101.SECRETARIA DO PLANEJAMENTO E DESENVOLVIMENTO URBANO E MEIO AMBIENTE</entidade>
+    <programa>049.COORDENAÇÃO GERAL E FUNCIONAMENTO DA SPLAM</programa>
+    <acao>2049.MANUTENÇÃO E FUNCIONAMENTO DA SPLAM</acao>
+    <funcao>04.ADMINISTRAÇÃO</funcao>
+    <subfuncao>122.ADMINISTRAÇÃO GERAL</subfuncao>
+    <vlr_ano1>138000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>34</fk_entidade>
+    <fk_programa>124</fk_programa>
+    <fk_acao>342</fk_acao>
+    <fk_projeto_lei>156</fk_projeto_lei>
+    <orgao>1200.SECRETARIA DO ESPORTE E JUVENTUDE</orgao>
+    <entidade>1201.SECRETARIA DO ESPORTE E JUVENTUDE</entidade>
+    <programa>055.PROGRAMA DE DESENVOVIMENTO DO ESPORTE</programa>
+    <acao>1121.CAPACITAÇÃO PARA TÉCNICOS E ATLETAS EM ESPORTES</acao>
+    <funcao>27.DESPORTO E LAZER</funcao>
+    <subfuncao>811.DESPORTO DE RENDIMENTO</subfuncao>
+    <vlr_ano1>5000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>29</fk_entidade>
+    <fk_programa>110</fk_programa>
+    <fk_acao>181</fk_acao>
+    <fk_projeto_lei>108</fk_projeto_lei>
+    <orgao>0900.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</orgao>
+    <entidade>0901.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</entidade>
+    <programa>042.PRODECON - PROGRAMA DE DESENVOLVIMENTO ECONÔMICO</programa>
+    <acao>2069.MANUTENÇÃO E DIVULGAÇÃO DO PRODECON</acao>
+    <funcao>22.INDÚSTRIA</funcao>
+    <subfuncao>661.PROMOÇÃO INDUSTRIAL</subfuncao>
+    <vlr_ano1>33000.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>28</fk_entidade>
+    <fk_programa>100</fk_programa>
+    <fk_acao>91</fk_acao>
+    <fk_projeto_lei>176</fk_projeto_lei>
+    <orgao>0800.SECRETARIA DA CULTURA E TURISMO</orgao>
+    <entidade>0801.SECRETARIA DA CULTURA E TURISMO</entidade>
+    <programa>034.PROGRAMA DO DESENVOLVIMENTO DO TURISMO</programa>
+    <acao>2165.PROMOVER  AÇÕES DE INCENTIVO AO TURISMO</acao>
+    <funcao>13.CULTURA</funcao>
+    <subfuncao>695.TURISMO</subfuncao>
+    <vlr_ano1>17000.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>37</fk_entidade>
+    <fk_programa>129</fk_programa>
+    <fk_acao>176</fk_acao>
+    <fk_projeto_lei>281</fk_projeto_lei>
+    <orgao>1400.SECRETARIA DA HABITAÇÃO E SANEAMENTO AMBIENTAL</orgao>
+    <entidade>1401.SECRETARIA DA HABITAÇÃO E SANEAMENTO AMBIENTAL</entidade>
+    <programa>059.SANEAMENTO E GESTÃO AMBIENTAL</programa>
+    <acao>2064.MODERNIZAÇÃO, MANUTENÇÃO E FUNCIONAMENTO DA USINA DE COMPOSTAGEM DE LIXO</acao>
+    <funcao>18.GESTÃO AMBIENTAL</funcao>
+    <subfuncao>541.PRESERVAÇÃO E CONSERVAÇÃO AMBIENTAL</subfuncao>
+    <vlr_ano1>13229.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>30</fk_entidade>
+    <fk_programa>112</fk_programa>
+    <fk_acao>75</fk_acao>
+    <fk_projeto_lei>216</fk_projeto_lei>
+    <orgao>1000.SECRETARIA DA AGRICULTURA E PECUÁRIA</orgao>
+    <entidade>1001.SECRETARIA DA AGRICULTURA E PECUÁRIA</entidade>
+    <programa>043.PROGRAMA DE DESENVOLVIMENTO DA AGRICULTURA</programa>
+    <acao>1081.AQUISIÇÃO DE IMÓVEIS</acao>
+    <funcao>20.AGRICULTURA</funcao>
+    <subfuncao>601.PROMOÇÃO DA PRODUÇÃO VEGETAL</subfuncao>
+    <vlr_ano1>261509.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>26</fk_entidade>
+    <fk_programa>87</fk_programa>
+    <fk_acao>121</fk_acao>
+    <fk_projeto_lei>234</fk_projeto_lei>
+    <orgao>0700.SECRETARIA DA SAÚDE E AÇÃO SOCIAL</orgao>
+    <entidade>0701.FUNDO MUNICIPAL DE SAÚDE</entidade>
+    <programa>025.GESTÃO PLENA DO SISTEMA MUNICIPAL DE SAÚDE</programa>
+    <acao>2008.IMPLEMENTAR AÇÕES DE PREVENÇÃO E CONTRLE DE DST/AIDS</acao>
+    <funcao>10.SAÚDE</funcao>
+    <subfuncao>305.VIGILÂNCIA EPIDEMIOLÓGICA</subfuncao>
+    <vlr_ano1>200000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>35</fk_entidade>
+    <fk_programa>127</fk_programa>
+    <fk_acao>139</fk_acao>
+    <fk_projeto_lei>147</fk_projeto_lei>
+    <orgao>1300.SECRETARIA  DA INFRA - ESTRUTURA</orgao>
+    <entidade>1301.SECRETARIA DA INFRA - ESTRUTURA</entidade>
+    <programa>058.INFRA-ESTRUTURA DE RECURSOS HÍDRICOS</programa>
+    <acao>2026.MANUTENÇÃO E MODERNIZAÇÃO  DE ADUTORAS E SISTEMAS DE ABASTECIMENTO D'AGUA</acao>
+    <funcao>18.GESTÃO AMBIENTAL</funcao>
+    <subfuncao>544.RECURSOS HÍDRICOS</subfuncao>
+    <vlr_ano1>6000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>37</fk_entidade>
+    <fk_programa>131</fk_programa>
+    <fk_acao>169</fk_acao>
+    <fk_projeto_lei>276</fk_projeto_lei>
+    <orgao>1400.SECRETARIA DA HABITAÇÃO E SANEAMENTO AMBIENTAL</orgao>
+    <entidade>1401.SECRETARIA DA HABITAÇÃO E SANEAMENTO AMBIENTAL</entidade>
+    <programa>061.COORDENAÇÃO GERAL E FUNCIONAMENTO ADMINISTRATIVO - SEHABS</programa>
+    <acao>2057.CAPACITAÇÃO DE SERVIDORES</acao>
+    <funcao>04.ADMINISTRAÇÃO</funcao>
+    <subfuncao>128.FORMAÇÃO DE RECURSOS HUMANOS</subfuncao>
+    <vlr_ano1>22050.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>28</fk_entidade>
+    <fk_programa>105</fk_programa>
+    <fk_acao>215</fk_acao>
+    <fk_projeto_lei>178</fk_projeto_lei>
+    <orgao>0800.SECRETARIA DA CULTURA E TURISMO</orgao>
+    <entidade>0801.SECRETARIA DA CULTURA E TURISMO</entidade>
+    <programa>038.COORDENAÇÃO GERAL E FUNCIONAMENTO ADMINISTRATIVO DA SECULT</programa>
+    <acao>2105.MANUTENÇÃO E FUNCIONAMENTO ADMINISTRATIVO DA SECULT</acao>
+    <funcao>04.ADMINISTRAÇÃO</funcao>
+    <subfuncao>122.ADMINISTRAÇÃO GERAL</subfuncao>
+    <vlr_ano1>43000.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>27</fk_entidade>
+    <fk_programa>96</fk_programa>
+    <fk_acao>228</fk_acao>
+    <fk_projeto_lei>87</fk_projeto_lei>
+    <orgao>0700.SECRETARIA DA SAÚDE E AÇÃO SOCIAL</orgao>
+    <entidade>0702.FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL</entidade>
+    <programa>030.PROTEÇÃO SOCIAL ESPECIAL</programa>
+    <acao>2121.MANUTENÇÃO DAS AÇÕES SÓCIO-EDUCATIVAS ESPECIALIZADAS COM CRIANÇAS, ADOLESCENTES E SUAS FAMÍLIAS</acao>
+    <funcao>08.ASSISTÊNCIA SOCIAL</funcao>
+    <subfuncao>244.ASSISTÊNCIA COMUNITÁRIA</subfuncao>
+    <vlr_ano1>28000.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>27</fk_entidade>
+    <fk_programa>92</fk_programa>
+    <fk_acao>431</fk_acao>
+    <fk_projeto_lei>294</fk_projeto_lei>
+    <orgao>0700.SECRETARIA DA SAÚDE E AÇÃO SOCIAL</orgao>
+    <entidade>0702.FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL</entidade>
+    <programa>027.APRIMORAMENTO DA GESTÃO DA POLITICA DA ASSISTENCIA SOCIAL</programa>
+    <acao>2127.MANUTENÇÃO DA CASA DOS CONSELHOS E MOBILIZAÇÃO SOCIAL</acao>
+    <funcao>08.ASSISTÊNCIA SOCIAL</funcao>
+    <subfuncao>244.ASSISTÊNCIA COMUNITÁRIA</subfuncao>
+    <vlr_ano1>25000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>37</fk_entidade>
+    <fk_programa>133</fk_programa>
+    <fk_acao>41</fk_acao>
+    <fk_projeto_lei>201</fk_projeto_lei>
+    <orgao>1400.SECRETARIA DA HABITAÇÃO E SANEAMENTO AMBIENTAL</orgao>
+    <entidade>1401.SECRETARIA DA HABITAÇÃO E SANEAMENTO AMBIENTAL</entidade>
+    <programa>063.PROGRAMA HABITACIONAL</programa>
+    <acao>1046.CONSTRUÇÃO DE CONJUNTOS E UNIDADES HABITACIONAIS - ÁREA URBANA</acao>
+    <funcao>16.HABITAÇÃO</funcao>
+    <subfuncao>482.HABITAÇÃO URBANA</subfuncao>
+    <vlr_ano1>78278.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>29</fk_entidade>
+    <fk_programa>109</fk_programa>
+    <fk_acao>426</fk_acao>
+    <fk_projeto_lei>292</fk_projeto_lei>
+    <orgao>0900.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</orgao>
+    <entidade>0901.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</entidade>
+    <programa>041.TRABALHO PLENO</programa>
+    <acao>2114.MANUTENÇÃO E ESTRUTURAÇÃO DA CENTRAL DE ARTESANATO</acao>
+    <funcao>11.TRABALHO</funcao>
+    <subfuncao>334.FOMENTO AO TRABALHO</subfuncao>
+    <vlr_ano1>5000.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>21</fk_entidade>
+    <fk_programa>73</fk_programa>
+    <fk_acao>325</fk_acao>
+    <fk_projeto_lei>188</fk_projeto_lei>
+    <orgao>0400.SECRETARIA DA CIDADANIA E SEGURANÇA</orgao>
+    <entidade>0401.SECRETARIA DA CIDADANIA E SEGURANÇA</entidade>
+    <programa>016.PROGRAMA MUNICIPAL DE SEGURANÇA E CIDADANIA</programa>
+    <acao>1054.DESENVOLVER AÇÕES DO PRONASCI</acao>
+    <funcao>04.ADMINISTRAÇÃO</funcao>
+    <subfuncao>122.ADMINISTRAÇÃO GERAL</subfuncao>
+    <vlr_ano1>10000.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>35</fk_entidade>
+    <fk_programa>126</fk_programa>
+    <fk_acao>141</fk_acao>
+    <fk_projeto_lei>135</fk_projeto_lei>
+    <orgao>1300.SECRETARIA  DA INFRA - ESTRUTURA</orgao>
+    <entidade>1301.SECRETARIA DA INFRA - ESTRUTURA</entidade>
+    <programa>057.COORDENAÇÃO E FUNCIONAMENTO ADMINISTRATIVO - SEINFRA</programa>
+    <acao>2028.MANUTENÇÃO E FUNCIONAMENTO ADMINISTRATIVO</acao>
+    <funcao>04.ADMINISTRAÇÃO</funcao>
+    <subfuncao>122.ADMINISTRAÇÃO GERAL</subfuncao>
+    <vlr_ano1>599914.47</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>37</fk_entidade>
+    <fk_programa>132</fk_programa>
+    <fk_acao>43</fk_acao>
+    <fk_projeto_lei>252</fk_projeto_lei>
+    <orgao>1400.SECRETARIA DA HABITAÇÃO E SANEAMENTO AMBIENTAL</orgao>
+    <entidade>1401.SECRETARIA DA HABITAÇÃO E SANEAMENTO AMBIENTAL</entidade>
+    <programa>062.DESENVOLVIMENTO URBANO</programa>
+    <acao>1048.REGULARIZAÇÃO FUNDIÁRIA</acao>
+    <funcao>15.URBANISMO</funcao>
+    <subfuncao>451.INFRA- ESTRUTURA URBANA</subfuncao>
+    <vlr_ano1>11025.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>37</fk_entidade>
+    <fk_programa>133</fk_programa>
+    <fk_acao>40</fk_acao>
+    <fk_projeto_lei>204</fk_projeto_lei>
+    <orgao>1400.SECRETARIA DA HABITAÇÃO E SANEAMENTO AMBIENTAL</orgao>
+    <entidade>1401.SECRETARIA DA HABITAÇÃO E SANEAMENTO AMBIENTAL</entidade>
+    <programa>063.PROGRAMA HABITACIONAL</programa>
+    <acao>1045.RECONSTRUÇAO E MELHORIAS HABITACIONAIS - ÁREA RURAL</acao>
+    <funcao>16.HABITAÇÃO</funcao>
+    <subfuncao>481.HABITAÇÃO RURAL</subfuncao>
+    <vlr_ano1>13230.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>38</fk_entidade>
+    <fk_programa>136</fk_programa>
+    <fk_acao>171</fk_acao>
+    <fk_projeto_lei>227</fk_projeto_lei>
+    <orgao>1500.SECRETARIA DE GOVERNO</orgao>
+    <entidade>1501.SECRETARIA DE GOVERNO</entidade>
+    <programa>066.PROGRAMA DE ARTICULAÇÃO DE POLÍTICAS DE GOVERNO</programa>
+    <acao>2059.APOIAR O DESENVOLVIMENTO DAS ONG'S, SINDICATOS, COOPERATIVAS E ASSOCIAÇÕES</acao>
+    <funcao>04.ADMINISTRAÇÃO</funcao>
+    <subfuncao>122.ADMINISTRAÇÃO GERAL</subfuncao>
+    <vlr_ano1>12540.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>34</fk_entidade>
+    <fk_programa>124</fk_programa>
+    <fk_acao>380</fk_acao>
+    <fk_projeto_lei>200</fk_projeto_lei>
+    <orgao>1200.SECRETARIA DO ESPORTE E JUVENTUDE</orgao>
+    <entidade>1201.SECRETARIA DO ESPORTE E JUVENTUDE</entidade>
+    <programa>055.PROGRAMA DE DESENVOVIMENTO DO ESPORTE</programa>
+    <acao>1099.APOIAR A PRODUÇÃO E VEICULAÇÃO DO CONHECIMENTO CIENTÍFICO NO ÂMBITO DO ESPORTE</acao>
+    <funcao>27.DESPORTO E LAZER</funcao>
+    <subfuncao>811.DESPORTO DE RENDIMENTO</subfuncao>
+    <vlr_ano1>10000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>21</fk_entidade>
+    <fk_programa>73</fk_programa>
+    <fk_acao>322</fk_acao>
+    <fk_projeto_lei>187</fk_projeto_lei>
+    <orgao>0400.SECRETARIA DA CIDADANIA E SEGURANÇA</orgao>
+    <entidade>0401.SECRETARIA DA CIDADANIA E SEGURANÇA</entidade>
+    <programa>016.PROGRAMA MUNICIPAL DE SEGURANÇA E CIDADANIA</programa>
+    <acao>1026.EXPANSÃO E MODERNIZAÇÃO DAS ATIVIDADES DO TRÂNSITO</acao>
+    <funcao>04.ADMINISTRAÇÃO</funcao>
+    <subfuncao>122.ADMINISTRAÇÃO GERAL</subfuncao>
+    <vlr_ano1>10000.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>27</fk_entidade>
+    <fk_programa>95</fk_programa>
+    <fk_acao>225</fk_acao>
+    <fk_projeto_lei>183</fk_projeto_lei>
+    <orgao>0700.SECRETARIA DA SAÚDE E AÇÃO SOCIAL</orgao>
+    <entidade>0702.FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL</entidade>
+    <programa>029.PROTEÇÃO SOCIAL BÁSICA</programa>
+    <acao>2118.IMPLEMENTAR A POLITICA MUNICIPAL DA PESSOA COM DEFICIENCIA </acao>
+    <funcao>08.ASSISTÊNCIA SOCIAL</funcao>
+    <subfuncao>242.ASSISTÊNCIA AO PORTADOR DE DEFICIÊNCIA</subfuncao>
+    <vlr_ano1>11000.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>41</fk_entidade>
+    <fk_programa>14</fk_programa>
+    <fk_acao>283</fk_acao>
+    <fk_projeto_lei>76</fk_projeto_lei>
+    <orgao>0600.SECRETARIA DA EDUCAÇÃO</orgao>
+    <entidade>0603.FUNDEB - FUNDO DE MANUT. E DESENV. DA EDUCAÇÃO BÁSICA E VALORIZAÇÃO</entidade>
+    <programa>006.PROGRAMA DE FORTALECIMENTO DA AÇÃO PEDAGOGICA - FUNDEB EF</programa>
+    <acao>2137.MANUTENÇÃO E DESENVOLVIMENTO DA AÇÃO PEDAGÓGICA - FUNDEB 40% EF</acao>
+    <funcao>12.EDUCAÇÃO</funcao>
+    <subfuncao>361.ENSINO FUNDAMENTAL</subfuncao>
+    <vlr_ano1>198097.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>27</fk_entidade>
+    <fk_programa>95</fk_programa>
+    <fk_acao>366</fk_acao>
+    <fk_projeto_lei>185</fk_projeto_lei>
+    <orgao>0700.SECRETARIA DA SAÚDE E AÇÃO SOCIAL</orgao>
+    <entidade>0702.FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL</entidade>
+    <programa>029.PROTEÇÃO SOCIAL BÁSICA</programa>
+    <acao>2016.AMPLIAR AS POLÍTICAS VOLTADAS PARA AS CRIANÇAS, ADOLESCENTES E OS JOVENS EM SITUAÇÃO DE VULNERABILIDADE E RISCO SOCIAL</acao>
+    <funcao>08.ASSISTÊNCIA SOCIAL</funcao>
+    <subfuncao>244.ASSISTÊNCIA COMUNITÁRIA</subfuncao>
+    <vlr_ano1>409000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>26</fk_entidade>
+    <fk_programa>87</fk_programa>
+    <fk_acao>136</fk_acao>
+    <fk_projeto_lei>231</fk_projeto_lei>
+    <orgao>0700.SECRETARIA DA SAÚDE E AÇÃO SOCIAL</orgao>
+    <entidade>0701.FUNDO MUNICIPAL DE SAÚDE</entidade>
+    <programa>025.GESTÃO PLENA DO SISTEMA MUNICIPAL DE SAÚDE</programa>
+    <acao>2023.MANUT.FUNCIONAMENTO DOS ATENDIMENTO À SAUDE ESPECIALIZADA, BUCAL, MENTAL, AUDITI</acao>
+    <funcao>10.SAÚDE</funcao>
+    <subfuncao>301.ATENÇÃO BÁSICA</subfuncao>
+    <vlr_ano1>107000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>29</fk_entidade>
+    <fk_programa>108</fk_programa>
+    <fk_acao>52</fk_acao>
+    <fk_projeto_lei>111</fk_projeto_lei>
+    <orgao>0900.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</orgao>
+    <entidade>0901.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</entidade>
+    <programa>040.PROGRAMA DE DESENVOLVIMENTO TECNOLÓGICO - PRODETEC</programa>
+    <acao>1058.APOIO A DIFUSÃO DE TECNOLOGIAS SOCIAIS</acao>
+    <funcao>19.CIÊNCIA E TECNOLOGIA</funcao>
+    <subfuncao>573.DIFUSÃO DO CONHECIMENTO CIENTÍFICO E TECNOLÓGICO</subfuncao>
+    <vlr_ano1>13000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>28</fk_entidade>
+    <fk_programa>102</fk_programa>
+    <fk_acao>8</fk_acao>
+    <fk_projeto_lei>172</fk_projeto_lei>
+    <orgao>0800.SECRETARIA DA CULTURA E TURISMO</orgao>
+    <entidade>0801.SECRETARIA DA CULTURA E TURISMO</entidade>
+    <programa>035.INFRA-ESTRUTURA CULTURAL TURÍSTICA</programa>
+    <acao>1008.REFORMA E RESTAURAÇÃO DE EQUIPAMENTOS CULTURAIS E TURÍSTICOS</acao>
+    <funcao>13.CULTURA</funcao>
+    <subfuncao>391.PATRIMÔNIO HISTÓRICO, ARTÍSTICO E ARQUEOLÓGICO</subfuncao>
+    <vlr_ano1>13000.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>35</fk_entidade>
+    <fk_programa>125</fk_programa>
+    <fk_acao>12</fk_acao>
+    <fk_projeto_lei>138</fk_projeto_lei>
+    <orgao>1300.SECRETARIA  DA INFRA - ESTRUTURA</orgao>
+    <entidade>1301.SECRETARIA DA INFRA - ESTRUTURA</entidade>
+    <programa>056.INFRA-ESTRUTURA BÁSICA</programa>
+    <acao>2024.AMPLIAÇÃO E REESTRUTURAÇÃO DE RODOVIAS E ESTRADAS VICINAIS</acao>
+    <funcao>15.URBANISMO</funcao>
+    <subfuncao>452.SERVIÇOS URBANOS</subfuncao>
+    <vlr_ano1>18000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>21</fk_entidade>
+    <fk_programa>73</fk_programa>
+    <fk_acao>375</fk_acao>
+    <fk_projeto_lei>194</fk_projeto_lei>
+    <orgao>0400.SECRETARIA DA CIDADANIA E SEGURANÇA</orgao>
+    <entidade>0401.SECRETARIA DA CIDADANIA E SEGURANÇA</entidade>
+    <programa>016.PROGRAMA MUNICIPAL DE SEGURANÇA E CIDADANIA</programa>
+    <acao>2171.DESENVOLVER AÇÕES DA COORDENADORIA DE DEFESA CIVIL</acao>
+    <funcao>04.ADMINISTRAÇÃO</funcao>
+    <subfuncao>122.ADMINISTRAÇÃO GERAL</subfuncao>
+    <vlr_ano1>18000.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>30</fk_entidade>
+    <fk_programa>112</fk_programa>
+    <fk_acao>69</fk_acao>
+    <fk_projeto_lei>218</fk_projeto_lei>
+    <orgao>1000.SECRETARIA DA AGRICULTURA E PECUÁRIA</orgao>
+    <entidade>1001.SECRETARIA DA AGRICULTURA E PECUÁRIA</entidade>
+    <programa>043.PROGRAMA DE DESENVOLVIMENTO DA AGRICULTURA</programa>
+    <acao>1075.PROMOVER O DESENVOLVIMENTO DA AGRICULTURA FAMILIAR</acao>
+    <funcao>20.AGRICULTURA</funcao>
+    <subfuncao>601.PROMOÇÃO DA PRODUÇÃO VEGETAL</subfuncao>
+    <vlr_ano1>79450.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>29</fk_entidade>
+    <fk_programa>109</fk_programa>
+    <fk_acao>311</fk_acao>
+    <fk_projeto_lei>95</fk_projeto_lei>
+    <orgao>0900.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</orgao>
+    <entidade>0901.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</entidade>
+    <programa>041.TRABALHO PLENO</programa>
+    <acao>2145.APOIO A DESBUROCRATIZAÇÃO E FORMALIZAÇÃO DE MICROS E PEQUENOS EMPRESAS, PROFISSIONAIS INDIVIDUAIS E INFORMAIS</acao>
+    <funcao>11.TRABALHO</funcao>
+    <subfuncao>334.FOMENTO AO TRABALHO</subfuncao>
+    <vlr_ano1>3000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>34</fk_entidade>
+    <fk_programa>123</fk_programa>
+    <fk_acao>25</fk_acao>
+    <fk_projeto_lei>33</fk_projeto_lei>
+    <orgao>1200.SECRETARIA DO ESPORTE E JUVENTUDE</orgao>
+    <entidade>1201.SECRETARIA DO ESPORTE E JUVENTUDE</entidade>
+    <programa>054.PROGRAMA DE DESENV. DE ATIVIDADES FÍSICAS, RECREAÇÃO E LAZER - AGITA SOBRAL</programa>
+    <acao>1029.REALIZAÇÃO DE EVENTOS DE ATIVIDADE FÍSICA, RECREAÇÃO E LAZER</acao>
+    <funcao>27.DESPORTO E LAZER</funcao>
+    <subfuncao>812.DESPORTO COMUNITÁRIO</subfuncao>
+    <vlr_ano1>20000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>26</fk_entidade>
+    <fk_programa>87</fk_programa>
+    <fk_acao>444</fk_acao>
+    <fk_projeto_lei>312</fk_projeto_lei>
+    <orgao>0700.SECRETARIA DA SAÚDE E AÇÃO SOCIAL</orgao>
+    <entidade>0701.FUNDO MUNICIPAL DE SAÚDE</entidade>
+    <programa>025.GESTÃO PLENA DO SISTEMA MUNICIPAL DE SAÚDE</programa>
+    <acao>2175.CAPACITAÇÃO DE PROFISSIONAIS (PROESF)</acao>
+    <funcao>10.SAÚDE</funcao>
+    <subfuncao>301.ATENÇÃO BÁSICA</subfuncao>
+    <vlr_ano1>10000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>27</fk_entidade>
+    <fk_programa>92</fk_programa>
+    <fk_acao>420</fk_acao>
+    <fk_projeto_lei>260</fk_projeto_lei>
+    <orgao>0700.SECRETARIA DA SAÚDE E AÇÃO SOCIAL</orgao>
+    <entidade>0702.FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL</entidade>
+    <programa>027.APRIMORAMENTO DA GESTÃO DA POLITICA DA ASSISTENCIA SOCIAL</programa>
+    <acao>2140.MANUTENÇÃO E FUNCIONAMENTO DOS SERVIÇOS MUNICIPAIS DE ASSISTÊNCIA SOCIAL</acao>
+    <funcao>08.ASSISTÊNCIA SOCIAL</funcao>
+    <subfuncao>122.ADMINISTRAÇÃO GERAL</subfuncao>
+    <vlr_ano1>2500.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>34</fk_entidade>
+    <fk_programa>124</fk_programa>
+    <fk_acao>26</fk_acao>
+    <fk_projeto_lei>152</fk_projeto_lei>
+    <orgao>1200.SECRETARIA DO ESPORTE E JUVENTUDE</orgao>
+    <entidade>1201.SECRETARIA DO ESPORTE E JUVENTUDE</entidade>
+    <programa>055.PROGRAMA DE DESENVOVIMENTO DO ESPORTE</programa>
+    <acao>1030.CONSTRUÇÃO, AMPLIAÇÃO E RESTAURAÇÃO DE EQUIPAMENTOS ESPORTIVOS</acao>
+    <funcao>27.DESPORTO E LAZER</funcao>
+    <subfuncao>811.DESPORTO DE RENDIMENTO</subfuncao>
+    <vlr_ano1>1500.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>31</fk_entidade>
+    <fk_programa>115</fk_programa>
+    <fk_acao>164</fk_acao>
+    <fk_projeto_lei>240</fk_projeto_lei>
+    <orgao>1100.SECRETARIA DO PLANEJAMENTO E DESENVOLVIMENTO URBANO E MEIO AMBIENTE</orgao>
+    <entidade>1101.SECRETARIA DO PLANEJAMENTO E DESENVOLVIMENTO URBANO E MEIO AMBIENTE</entidade>
+    <programa>046.PLANEJAMENTO, GESTÃO E DESENVOLVIMENTO URBANO</programa>
+    <acao>2052.PLANEJAMENTO E DESENVOLVIMENTO URBANO</acao>
+    <funcao>15.URBANISMO</funcao>
+    <subfuncao>451.INFRA- ESTRUTURA URBANA</subfuncao>
+    <vlr_ano1>52000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>34</fk_entidade>
+    <fk_programa>124</fk_programa>
+    <fk_acao>30</fk_acao>
+    <fk_projeto_lei>155</fk_projeto_lei>
+    <orgao>1200.SECRETARIA DO ESPORTE E JUVENTUDE</orgao>
+    <entidade>1201.SECRETARIA DO ESPORTE E JUVENTUDE</entidade>
+    <programa>055.PROGRAMA DE DESENVOVIMENTO DO ESPORTE</programa>
+    <acao>2074.REALIZAÇÃO DE EVENTOS ESPORTIVOS</acao>
+    <funcao>27.DESPORTO E LAZER</funcao>
+    <subfuncao>811.DESPORTO DE RENDIMENTO</subfuncao>
+    <vlr_ano1>26000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>35</fk_entidade>
+    <fk_programa>125</fk_programa>
+    <fk_acao>16</fk_acao>
+    <fk_projeto_lei>141</fk_projeto_lei>
+    <orgao>1300.SECRETARIA  DA INFRA - ESTRUTURA</orgao>
+    <entidade>1301.SECRETARIA DA INFRA - ESTRUTURA</entidade>
+    <programa>056.INFRA-ESTRUTURA BÁSICA</programa>
+    <acao>2141.MANUTENÇÃO E MODERNIZAÇÃO DOS SISTEMAS DE COMUNICAÇÃO</acao>
+    <funcao>24.COMUNICAÇÕES</funcao>
+    <subfuncao>722.TELECOMUNICAÇÕES</subfuncao>
+    <vlr_ano1>54000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>29</fk_entidade>
+    <fk_programa>108</fk_programa>
+    <fk_acao>427</fk_acao>
+    <fk_projeto_lei>299</fk_projeto_lei>
+    <orgao>0900.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</orgao>
+    <entidade>0901.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</entidade>
+    <programa>040.PROGRAMA DE DESENVOLVIMENTO TECNOLÓGICO - PRODETEC</programa>
+    <acao>2116.MANUTENÇÃO DO PARQUE TECNOLOGICO</acao>
+    <funcao>19.CIÊNCIA E TECNOLOGIA</funcao>
+    <subfuncao>573.DIFUSÃO DO CONHECIMENTO CIENTÍFICO E TECNOLÓGICO</subfuncao>
+    <vlr_ano1>3000.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>30</fk_entidade>
+    <fk_programa>112</fk_programa>
+    <fk_acao>62</fk_acao>
+    <fk_projeto_lei>206</fk_projeto_lei>
+    <orgao>1000.SECRETARIA DA AGRICULTURA E PECUÁRIA</orgao>
+    <entidade>1001.SECRETARIA DA AGRICULTURA E PECUÁRIA</entidade>
+    <programa>043.PROGRAMA DE DESENVOLVIMENTO DA AGRICULTURA</programa>
+    <acao>1068.APOIAR A PRODUÇÃO DE PIMENTA TABASCO</acao>
+    <funcao>20.AGRICULTURA</funcao>
+    <subfuncao>601.PROMOÇÃO DA PRODUÇÃO VEGETAL</subfuncao>
+    <vlr_ano1>23420.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>29</fk_entidade>
+    <fk_programa>109</fk_programa>
+    <fk_acao>60</fk_acao>
+    <fk_projeto_lei>14</fk_projeto_lei>
+    <orgao>0900.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</orgao>
+    <entidade>0901.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</entidade>
+    <programa>041.TRABALHO PLENO</programa>
+    <acao>1066.INTERMEDIAÇÃO E APOIO A COMERCIALIZAÇÃO DE MICRO E PEQUENOS EMPREENDEDORES</acao>
+    <funcao>11.TRABALHO</funcao>
+    <subfuncao>334.FOMENTO AO TRABALHO</subfuncao>
+    <vlr_ano1>22000.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>29</fk_entidade>
+    <fk_programa>110</fk_programa>
+    <fk_acao>55</fk_acao>
+    <fk_projeto_lei>105</fk_projeto_lei>
+    <orgao>0900.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</orgao>
+    <entidade>0901.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</entidade>
+    <programa>042.PRODECON - PROGRAMA DE DESENVOLVIMENTO ECONÔMICO</programa>
+    <acao>1061.APOIO A REALIZAÇÃO DE EVENTOS, FEIRAS E MISSÕES EMPRESARIAIS</acao>
+    <funcao>22.INDÚSTRIA</funcao>
+    <subfuncao>661.PROMOÇÃO INDUSTRIAL</subfuncao>
+    <vlr_ano1>7000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>40</fk_entidade>
+    <fk_programa>138</fk_programa>
+    <fk_acao>214</fk_acao>
+    <fk_projeto_lei>90</fk_projeto_lei>
+    <orgao>1600.GABINETE DO VICE-PREFEITO</orgao>
+    <entidade>1601.GABINETE DO VICE-PREFEITO</entidade>
+    <programa>068.COORDENAÇÃO GERAL E FUNCIONAMENTO DO GAB-VICE</programa>
+    <acao>2104.COORDENAÇÃO GERAL E FUNCIONAMENTO ADMINISTRATIVO</acao>
+    <funcao>04.ADMINISTRAÇÃO</funcao>
+    <subfuncao>122.ADMINISTRAÇÃO GERAL</subfuncao>
+    <vlr_ano1>23000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>34</fk_entidade>
+    <fk_programa>124</fk_programa>
+    <fk_acao>28</fk_acao>
+    <fk_projeto_lei>154</fk_projeto_lei>
+    <orgao>1200.SECRETARIA DO ESPORTE E JUVENTUDE</orgao>
+    <entidade>1201.SECRETARIA DO ESPORTE E JUVENTUDE</entidade>
+    <programa>055.PROGRAMA DE DESENVOVIMENTO DO ESPORTE</programa>
+    <acao>1032.DESENVOLVIMENTO DE ACOES ESPORTIVAS E SOCIAIS</acao>
+    <funcao>27.DESPORTO E LAZER</funcao>
+    <subfuncao>811.DESPORTO DE RENDIMENTO</subfuncao>
+    <vlr_ano1>33500.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>21</fk_entidade>
+    <fk_programa>73</fk_programa>
+    <fk_acao>153</fk_acao>
+    <fk_projeto_lei>195</fk_projeto_lei>
+    <orgao>0400.SECRETARIA DA CIDADANIA E SEGURANÇA</orgao>
+    <entidade>0401.SECRETARIA DA CIDADANIA E SEGURANÇA</entidade>
+    <programa>016.PROGRAMA MUNICIPAL DE SEGURANÇA E CIDADANIA</programa>
+    <acao>2040.MANUTENÇÃO E FUNCIONAMENTO DAS ATIVIDADES DO TRÂNSITO</acao>
+    <funcao>04.ADMINISTRAÇÃO</funcao>
+    <subfuncao>122.ADMINISTRAÇÃO GERAL</subfuncao>
+    <vlr_ano1>15000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>30</fk_entidade>
+    <fk_programa>114</fk_programa>
+    <fk_acao>184</fk_acao>
+    <fk_projeto_lei>274</fk_projeto_lei>
+    <orgao>1000.SECRETARIA DA AGRICULTURA E PECUÁRIA</orgao>
+    <entidade>1001.SECRETARIA DA AGRICULTURA E PECUÁRIA</entidade>
+    <programa>045.COORDENAÇÃO E MANUTENÇÃO GERAL DA SEAGRI</programa>
+    <acao>2072.MANUTENÇÃO E FUNCIONAMENTO ADMINISTRATIVO </acao>
+    <funcao>04.ADMINISTRAÇÃO</funcao>
+    <subfuncao>122.ADMINISTRAÇÃO GERAL</subfuncao>
+    <vlr_ano1>160797.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>27</fk_entidade>
+    <fk_programa>92</fk_programa>
+    <fk_acao>441</fk_acao>
+    <fk_projeto_lei>309</fk_projeto_lei>
+    <orgao>0700.SECRETARIA DA SAÚDE E AÇÃO SOCIAL</orgao>
+    <entidade>0702.FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL</entidade>
+    <programa>027.APRIMORAMENTO DA GESTÃO DA POLITICA DA ASSISTENCIA SOCIAL</programa>
+    <acao>2172.FORMAÇÃO E CAPACITAÇÃO DE RECURSOS HUMANOS</acao>
+    <funcao>08.ASSISTÊNCIA SOCIAL</funcao>
+    <subfuncao>128.FORMAÇÃO DE RECURSOS HUMANOS</subfuncao>
+    <vlr_ano1>2000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>35</fk_entidade>
+    <fk_programa>127</fk_programa>
+    <fk_acao>140</fk_acao>
+    <fk_projeto_lei>148</fk_projeto_lei>
+    <orgao>1300.SECRETARIA  DA INFRA - ESTRUTURA</orgao>
+    <entidade>1301.SECRETARIA DA INFRA - ESTRUTURA</entidade>
+    <programa>058.INFRA-ESTRUTURA DE RECURSOS HÍDRICOS</programa>
+    <acao>2027.MANUTENÇÃO, PERFURAÇÃO E INSTALAÇÃO DE POÇOS</acao>
+    <funcao>18.GESTÃO AMBIENTAL</funcao>
+    <subfuncao>544.RECURSOS HÍDRICOS</subfuncao>
+    <vlr_ano1>66500.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>34</fk_entidade>
+    <fk_programa>124</fk_programa>
+    <fk_acao>29</fk_acao>
+    <fk_projeto_lei>29</fk_projeto_lei>
+    <orgao>1200.SECRETARIA DO ESPORTE E JUVENTUDE</orgao>
+    <entidade>1201.SECRETARIA DO ESPORTE E JUVENTUDE</entidade>
+    <programa>055.PROGRAMA DE DESENVOVIMENTO DO ESPORTE</programa>
+    <acao>1033.APOIO A ENTIDADES ESPORTIVAS E ATLETAS PROFISSIONAIS</acao>
+    <funcao>27.DESPORTO E LAZER</funcao>
+    <subfuncao>811.DESPORTO DE RENDIMENTO</subfuncao>
+    <vlr_ano1>1500.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>29</fk_entidade>
+    <fk_programa>19</fk_programa>
+    <fk_acao>330</fk_acao>
+    <fk_projeto_lei>165</fk_projeto_lei>
+    <orgao>0900.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</orgao>
+    <entidade>0901.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</entidade>
+    <programa>010.PRODENE - PROGRAMA DE DESENVOLVIMENTO DE EVENTOS DE NEGOCIOS</programa>
+    <acao>2155.CAPTAÇÃO E REALIZAÇÃO DE EVENTOS DE INCENTIVO AOS NEGÓCIOS</acao>
+    <funcao>11.TRABALHO</funcao>
+    <subfuncao>334.FOMENTO AO TRABALHO</subfuncao>
+    <vlr_ano1>14000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>20</fk_entidade>
+    <fk_programa>72</fk_programa>
+    <fk_acao>182</fk_acao>
+    <fk_projeto_lei>27</fk_projeto_lei>
+    <orgao>0300.PROCURADORIA GERAL DO MUNICÍPIO</orgao>
+    <entidade>0100.te</entidade>
+    <programa>015.DEFESA DOS INTERESSES JURÍDICOS DO MUNICÍPIO</programa>
+    <acao>2070.MANUTENÇÃO E FUNCIONAMENTO ADMINISTRATIVO DA PGM</acao>
+    <funcao>04.ADMINISTRAÇÃO</funcao>
+    <subfuncao>122.ADMINISTRAÇÃO GERAL</subfuncao>
+    <vlr_ano1>131000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>21</fk_entidade>
+    <fk_programa>73</fk_programa>
+    <fk_acao>237</fk_acao>
+    <fk_projeto_lei>190</fk_projeto_lei>
+    <orgao>0400.SECRETARIA DA CIDADANIA E SEGURANÇA</orgao>
+    <entidade>0401.SECRETARIA DA CIDADANIA E SEGURANÇA</entidade>
+    <programa>016.PROGRAMA MUNICIPAL DE SEGURANÇA E CIDADANIA</programa>
+    <acao>2130.MANUTENÇÃO E FUNCIONAMENTO DA GUARDA CIVIL MUNICIPAL</acao>
+    <funcao>04.ADMINISTRAÇÃO</funcao>
+    <subfuncao>122.ADMINISTRAÇÃO GERAL</subfuncao>
+    <vlr_ano1>31000.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>29</fk_entidade>
+    <fk_programa>110</fk_programa>
+    <fk_acao>53</fk_acao>
+    <fk_projeto_lei>103</fk_projeto_lei>
+    <orgao>0900.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</orgao>
+    <entidade>0901.SECRETARIA DA TECNOLOGIA E DESENVOLVIMENTO ECONÔMICO</entidade>
+    <programa>042.PRODECON - PROGRAMA DE DESENVOLVIMENTO ECONÔMICO</programa>
+    <acao>2088.MANUTENÇÃO E MODERNIZAÇÃO DO LOTEAMENTO TERRA NOVA</acao>
+    <funcao>22.INDÚSTRIA</funcao>
+    <subfuncao>661.PROMOÇÃO INDUSTRIAL</subfuncao>
+    <vlr_ano1>35000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>30</fk_entidade>
+    <fk_programa>112</fk_programa>
+    <fk_acao>71</fk_acao>
+    <fk_projeto_lei>214</fk_projeto_lei>
+    <orgao>1000.SECRETARIA DA AGRICULTURA E PECUÁRIA</orgao>
+    <entidade>1001.SECRETARIA DA AGRICULTURA E PECUÁRIA</entidade>
+    <programa>043.PROGRAMA DE DESENVOLVIMENTO DA AGRICULTURA</programa>
+    <acao>1077.APOIAR A PRODUÇÃO DE FRUTICULTURA IRRIGADA</acao>
+    <funcao>20.AGRICULTURA</funcao>
+    <subfuncao>601.PROMOÇÃO DA PRODUÇÃO VEGETAL</subfuncao>
+    <vlr_ano1>25900.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>25</fk_entidade>
+    <fk_programa>9</fk_programa>
+    <fk_acao>270</fk_acao>
+    <fk_projeto_lei>61</fk_projeto_lei>
+    <orgao>0600.SECRETARIA DA EDUCAÇÃO</orgao>
+    <entidade>0601.SECRETARIA DA EDUCAÇÃO</entidade>
+    <programa>001.PROGRAMA DE FORTALECIMENTO DA AÇÃO PEDAGÓGICA E GESTÃO ESCOLAR</programa>
+    <acao>2091.MANUTENÇÃO E FUNCIONAMENTO DA REDE INTEGRADA DE BIBLIOTECA</acao>
+    <funcao>12.EDUCAÇÃO</funcao>
+    <subfuncao>361.ENSINO FUNDAMENTAL</subfuncao>
+    <vlr_ano1>10000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>27</fk_entidade>
+    <fk_programa>98</fk_programa>
+    <fk_acao>397</fk_acao>
+    <fk_projeto_lei>225</fk_projeto_lei>
+    <orgao>0700.SECRETARIA DA SAÚDE E AÇÃO SOCIAL</orgao>
+    <entidade>0702.FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL</entidade>
+    <programa>032.VIGILÂNCIA SOCIAL E DEFESA SOCIAL E INSTITUCIONAL</programa>
+    <acao>2147.MANUTENÇÃO E FUNCIONAMENTO DO CADASTRO UNICO</acao>
+    <funcao>08.ASSISTÊNCIA SOCIAL</funcao>
+    <subfuncao>244.ASSISTÊNCIA COMUNITÁRIA</subfuncao>
+    <vlr_ano1>242500.00</vlr_ano1>
+    <vlr_ano2>0</vlr_ano2>
+    <vlr_ano3>0</vlr_ano3>
+    <vlr_ano4>0</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>38</fk_entidade>
+    <fk_programa>137</fk_programa>
+    <fk_acao>170</fk_acao>
+    <fk_projeto_lei>230</fk_projeto_lei>
+    <orgao>1500.SECRETARIA DE GOVERNO</orgao>
+    <entidade>1501.SECRETARIA DE GOVERNO</entidade>
+    <programa>067.CORDENAÇÃO GERAL E FUNCIONAMENTO ADMINISTRATIVO - SEGOV</programa>
+    <acao>2058.MANUTENÇÃO E FUNCIONAMENTO ADMINISTRATIVO SEGOV</acao>
+    <funcao>04.ADMINISTRAÇÃO</funcao>
+    <subfuncao>122.ADMINISTRAÇÃO GERAL</subfuncao>
+    <vlr_ano1>50444.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>34</fk_entidade>
+    <fk_programa>123</fk_programa>
+    <fk_acao>23</fk_acao>
+    <fk_projeto_lei>32</fk_projeto_lei>
+    <orgao>1200.SECRETARIA DO ESPORTE E JUVENTUDE</orgao>
+    <entidade>1201.SECRETARIA DO ESPORTE E JUVENTUDE</entidade>
+    <programa>054.PROGRAMA DE DESENV. DE ATIVIDADES FÍSICAS, RECREAÇÃO E LAZER - AGITA SOBRAL</programa>
+    <acao>1027.DESENVOLVIMENTO DE AÇÕES DE ATIVIDADES FÍSICAS, RECREAÇÃO E LAZER</acao>
+    <funcao>27.DESPORTO E LAZER</funcao>
+    <subfuncao>812.DESPORTO COMUNITÁRIO</subfuncao>
+    <vlr_ano1>20000.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_principal>
+    <ano_elaboracao>2011</ano_elaboracao>
+    <fk_entidade>30</fk_entidade>
+    <fk_programa>112</fk_programa>
+    <fk_acao>70</fk_acao>
+    <fk_projeto_lei>213</fk_projeto_lei>
+    <orgao>1000.SECRETARIA DA AGRICULTURA E PECUÁRIA</orgao>
+    <entidade>1001.SECRETARIA DA AGRICULTURA E PECUÁRIA</entidade>
+    <programa>043.PROGRAMA DE DESENVOLVIMENTO DA AGRICULTURA</programa>
+    <acao>1076.CAPACITAR PRODUTORES RURAIS</acao>
+    <funcao>20.AGRICULTURA</funcao>
+    <subfuncao>601.PROMOÇÃO DA PRODUÇÃO VEGETAL</subfuncao>
+    <vlr_ano1>27206.00</vlr_ano1>
+    <vlr_ano2>0.00</vlr_ano2>
+    <vlr_ano3>0.00</vlr_ano3>
+    <vlr_ano4>0.00</vlr_ano4>
+  </tb_principal>
+  <tb_sub1>
+    <fk_projeto_lei>185</fk_projeto_lei>
+    <produto>0120.JOVENS QUALIFICADOS - Pes</produto>
+    <qtd_ano1>300.00</qtd_ano1>
+    <qtd_ano2>350.00</qtd_ano2>
+    <qtd_ano3>400.00</qtd_ano3>
+    <qtd_ano4>450.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>203</fk_projeto_lei>
+    <produto> 006.CASAS CONSTRUÍDAS - Und</produto>
+    <qtd_ano1>548.00</qtd_ano1>
+    <qtd_ano2>3018.00</qtd_ano2>
+    <qtd_ano3>2650.00</qtd_ano3>
+    <qtd_ano4>2975.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>50</fk_projeto_lei>
+    <produto>0136.ALUNO ATENDIDO - %</produto>
+    <qtd_ano1>25674.00</qtd_ano1>
+    <qtd_ano2>26578.00</qtd_ano2>
+    <qtd_ano3>27030.00</qtd_ano3>
+    <qtd_ano4>27482.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>92</fk_projeto_lei>
+    <produto> 013.DIVULGAÇÃO DAS AÇÕES DE GOVERNO REALIZADAS - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>214</fk_projeto_lei>
+    <produto> 010.PROJETOS DE IIRIGAÇÃO IMPLANTADOS - Und</produto>
+    <qtd_ano1>10.00</qtd_ano1>
+    <qtd_ano2>12.00</qtd_ano2>
+    <qtd_ano3>15.00</qtd_ano3>
+    <qtd_ano4>20.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>256</fk_projeto_lei>
+    <produto> 012.GRUPO DE CONVIVÊNCIA DO IDOSO IMPLANTADO - Und</produto>
+    <qtd_ano1>12.00</qtd_ano1>
+    <qtd_ano2>14.00</qtd_ano2>
+    <qtd_ano3>16.00</qtd_ano3>
+    <qtd_ano4>18.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>300</fk_projeto_lei>
+    <produto> 005.ENTIDADE MANTIDA - Und</produto>
+    <qtd_ano1>4.00</qtd_ano1>
+    <qtd_ano2>5.00</qtd_ano2>
+    <qtd_ano3>6.00</qtd_ano3>
+    <qtd_ano4>7.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>94</fk_projeto_lei>
+    <produto> 005.ENTIDADE MANTIDA - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>68</fk_projeto_lei>
+    <produto> 002.FREQUÊNCIA ESCOLAR - %</produto>
+    <qtd_ano1>100.00</qtd_ano1>
+    <qtd_ano2>100.00</qtd_ano2>
+    <qtd_ano3>100.00</qtd_ano3>
+    <qtd_ano4>100.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>111</fk_projeto_lei>
+    <produto> 003.PROJETOS APOIADOS - Und</produto>
+    <qtd_ano1>5.00</qtd_ano1>
+    <qtd_ano2>8.00</qtd_ano2>
+    <qtd_ano3>11.00</qtd_ano3>
+    <qtd_ano4>15.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>251</fk_projeto_lei>
+    <produto> 006.LOTES E CONJUNTOS URBANIZADOS  - Und</produto>
+    <qtd_ano1>218.00</qtd_ano1>
+    <qtd_ano2>200.00</qtd_ano2>
+    <qtd_ano3>188.00</qtd_ano3>
+    <qtd_ano4>200.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>146</fk_projeto_lei>
+    <produto>0099.AÇUDES RECUPERADOS E MANTIDOS - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>40</fk_projeto_lei>
+    <produto>0136.ALUNO ATENDIDO - %</produto>
+    <qtd_ano1>50.00</qtd_ano1>
+    <qtd_ano2>50.00</qtd_ano2>
+    <qtd_ano3>50.00</qtd_ano3>
+    <qtd_ano4>50.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>245</fk_projeto_lei>
+    <produto>0074.PESSOAS ATENDIDAS - Pes</produto>
+    <qtd_ano1>500.00</qtd_ano1>
+    <qtd_ano2>500.00</qtd_ano2>
+    <qtd_ano3>500.00</qtd_ano3>
+    <qtd_ano4>500.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>292</fk_projeto_lei>
+    <produto> 005.ENTIDADE MANTIDA - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>279</fk_projeto_lei>
+    <produto> 006.UNIDADE SANITÁRIA DOMICILIAR IMPLANTADA - Und</produto>
+    <qtd_ano1>928.00</qtd_ano1>
+    <qtd_ano2>1061.00</qtd_ano2>
+    <qtd_ano3>424.00</qtd_ano3>
+    <qtd_ano4>896.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>93</fk_projeto_lei>
+    <produto> 010.CONTRATO DE GESTÃO IMPLANTADADO  - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>62</fk_projeto_lei>
+    <produto> 002.INCLUSÃO DIGITAL - Pes</produto>
+    <qtd_ano1>26126.00</qtd_ano1>
+    <qtd_ano2>26578.00</qtd_ano2>
+    <qtd_ano3>27030.00</qtd_ano3>
+    <qtd_ano4>27482.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>150</fk_projeto_lei>
+    <produto>0071.PESSOAS CAPACITADAS - Pes</produto>
+    <qtd_ano1>200.00</qtd_ano1>
+    <qtd_ano2>225.00</qtd_ano2>
+    <qtd_ano3>250.00</qtd_ano3>
+    <qtd_ano4>275.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>66</fk_projeto_lei>
+    <produto>0136.ALUNO ATENDIDO - %</produto>
+    <qtd_ano1>7903.00</qtd_ano1>
+    <qtd_ano2>8856.00</qtd_ano2>
+    <qtd_ano3>9809.00</qtd_ano3>
+    <qtd_ano4>10762.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>137</fk_projeto_lei>
+    <produto>0030.RODOVIAS E ESTRADAS CONSTRUÍDAS - Km</produto>
+    <qtd_ano1>6.00</qtd_ano1>
+    <qtd_ano2>0.00</qtd_ano2>
+    <qtd_ano3>0.00</qtd_ano3>
+    <qtd_ano4>0.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>274</fk_projeto_lei>
+    <produto> 005.ENTIDADE MANTIDA - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>55</fk_projeto_lei>
+    <produto>0135.ALUNO MATRICULADO - Pes</produto>
+    <qtd_ano1>7903.00</qtd_ano1>
+    <qtd_ano2>8856.00</qtd_ano2>
+    <qtd_ano3>9808.00</qtd_ano3>
+    <qtd_ano4>10762.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>248</fk_projeto_lei>
+    <produto>0032.POPULAÇÃO ATENDIDA - Pes</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>70</fk_projeto_lei>
+    <produto>0134.PESSOAL DO MAGISTÉRIO INCENTIVADO - Pes</produto>
+    <qtd_ano1>1112.00</qtd_ano1>
+    <qtd_ano2>1134.00</qtd_ano2>
+    <qtd_ano3>1150.00</qtd_ano3>
+    <qtd_ano4>1182.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>183</fk_projeto_lei>
+    <produto> 002.ENTIDADES CONVENIADAS - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>144</fk_projeto_lei>
+    <produto>0034.AÇUDE CONSTRUÍDO - Und</produto>
+    <qtd_ano1>0.00</qtd_ano1>
+    <qtd_ano2>0.00</qtd_ano2>
+    <qtd_ano3>0.00</qtd_ano3>
+    <qtd_ano4>0.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>149</fk_projeto_lei>
+    <produto> 005.ADUTORA - Und</produto>
+    <qtd_ano1>30.00</qtd_ano1>
+    <qtd_ano2>38.00</qtd_ano2>
+    <qtd_ano3>43.00</qtd_ano3>
+    <qtd_ano4>50.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>298</fk_projeto_lei>
+    <produto> 007.SISTEMA MANTIDO - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>278</fk_projeto_lei>
+    <produto> 008.REDE DE ESGOTO MANTIDA - %</produto>
+    <qtd_ano1>100.00</qtd_ano1>
+    <qtd_ano2>100.00</qtd_ano2>
+    <qtd_ano3>100.00</qtd_ano3>
+    <qtd_ano4>100.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>87</fk_projeto_lei>
+    <produto>0074.PESSOAS ATENDIDAS - Pes</produto>
+    <qtd_ano1>360.00</qtd_ano1>
+    <qtd_ano2>360.00</qtd_ano2>
+    <qtd_ano3>360.00</qtd_ano3>
+    <qtd_ano4>360.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>108</fk_projeto_lei>
+    <produto> 013.PROGRAMA MANTIDO - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>145</fk_projeto_lei>
+    <produto> 003.SISTEMA DE ABASTECIMENTO D'AGUA CONSTRUÍDO - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>0.00</qtd_ano2>
+    <qtd_ano3>0.00</qtd_ano3>
+    <qtd_ano4>0.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>234</fk_projeto_lei>
+    <produto> 001.PREVENÇÃO CONTROLE DE DST/AIDS REALIZADOS - Und</produto>
+    <qtd_ano1>100.00</qtd_ano1>
+    <qtd_ano2>100.00</qtd_ano2>
+    <qtd_ano3>100.00</qtd_ano3>
+    <qtd_ano4>100.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>156</fk_projeto_lei>
+    <produto>0071.PESSOAS CAPACITADAS - Pes</produto>
+    <qtd_ano1>100.00</qtd_ano1>
+    <qtd_ano2>100.00</qtd_ano2>
+    <qtd_ano3>100.00</qtd_ano3>
+    <qtd_ano4>100.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>17</fk_projeto_lei>
+    <produto> 005.ENTIDADE MANTIDA - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>280</fk_projeto_lei>
+    <produto> 006.UNIDADE SANITÁRIA DOMICILIAR IMPLANTADA - Und</produto>
+    <qtd_ano1>308.00</qtd_ano1>
+    <qtd_ano2>237.00</qtd_ano2>
+    <qtd_ano3>198.00</qtd_ano3>
+    <qtd_ano4>194.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>222</fk_projeto_lei>
+    <produto>0013.PACIENTES ATENDIDOS - Pes</produto>
+    <qtd_ano1>120000.00</qtd_ano1>
+    <qtd_ano2>125000.00</qtd_ano2>
+    <qtd_ano3>130000.00</qtd_ano3>
+    <qtd_ano4>140000.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>68</fk_projeto_lei>
+    <produto> 002.TAXA DE ABANDONO ESCOLAR - %</produto>
+    <qtd_ano1>6.00</qtd_ano1>
+    <qtd_ano2>5.00</qtd_ano2>
+    <qtd_ano3>4.00</qtd_ano3>
+    <qtd_ano4>3.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>131</fk_projeto_lei>
+    <produto> 005.BAIRRO - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>0.00</qtd_ano2>
+    <qtd_ano3>0.00</qtd_ano3>
+    <qtd_ano4>0.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>146</fk_projeto_lei>
+    <produto> 005.PASSAGEM MOLHADA - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>170</fk_projeto_lei>
+    <produto> 007.EVENTOS CULTURAIS APOIADOS - %</produto>
+    <qtd_ano1>100.00</qtd_ano1>
+    <qtd_ano2>100.00</qtd_ano2>
+    <qtd_ano3>100.00</qtd_ano3>
+    <qtd_ano4>100.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>35</fk_projeto_lei>
+    <produto>0071.PESSOAS CAPACITADAS - Pes</produto>
+    <qtd_ano1>200.00</qtd_ano1>
+    <qtd_ano2>200.00</qtd_ano2>
+    <qtd_ano3>200.00</qtd_ano3>
+    <qtd_ano4>200.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>237</fk_projeto_lei>
+    <produto> 001.SISTEMA AMPLIADO E MODERNIZADO - Und</produto>
+    <qtd_ano1>0.00</qtd_ano1>
+    <qtd_ano2>5.00</qtd_ano2>
+    <qtd_ano3>5.00</qtd_ano3>
+    <qtd_ano4>0.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>256</fk_projeto_lei>
+    <produto> 002.ENTIDADES CONVENIADAS - Und</produto>
+    <qtd_ano1>6.00</qtd_ano1>
+    <qtd_ano2>6.00</qtd_ano2>
+    <qtd_ano3>6.00</qtd_ano3>
+    <qtd_ano4>6.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>174</fk_projeto_lei>
+    <produto> 007.PATRIMÕNIO HISTÓRICO REVITALIZADO - %</produto>
+    <qtd_ano1>100.00</qtd_ano1>
+    <qtd_ano2>100.00</qtd_ano2>
+    <qtd_ano3>100.00</qtd_ano3>
+    <qtd_ano4>100.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>247</fk_projeto_lei>
+    <produto> 005.POPULAÇÃO ATENDIDA - %</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>160</fk_projeto_lei>
+    <produto> 005.ENTIDADE MANTIDA - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>55</fk_projeto_lei>
+    <produto>0134.PESSOAL DO MAGISTÉRIO INCENTIVADO - Pes</produto>
+    <qtd_ano1>325.00</qtd_ano1>
+    <qtd_ano2>364.00</qtd_ano2>
+    <qtd_ano3>403.00</qtd_ano3>
+    <qtd_ano4>443.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>118</fk_projeto_lei>
+    <produto> 005.ENTIDADE MANTIDA - Und</produto>
+    <qtd_ano1>4.00</qtd_ano1>
+    <qtd_ano2>5.00</qtd_ano2>
+    <qtd_ano3>6.00</qtd_ano3>
+    <qtd_ano4>7.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>315</fk_projeto_lei>
+    <produto> 008.FIAÇÃO INTERNALIZADA - %</produto>
+    <qtd_ano1>0.00</qtd_ano1>
+    <qtd_ano2>75.00</qtd_ano2>
+    <qtd_ano3>0.00</qtd_ano3>
+    <qtd_ano4>0.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>230</fk_projeto_lei>
+    <produto> 005.ENTIDADE MANTIDA - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>241</fk_projeto_lei>
+    <produto> 006.EQUIPAMENTOS URBANOS CONSTRUÍDOS - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>3.00</qtd_ano2>
+    <qtd_ano3>2.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>181</fk_projeto_lei>
+    <produto> 006.EQUIPAMENTOS URBANOS MANTIDOS - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>62</fk_projeto_lei>
+    <produto>0135.ALUNO MATRICULADO - Pes</produto>
+    <qtd_ano1>26126.00</qtd_ano1>
+    <qtd_ano2>26578.00</qtd_ano2>
+    <qtd_ano3>27030.00</qtd_ano3>
+    <qtd_ano4>27482.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>169</fk_projeto_lei>
+    <produto> 007.EVENTOS CULTURAIS APOIADOS - %</produto>
+    <qtd_ano1>100.00</qtd_ano1>
+    <qtd_ano2>100.00</qtd_ano2>
+    <qtd_ano3>100.00</qtd_ano3>
+    <qtd_ano4>100.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>288</fk_projeto_lei>
+    <produto> 008.SISTEMA DE ESGOTAMENTO SANITÁRIO MELHORADO - Und</produto>
+    <qtd_ano1>0.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>0.00</qtd_ano3>
+    <qtd_ano4>0.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>65</fk_projeto_lei>
+    <produto> 014.ESCOLA AMPLIADA E REFORMADA - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>164</fk_projeto_lei>
+    <produto> 004.EMPRESARIOS CAPACITADOS - Pes</produto>
+    <qtd_ano1>180.00</qtd_ano1>
+    <qtd_ano2>240.00</qtd_ano2>
+    <qtd_ano3>300.00</qtd_ano3>
+    <qtd_ano4>350.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>134</fk_projeto_lei>
+    <produto> 001.FROTA E EQUIPAMENTOS MODERNIZADOS - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>190</fk_projeto_lei>
+    <produto> 000.GUARDA CIVIL MANTIDA - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>176</fk_projeto_lei>
+    <produto> 007.AÇÕES TURÍSTICAS APOIADAS - %</produto>
+    <qtd_ano1>100.00</qtd_ano1>
+    <qtd_ano2>100.00</qtd_ano2>
+    <qtd_ano3>100.00</qtd_ano3>
+    <qtd_ano4>100.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>288</fk_projeto_lei>
+    <produto> 003.SISTEMA DE ABASTECIMENTO D'AGUA MELHORADO - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>129</fk_projeto_lei>
+    <produto> 005.BAIRRO - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>0.00</qtd_ano2>
+    <qtd_ano3>0.00</qtd_ano3>
+    <qtd_ano4>0.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>152</fk_projeto_lei>
+    <produto> 007.EQUIPAMENTO ESPORTIVO CONSTRUÍDO/RECUPERADO - Und</produto>
+    <qtd_ano1>5.00</qtd_ano1>
+    <qtd_ano2>5.00</qtd_ano2>
+    <qtd_ano3>5.00</qtd_ano3>
+    <qtd_ano4>5.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>59</fk_projeto_lei>
+    <produto> 014.ESCOLAS CONSTRUÍDAS - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>49</fk_projeto_lei>
+    <produto>0136.ALUNO ATENDIDO - %</produto>
+    <qtd_ano1>3343.00</qtd_ano1>
+    <qtd_ano2>3900.00</qtd_ano2>
+    <qtd_ano3>4458.00</qtd_ano3>
+    <qtd_ano4>5015.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>145</fk_projeto_lei>
+    <produto> 005.ADUTORA - Und</produto>
+    <qtd_ano1>0.00</qtd_ano1>
+    <qtd_ano2>0.00</qtd_ano2>
+    <qtd_ano3>0.00</qtd_ano3>
+    <qtd_ano4>0.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>80</fk_projeto_lei>
+    <produto> 002.CONSELHOS ESCOLARES - Und</produto>
+    <qtd_ano1>50.00</qtd_ano1>
+    <qtd_ano2>50.00</qtd_ano2>
+    <qtd_ano3>50.00</qtd_ano3>
+    <qtd_ano4>50.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>189</fk_projeto_lei>
+    <produto>0008.GUARDA MUNICIPAL E GUARDA MIRIM MODERNIZADA E CAPACITADA - Pes</produto>
+    <qtd_ano1>180.00</qtd_ano1>
+    <qtd_ano2>200.00</qtd_ano2>
+    <qtd_ano3>200.00</qtd_ano3>
+    <qtd_ano4>200.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>227</fk_projeto_lei>
+    <produto> 006.ONGS, SINDICATOS E ASSOCIAÇÕES DESENVOLVIDAS - Und</produto>
+    <qtd_ano1>25.00</qtd_ano1>
+    <qtd_ano2>25.00</qtd_ano2>
+    <qtd_ano3>25.00</qtd_ano3>
+    <qtd_ano4>25.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>185</fk_projeto_lei>
+    <produto>0076.JOVENS ASSISTIDOS - Pes</produto>
+    <qtd_ano1>12000.00</qtd_ano1>
+    <qtd_ano2>13000.00</qtd_ano2>
+    <qtd_ano3>14000.00</qtd_ano3>
+    <qtd_ano4>15000.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>144</fk_projeto_lei>
+    <produto> 005.BARRAGEM - Und</produto>
+    <qtd_ano1>0.00</qtd_ano1>
+    <qtd_ano2>0.00</qtd_ano2>
+    <qtd_ano3>0.00</qtd_ano3>
+    <qtd_ano4>0.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>157</fk_projeto_lei>
+    <produto> 005.ENTIDADE MANTIDA - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>185</fk_projeto_lei>
+    <produto> 008.PROJETO IMPLANTADO - Und</produto>
+    <qtd_ano1>4.00</qtd_ano1>
+    <qtd_ano2>5.00</qtd_ano2>
+    <qtd_ano3>6.00</qtd_ano3>
+    <qtd_ano4>7.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>163</fk_projeto_lei>
+    <produto> 009.LIGAÇÕES DE ESGOTO ATENDIDAS - Und</produto>
+    <qtd_ano1>0.00</qtd_ano1>
+    <qtd_ano2>36000.00</qtd_ano2>
+    <qtd_ano3>0.00</qtd_ano3>
+    <qtd_ano4>0.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>221</fk_projeto_lei>
+    <produto> 013.PROGRAMA MANTIDO - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>202</fk_projeto_lei>
+    <produto> 006.CASAS CONSTRUÍDAS - Und</produto>
+    <qtd_ano1>141.00</qtd_ano1>
+    <qtd_ano2>197.00</qtd_ano2>
+    <qtd_ano3>180.00</qtd_ano3>
+    <qtd_ano4>120.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>196</fk_projeto_lei>
+    <produto>0010.SEGURANÇA E CIDADANIA PROMOVIDA - %</produto>
+    <qtd_ano1>100.00</qtd_ano1>
+    <qtd_ano2>100.00</qtd_ano2>
+    <qtd_ano3>100.00</qtd_ano3>
+    <qtd_ano4>100.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>47</fk_projeto_lei>
+    <produto>0134.PESSOAL DO MAGISTÉRIO INCENTIVADO - Pes</produto>
+    <qtd_ano1>123.00</qtd_ano1>
+    <qtd_ano2>144.00</qtd_ano2>
+    <qtd_ano3>165.00</qtd_ano3>
+    <qtd_ano4>186.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>187</fk_projeto_lei>
+    <produto>0009.COORDENADORIA DE TRÂNSITO MODERNIZADA E EXPANDIDA - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>162</fk_projeto_lei>
+    <produto> 008.LIGAÇÕES DE ÁGUA ATENDIDAS - Und</produto>
+    <qtd_ano1>0.00</qtd_ano1>
+    <qtd_ano2>54000.00</qtd_ano2>
+    <qtd_ano3>0.00</qtd_ano3>
+    <qtd_ano4>0.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>135</fk_projeto_lei>
+    <produto>0005.SERVIDORES CAPACITADOS - Pes</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>171</fk_projeto_lei>
+    <produto> 007.EQUIPAMENTO MANTIDO - %</produto>
+    <qtd_ano1>100.00</qtd_ano1>
+    <qtd_ano2>100.00</qtd_ano2>
+    <qtd_ano3>100.00</qtd_ano3>
+    <qtd_ano4>100.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>60</fk_projeto_lei>
+    <produto>0028.BIBLIOTECA IMPLANTADA - Und</produto>
+    <qtd_ano1>4.00</qtd_ano1>
+    <qtd_ano2>4.00</qtd_ano2>
+    <qtd_ano3>4.00</qtd_ano3>
+    <qtd_ano4>4.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>183</fk_projeto_lei>
+    <produto> 003.EVENTOS REALIZADOS - Und</produto>
+    <qtd_ano1>6.00</qtd_ano1>
+    <qtd_ano2>6.00</qtd_ano2>
+    <qtd_ano3>6.00</qtd_ano3>
+    <qtd_ano4>6.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>191</fk_projeto_lei>
+    <produto>0071.PESSOAS CAPACITADAS - Pes</produto>
+    <qtd_ano1>480.00</qtd_ano1>
+    <qtd_ano2>550.00</qtd_ano2>
+    <qtd_ano3>600.00</qtd_ano3>
+    <qtd_ano4>650.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>259</fk_projeto_lei>
+    <produto> 013.PROJETO MANTIDO - Und</produto>
+    <qtd_ano1>2.00</qtd_ano1>
+    <qtd_ano2>4.00</qtd_ano2>
+    <qtd_ano3>6.00</qtd_ano3>
+    <qtd_ano4>8.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>249</fk_projeto_lei>
+    <produto> 005.POPULAÇÃO ATENDIDA - %</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>229</fk_projeto_lei>
+    <produto> 003.EVENTOS REALIZADOS - Und</produto>
+    <qtd_ano1>48.00</qtd_ano1>
+    <qtd_ano2>48.00</qtd_ano2>
+    <qtd_ano3>48.00</qtd_ano3>
+    <qtd_ano4>48.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>52</fk_projeto_lei>
+    <produto>0136.ALUNO ATENDIDO - %</produto>
+    <qtd_ano1>7903.00</qtd_ano1>
+    <qtd_ano2>8856.00</qtd_ano2>
+    <qtd_ano3>9809.00</qtd_ano3>
+    <qtd_ano4>10762.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>218</fk_projeto_lei>
+    <produto> 008.PRODUTORES RURAIS ASSISTIDOS NA AGRICULTURA FAMILIAR - Pes</produto>
+    <qtd_ano1>800.00</qtd_ano1>
+    <qtd_ano2>900.00</qtd_ano2>
+    <qtd_ano3>1000.00</qtd_ano3>
+    <qtd_ano4>1000.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>162</fk_projeto_lei>
+    <produto> 005.LIGAÇÕES DE ÁGUA REALIZADAS - Und</produto>
+    <qtd_ano1>2085.00</qtd_ano1>
+    <qtd_ano2>2400.00</qtd_ano2>
+    <qtd_ano3>2600.00</qtd_ano3>
+    <qtd_ano4>2800.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>68</fk_projeto_lei>
+    <produto>0025.INDICADOR IDEB - Und</produto>
+    <qtd_ano1>6.00</qtd_ano1>
+    <qtd_ano2>6.00</qtd_ano2>
+    <qtd_ano3>7.00</qtd_ano3>
+    <qtd_ano4>7.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>76</fk_projeto_lei>
+    <produto> 002.DISTORÇÃO IDADE/SÉRIE - Pes</produto>
+    <qtd_ano1>8.00</qtd_ano1>
+    <qtd_ano2>7.00</qtd_ano2>
+    <qtd_ano3>5.00</qtd_ano3>
+    <qtd_ano4>3.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>153</fk_projeto_lei>
+    <produto> 006.EQUIPAMENTO ESPORTIVO MANTIDO  - %</produto>
+    <qtd_ano1>100.00</qtd_ano1>
+    <qtd_ano2>100.00</qtd_ano2>
+    <qtd_ano3>100.00</qtd_ano3>
+    <qtd_ano4>100.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>96</fk_projeto_lei>
+    <produto> 005.ENTIDADE MANTIDA - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>198</fk_projeto_lei>
+    <produto> 006.JOVENS CAPACITADOS - Pes</produto>
+    <qtd_ano1>300.00</qtd_ano1>
+    <qtd_ano2>300.00</qtd_ano2>
+    <qtd_ano3>300.00</qtd_ano3>
+    <qtd_ano4>300.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>53</fk_projeto_lei>
+    <produto> 014.ESCOLA CONSTRUÍDA E EQUIPADA - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>56</fk_projeto_lei>
+    <produto> 005.ENTIDADE MANTIDA - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>184</fk_projeto_lei>
+    <produto> 013.PROGRAMA MANTIDO - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>184</fk_projeto_lei>
+    <produto> 008.PROJETO IMPLANTADO - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>2.00</qtd_ano2>
+    <qtd_ano3>3.00</qtd_ano3>
+    <qtd_ano4>4.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>239</fk_projeto_lei>
+    <produto> 006.EQUIPAMENTOS URBANOS MANTIDOS - Und</produto>
+    <qtd_ano1>51.00</qtd_ano1>
+    <qtd_ano2>54.00</qtd_ano2>
+    <qtd_ano3>56.00</qtd_ano3>
+    <qtd_ano4>57.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>295</fk_projeto_lei>
+    <produto> 005.ENTIDADE MANTIDA - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>232</fk_projeto_lei>
+    <produto>0013.PACIENTES ATENDIDOS - Pes</produto>
+    <qtd_ano1>5000.00</qtd_ano1>
+    <qtd_ano2>5500.00</qtd_ano2>
+    <qtd_ano3>6000.00</qtd_ano3>
+    <qtd_ano4>6500.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>216</fk_projeto_lei>
+    <produto> 011.IMÓVEL ADQUIRIDO - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>71</fk_projeto_lei>
+    <produto>0135.ALUNO MATRICULADO - Pes</produto>
+    <qtd_ano1>3343.00</qtd_ano1>
+    <qtd_ano2>3900.00</qtd_ano2>
+    <qtd_ano3>4458.00</qtd_ano3>
+    <qtd_ano4>5015.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>256</fk_projeto_lei>
+    <produto> 003.EVENTOS REALIZADOS - Und</produto>
+    <qtd_ano1>17.00</qtd_ano1>
+    <qtd_ano2>17.00</qtd_ano2>
+    <qtd_ano3>17.00</qtd_ano3>
+    <qtd_ano4>17.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>14</fk_projeto_lei>
+    <produto> 004.EMPREENDEDORES APOIADOS - Und</produto>
+    <qtd_ano1>32.00</qtd_ano1>
+    <qtd_ano2>32.00</qtd_ano2>
+    <qtd_ano3>32.00</qtd_ano3>
+    <qtd_ano4>32.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>308</fk_projeto_lei>
+    <produto> 006.AEROPORTO AMPLIADO - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>0.00</qtd_ano2>
+    <qtd_ano3>0.00</qtd_ano3>
+    <qtd_ano4>0.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>301</fk_projeto_lei>
+    <produto>0032.POPULAÇÃO ATENDIDA - Pes</produto>
+    <qtd_ano1>100000.00</qtd_ano1>
+    <qtd_ano2>105000.00</qtd_ano2>
+    <qtd_ano3>110000.00</qtd_ano3>
+    <qtd_ano4>115000.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>31</fk_projeto_lei>
+    <produto>0074.PESSOAS ATENDIDAS - Pes</produto>
+    <qtd_ano1>182000.00</qtd_ano1>
+    <qtd_ano2>200000.00</qtd_ano2>
+    <qtd_ano3>220000.00</qtd_ano3>
+    <qtd_ano4>240000.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>188</fk_projeto_lei>
+    <produto> 001.ENTIDADE INTEGRADA AO PRONASCI - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>62</fk_projeto_lei>
+    <produto>0024.NÚMERO DE LIVROS ANUALMENTE  LIDOS - Und</produto>
+    <qtd_ano1>5.00</qtd_ano1>
+    <qtd_ano2>5.00</qtd_ano2>
+    <qtd_ano3>5.00</qtd_ano3>
+    <qtd_ano4>5.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>90</fk_projeto_lei>
+    <produto> 005.ENTIDADE MANTIDA - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>281</fk_projeto_lei>
+    <produto>0081.EQUIPAMENTOS DE LIMPEZA PÚBLICA MANTIDOS - %</produto>
+    <qtd_ano1>100.00</qtd_ano1>
+    <qtd_ano2>100.00</qtd_ano2>
+    <qtd_ano3>100.00</qtd_ano3>
+    <qtd_ano4>100.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>272</fk_projeto_lei>
+    <produto> 008.PRODUTORES RURAIS CAPACITADOS - Pes</produto>
+    <qtd_ano1>200.00</qtd_ano1>
+    <qtd_ano2>250.00</qtd_ano2>
+    <qtd_ano3>300.00</qtd_ano3>
+    <qtd_ano4>400.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>73</fk_projeto_lei>
+    <produto>0136.ALUNO ATENDIDO - %</produto>
+    <qtd_ano1>3343.00</qtd_ano1>
+    <qtd_ano2>3900.00</qtd_ano2>
+    <qtd_ano3>4458.00</qtd_ano3>
+    <qtd_ano4>5015.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>48</fk_projeto_lei>
+    <produto>0136.ALUNO ATENDIDO - %</produto>
+    <qtd_ano1>25674.00</qtd_ano1>
+    <qtd_ano2>26578.00</qtd_ano2>
+    <qtd_ano3>27030.00</qtd_ano3>
+    <qtd_ano4>27482.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>197</fk_projeto_lei>
+    <produto> 001.SECRETARIA MANTIDA - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>136</fk_projeto_lei>
+    <produto>0031.AVENIDAS E RUAS CONSTRUÍDAS - Km</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>0.00</qtd_ano3>
+    <qtd_ano4>0.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>178</fk_projeto_lei>
+    <produto> 005.ENTIDADE MANTIDA - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>38</fk_projeto_lei>
+    <produto> 005.ENTIDADE MANTIDA - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>177</fk_projeto_lei>
+    <produto> 007.PRODUÇÃO ARTESANAL INCENTIVADA E APOIADA - %</produto>
+    <qtd_ano1>100.00</qtd_ano1>
+    <qtd_ano2>100.00</qtd_ano2>
+    <qtd_ano3>100.00</qtd_ano3>
+    <qtd_ano4>100.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>257</fk_projeto_lei>
+    <produto> 003.CRAS IMPLANTADOS - Und</produto>
+    <qtd_ano1>4.00</qtd_ano1>
+    <qtd_ano2>4.00</qtd_ano2>
+    <qtd_ano3>4.00</qtd_ano3>
+    <qtd_ano4>4.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>147</fk_projeto_lei>
+    <produto> 005.ADUTORA - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>199</fk_projeto_lei>
+    <produto> 003.PROJETOS APOIADOS - Und</produto>
+    <qtd_ano1>20.00</qtd_ano1>
+    <qtd_ano2>20.00</qtd_ano2>
+    <qtd_ano3>20.00</qtd_ano3>
+    <qtd_ano4>20.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>163</fk_projeto_lei>
+    <produto> 005.LIGAÇÕES DE ESGOTO REALIZADAS - Und</produto>
+    <qtd_ano1>3505.00</qtd_ano1>
+    <qtd_ano2>4500.00</qtd_ano2>
+    <qtd_ano3>4800.00</qtd_ano3>
+    <qtd_ano4>4400.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>299</fk_projeto_lei>
+    <produto> 004.EMPRESAS INCUBADAS, IMPLANTADAS E MATIDAS - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>76</fk_projeto_lei>
+    <produto>0136.ALUNO ATENDIDO - %</produto>
+    <qtd_ano1>100.00</qtd_ano1>
+    <qtd_ano2>100.00</qtd_ano2>
+    <qtd_ano3>100.00</qtd_ano3>
+    <qtd_ano4>100.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>114</fk_projeto_lei>
+    <produto> 004.EMPRESAS INCUBADAS, IMPLANTADAS E MATIDAS - Und</produto>
+    <qtd_ano1>21.00</qtd_ano1>
+    <qtd_ano2>25.00</qtd_ano2>
+    <qtd_ano3>30.00</qtd_ano3>
+    <qtd_ano4>45.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>175</fk_projeto_lei>
+    <produto> 007.EVENTOS DE EDUCAÇÃO PATRIMONIAL APOIADOS - %</produto>
+    <qtd_ano1>100.00</qtd_ano1>
+    <qtd_ano2>100.00</qtd_ano2>
+    <qtd_ano3>100.00</qtd_ano3>
+    <qtd_ano4>100.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>47</fk_projeto_lei>
+    <produto>0135.ALUNO MATRICULADO - Pes</produto>
+    <qtd_ano1>3343.00</qtd_ano1>
+    <qtd_ano2>3900.00</qtd_ano2>
+    <qtd_ano3>4458.00</qtd_ano3>
+    <qtd_ano4>5015.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>180</fk_projeto_lei>
+    <produto>0074.PESSOAS ATENDIDAS - Pes</produto>
+    <qtd_ano1>300.00</qtd_ano1>
+    <qtd_ano2>300.00</qtd_ano2>
+    <qtd_ano3>300.00</qtd_ano3>
+    <qtd_ano4>300.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>63</fk_projeto_lei>
+    <produto>0135.ALUNO MATRICULADO - Pes</produto>
+    <qtd_ano1>7903.00</qtd_ano1>
+    <qtd_ano2>8856.00</qtd_ano2>
+    <qtd_ano3>9809.00</qtd_ano3>
+    <qtd_ano4>10762.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>57</fk_projeto_lei>
+    <produto>0135.ALUNO MATRICULADO - Pes</produto>
+    <qtd_ano1>25674.00</qtd_ano1>
+    <qtd_ano2>26578.00</qtd_ano2>
+    <qtd_ano3>27030.00</qtd_ano3>
+    <qtd_ano4>27482.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>286</fk_projeto_lei>
+    <produto> 008.PROJETO IMPLANTADO - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>0.00</qtd_ano2>
+    <qtd_ano3>0.00</qtd_ano3>
+    <qtd_ano4>0.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>287</fk_projeto_lei>
+    <produto> 005.ENTIDADE MANTIDA - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>29</fk_projeto_lei>
+    <produto> 007.ENTIDADES APOIADAS - Und</produto>
+    <qtd_ano1>13.00</qtd_ano1>
+    <qtd_ano2>16.00</qtd_ano2>
+    <qtd_ano3>19.00</qtd_ano3>
+    <qtd_ano4>20.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>151</fk_projeto_lei>
+    <produto>0071.PESSOAS CAPACITADAS - Pes</produto>
+    <qtd_ano1>150.00</qtd_ano1>
+    <qtd_ano2>175.00</qtd_ano2>
+    <qtd_ano3>200.00</qtd_ano3>
+    <qtd_ano4>225.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>124</fk_projeto_lei>
+    <produto> 003.SISTEMA DE TRANSPORTE URBANO IMPLANTADO - %</produto>
+    <qtd_ano1>30.00</qtd_ano1>
+    <qtd_ano2>60.00</qtd_ano2>
+    <qtd_ano3>100.00</qtd_ano3>
+    <qtd_ano4>100.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>66</fk_projeto_lei>
+    <produto>0135.ALUNO MATRICULADO - Pes</produto>
+    <qtd_ano1>36.00</qtd_ano1>
+    <qtd_ano2>41.00</qtd_ano2>
+    <qtd_ano3>45.00</qtd_ano3>
+    <qtd_ano4>50.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>107</fk_projeto_lei>
+    <produto> 003.DISTRITO INDUSTRIAL ESTRUTURADO - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>27</fk_projeto_lei>
+    <produto> 005.ENTIDADE MANTIDA - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>148</fk_projeto_lei>
+    <produto> 003.POÇOS CONSTRUÍDOS E INSTALADOS - Und</produto>
+    <qtd_ano1>20.00</qtd_ano1>
+    <qtd_ano2>20.00</qtd_ano2>
+    <qtd_ano3>20.00</qtd_ano3>
+    <qtd_ano4>20.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>122</fk_projeto_lei>
+    <produto> 006.SISTEMA GEOREFERENCIADO MANTIDO - %</produto>
+    <qtd_ano1>30.00</qtd_ano1>
+    <qtd_ano2>40.00</qtd_ano2>
+    <qtd_ano3>75.00</qtd_ano3>
+    <qtd_ano4>100.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>13</fk_projeto_lei>
+    <produto> 008.MISSÕES EMPRESARIAIS REALIZADAS - Und</produto>
+    <qtd_ano1>15.00</qtd_ano1>
+    <qtd_ano2>17.00</qtd_ano2>
+    <qtd_ano3>19.00</qtd_ano3>
+    <qtd_ano4>21.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>285</fk_projeto_lei>
+    <produto>0081.EQUIPAMENTOS DE LIMPEZA PÚBLICA MANTIDOS - %</produto>
+    <qtd_ano1>100.00</qtd_ano1>
+    <qtd_ano2>100.00</qtd_ano2>
+    <qtd_ano3>100.00</qtd_ano3>
+    <qtd_ano4>100.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>200</fk_projeto_lei>
+    <produto> 003.PROJETOS APOIADOS - Und</produto>
+    <qtd_ano1>20.00</qtd_ano1>
+    <qtd_ano2>20.00</qtd_ano2>
+    <qtd_ano3>20.00</qtd_ano3>
+    <qtd_ano4>20.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>68</fk_projeto_lei>
+    <produto> 002.TAXA DE ALFABETIZADOS - %</produto>
+    <qtd_ano1>100.00</qtd_ano1>
+    <qtd_ano2>100.00</qtd_ano2>
+    <qtd_ano3>100.00</qtd_ano3>
+    <qtd_ano4>100.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>228</fk_projeto_lei>
+    <produto> 006.AGENTES LOCAIS ATENDIDOS - Pes</produto>
+    <qtd_ano1>80.00</qtd_ano1>
+    <qtd_ano2>80.00</qtd_ano2>
+    <qtd_ano3>80.00</qtd_ano3>
+    <qtd_ano4>80.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>68</fk_projeto_lei>
+    <produto>0136.ALUNO ATENDIDO - %</produto>
+    <qtd_ano1>100.00</qtd_ano1>
+    <qtd_ano2>100.00</qtd_ano2>
+    <qtd_ano3>100.00</qtd_ano3>
+    <qtd_ano4>100.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>141</fk_projeto_lei>
+    <produto>0032.POPULAÇÃO ATENDIDA - Pes</produto>
+    <qtd_ano1>100000.00</qtd_ano1>
+    <qtd_ano2>100000.00</qtd_ano2>
+    <qtd_ano3>100000.00</qtd_ano3>
+    <qtd_ano4>100000.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>146</fk_projeto_lei>
+    <produto> 005.BARRAGEM - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>51</fk_projeto_lei>
+    <produto> 014.ESCOLA AMPLIADA E REFORMADA - Und</produto>
+    <qtd_ano1>18.00</qtd_ano1>
+    <qtd_ano2>21.00</qtd_ano2>
+    <qtd_ano3>18.00</qtd_ano3>
+    <qtd_ano4>20.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>193</fk_projeto_lei>
+    <produto> 000.GUARDA MIRIM MANTIDA - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>33</fk_projeto_lei>
+    <produto> 003.EVENTOS REALIZADOS - Und</produto>
+    <qtd_ano1>20.00</qtd_ano1>
+    <qtd_ano2>20.00</qtd_ano2>
+    <qtd_ano3>20.00</qtd_ano3>
+    <qtd_ano4>20.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>126</fk_projeto_lei>
+    <produto>0076.JOVENS ASSISTIDOS - Pes</produto>
+    <qtd_ano1>2000.00</qtd_ano1>
+    <qtd_ano2>2000.00</qtd_ano2>
+    <qtd_ano3>2000.00</qtd_ano3>
+    <qtd_ano4>2000.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>269</fk_projeto_lei>
+    <produto> 010.PRODUTORES ASSISTIDOS - Und</produto>
+    <qtd_ano1>200.00</qtd_ano1>
+    <qtd_ano2>250.00</qtd_ano2>
+    <qtd_ano3>350.00</qtd_ano3>
+    <qtd_ano4>500.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>154</fk_projeto_lei>
+    <produto>0074.PESSOAS ATENDIDAS - Pes</produto>
+    <qtd_ano1>12600.00</qtd_ano1>
+    <qtd_ano2>12600.00</qtd_ano2>
+    <qtd_ano3>12600.00</qtd_ano3>
+    <qtd_ano4>12600.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>283</fk_projeto_lei>
+    <produto> 008.USINA DE RECICLAGEM IMPLANTADA  - %</produto>
+    <qtd_ano1>100.00</qtd_ano1>
+    <qtd_ano2>100.00</qtd_ano2>
+    <qtd_ano3>100.00</qtd_ano3>
+    <qtd_ano4>100.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>95</fk_projeto_lei>
+    <produto> 005.EMPRESAS FORMALIZADAS  - Und</produto>
+    <qtd_ano1>266.00</qtd_ano1>
+    <qtd_ano2>177.00</qtd_ano2>
+    <qtd_ano3>151.00</qtd_ano3>
+    <qtd_ano4>122.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>102</fk_projeto_lei>
+    <produto> 005.ENTIDADE MANTIDA - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>173</fk_projeto_lei>
+    <produto> 007.EQUIPAMENTO CONSTRUÍDO - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>212</fk_projeto_lei>
+    <produto> 010.COMUNIDADES ASSISTIDAS COM AGRICULTURA DE SEQUEIRO - Und</produto>
+    <qtd_ano1>50.00</qtd_ano1>
+    <qtd_ano2>60.00</qtd_ano2>
+    <qtd_ano3>70.00</qtd_ano3>
+    <qtd_ano4>100.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>109</fk_projeto_lei>
+    <produto>0082.EMPRESÁRIOS E ESTUDANTES CAPACITADOS - Pes</produto>
+    <qtd_ano1>180.00</qtd_ano1>
+    <qtd_ano2>240.00</qtd_ano2>
+    <qtd_ano3>240.00</qtd_ano3>
+    <qtd_ano4>240.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>74</fk_projeto_lei>
+    <produto>0136.ALUNO ATENDIDO - %</produto>
+    <qtd_ano1>100.00</qtd_ano1>
+    <qtd_ano2>100.00</qtd_ano2>
+    <qtd_ano3>100.00</qtd_ano3>
+    <qtd_ano4>100.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>10</fk_projeto_lei>
+    <produto>0122.ARTESÃOS INCENTIVADOS - Pes</produto>
+    <qtd_ano1>30.00</qtd_ano1>
+    <qtd_ano2>60.00</qtd_ano2>
+    <qtd_ano3>90.00</qtd_ano3>
+    <qtd_ano4>120.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>273</fk_projeto_lei>
+    <produto>0084.ESTRUTURA, LOGÍSTA E TÉCNICO PROFISSIONAL QUALIFICADO - %</produto>
+    <qtd_ano1>100.00</qtd_ano1>
+    <qtd_ano2>100.00</qtd_ano2>
+    <qtd_ano3>100.00</qtd_ano3>
+    <qtd_ano4>100.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>138</fk_projeto_lei>
+    <produto>0092.RODOVIA CONSERVADA - Km</produto>
+    <qtd_ano1>500.00</qtd_ano1>
+    <qtd_ano2>500.00</qtd_ano2>
+    <qtd_ano3>500.00</qtd_ano3>
+    <qtd_ano4>500.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>181</fk_projeto_lei>
+    <produto> 006.EQUIPAMENTOS URBANOS CONSTRUÍDOS - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>88</fk_projeto_lei>
+    <produto>0074.PESSOAS ATENDIDAS - Pes</produto>
+    <qtd_ano1>380.00</qtd_ano1>
+    <qtd_ano2>380.00</qtd_ano2>
+    <qtd_ano3>380.00</qtd_ano3>
+    <qtd_ano4>380.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>297</fk_projeto_lei>
+    <produto> 000.SISTEMA INTEGRADO IMPLANTADO - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>17</fk_projeto_lei>
+    <produto>0113.ALEVINOS PRODUZIDOS - Und</produto>
+    <qtd_ano1>1.11</qtd_ano1>
+    <qtd_ano2>1.11</qtd_ano2>
+    <qtd_ano3>11.11</qtd_ano3>
+    <qtd_ano4>1.11</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>217</fk_projeto_lei>
+    <produto> 010.CONTRATO DE GESTÃO IMPLANTADADO  - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>26</fk_projeto_lei>
+    <produto> 005.ADUTORA - Und</produto>
+    <qtd_ano1>33.33</qtd_ano1>
+    <qtd_ano2>33.33</qtd_ano2>
+    <qtd_ano3>33.33</qtd_ano3>
+    <qtd_ano4>33.33</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>58</fk_projeto_lei>
+    <produto>0139.ALUNOS E PROFESSORES TRANSPORTADOS - Pes</produto>
+    <qtd_ano1>5889.00</qtd_ano1>
+    <qtd_ano2>6258.00</qtd_ano2>
+    <qtd_ano3>6827.00</qtd_ano3>
+    <qtd_ano4>7396.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>192</fk_projeto_lei>
+    <produto> 000.GUARDA CIVIL MORDENIZADA - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>258</fk_projeto_lei>
+    <produto> 004.RESTAURANTE POPULAR MANTIDO - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>110</fk_projeto_lei>
+    <produto>0082.EMPRESÁRIOS E ESTUDANTES CAPACITADOS - Pes</produto>
+    <qtd_ano1>2615.00</qtd_ano1>
+    <qtd_ano2>2966.00</qtd_ano2>
+    <qtd_ano3>3362.00</qtd_ano3>
+    <qtd_ano4>4829.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>268</fk_projeto_lei>
+    <produto> 011.PRODUTORES BENEFICIADOS - Und</produto>
+    <qtd_ano1>50.00</qtd_ano1>
+    <qtd_ano2>60.00</qtd_ano2>
+    <qtd_ano3>80.00</qtd_ano3>
+    <qtd_ano4>100.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>313</fk_projeto_lei>
+    <produto>0071.PESSOAS CAPACITADAS - Pes</produto>
+    <qtd_ano1>0.00</qtd_ano1>
+    <qtd_ano2>120.00</qtd_ano2>
+    <qtd_ano3>0.00</qtd_ano3>
+    <qtd_ano4>0.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>185</fk_projeto_lei>
+    <produto>0145.CRIANÇA ATENDIDA - Pes</produto>
+    <qtd_ano1>3600.00</qtd_ano1>
+    <qtd_ano2>3880.00</qtd_ano2>
+    <qtd_ano3>4200.00</qtd_ano3>
+    <qtd_ano4>4600.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>207</fk_projeto_lei>
+    <produto> 010.PRODUTORES ASSISTIDOS - Und</produto>
+    <qtd_ano1>5000.00</qtd_ano1>
+    <qtd_ano2>5200.00</qtd_ano2>
+    <qtd_ano3>5400.00</qtd_ano3>
+    <qtd_ano4>6000.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>103</fk_projeto_lei>
+    <produto> 003.LOTEAMENTOS ESTRUTURADOS - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>256</fk_projeto_lei>
+    <produto> 012.GRUPO DE CONVIVÊNCIA DO IDOSO MANTIDO - Und</produto>
+    <qtd_ano1>12.00</qtd_ano1>
+    <qtd_ano2>14.00</qtd_ano2>
+    <qtd_ano3>16.00</qtd_ano3>
+    <qtd_ano4>18.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>147</fk_projeto_lei>
+    <produto> 003.SISTEMA DE ABASTECIMENTO D'AGUA MELHORADO - Und</produto>
+    <qtd_ano1>10.00</qtd_ano1>
+    <qtd_ano2>10.00</qtd_ano2>
+    <qtd_ano3>10.00</qtd_ano3>
+    <qtd_ano4>10.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>63</fk_projeto_lei>
+    <produto> 002.TAXA DE ABANDONO ESCOLAR - %</produto>
+    <qtd_ano1>6.00</qtd_ano1>
+    <qtd_ano2>5.00</qtd_ano2>
+    <qtd_ano3>4.00</qtd_ano3>
+    <qtd_ano4>3.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>32</fk_projeto_lei>
+    <produto> 006.COMUNIDADE ASSISTIDA - %</produto>
+    <qtd_ano1>80.00</qtd_ano1>
+    <qtd_ano2>80.00</qtd_ano2>
+    <qtd_ano3>80.00</qtd_ano3>
+    <qtd_ano4>80.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>62</fk_projeto_lei>
+    <produto>0136.ALUNO ATENDIDO - %</produto>
+    <qtd_ano1>100.00</qtd_ano1>
+    <qtd_ano2>100.00</qtd_ano2>
+    <qtd_ano3>100.00</qtd_ano3>
+    <qtd_ano4>100.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>271</fk_projeto_lei>
+    <produto> 011.CRIATÓRIO ASSISTIDO - Und</produto>
+    <qtd_ano1>5.00</qtd_ano1>
+    <qtd_ano2>10.00</qtd_ano2>
+    <qtd_ano3>15.00</qtd_ano3>
+    <qtd_ano4>20.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>252</fk_projeto_lei>
+    <produto> 006.IMÓVEIS REGULARIZADOS - Und</produto>
+    <qtd_ano1>375.00</qtd_ano1>
+    <qtd_ano2>300.00</qtd_ano2>
+    <qtd_ano3>500.00</qtd_ano3>
+    <qtd_ano4>500.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>206</fk_projeto_lei>
+    <produto>0100.ÁREA DE PIMENTA TABASCO IMPLANTADA - Ha</produto>
+    <qtd_ano1>50.00</qtd_ano1>
+    <qtd_ano2>60.00</qtd_ano2>
+    <qtd_ano3>70.00</qtd_ano3>
+    <qtd_ano4>80.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>284</fk_projeto_lei>
+    <produto>0077.LIMPEZA URBANA UNIVERSALIZADA - %</produto>
+    <qtd_ano1>100.00</qtd_ano1>
+    <qtd_ano2>100.00</qtd_ano2>
+    <qtd_ano3>100.00</qtd_ano3>
+    <qtd_ano4>100.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>12</fk_projeto_lei>
+    <produto>0082.EMPRESÁRIOS E ESTUDANTES CAPACITADOS - Pes</produto>
+    <qtd_ano1>4645.00</qtd_ano1>
+    <qtd_ano2>5090.00</qtd_ano2>
+    <qtd_ano3>5530.00</qtd_ano3>
+    <qtd_ano4>6030.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>91</fk_projeto_lei>
+    <produto> 005.ENTIDADE MANTIDA - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>128</fk_projeto_lei>
+    <produto> 005.LOGRADOUROS PÚBLICOS - Und</produto>
+    <qtd_ano1>3.00</qtd_ano1>
+    <qtd_ano2>2.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>195</fk_projeto_lei>
+    <produto>0124.FISCALIZAÇÃO, EDUCAÇÃO, ARRECADAÇÃO E SINALIZAÇÃO DE TRÂNSITO IMPLANTADA - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>204</fk_projeto_lei>
+    <produto> 006.CASAS CONSTRUÍDAS - Und</produto>
+    <qtd_ano1>141.00</qtd_ano1>
+    <qtd_ano2>197.00</qtd_ano2>
+    <qtd_ano3>100.00</qtd_ano3>
+    <qtd_ano4>120.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>183</fk_projeto_lei>
+    <produto> 001.QUADRO DE PESSOAL AMPLIADO E CAPACITADO - Pes</produto>
+    <qtd_ano1>7.00</qtd_ano1>
+    <qtd_ano2>8.00</qtd_ano2>
+    <qtd_ano3>9.00</qtd_ano3>
+    <qtd_ano4>10.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>66</fk_projeto_lei>
+    <produto>0134.PESSOAL DO MAGISTÉRIO INCENTIVADO - Pes</produto>
+    <qtd_ano1>325.00</qtd_ano1>
+    <qtd_ano2>364.00</qtd_ano2>
+    <qtd_ano3>403.00</qtd_ano3>
+    <qtd_ano4>443.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>215</fk_projeto_lei>
+    <produto> 008.PROJETOS IMPLANTADOS - Und</produto>
+    <qtd_ano1>10.00</qtd_ano1>
+    <qtd_ano2>12.00</qtd_ano2>
+    <qtd_ano3>15.00</qtd_ano3>
+    <qtd_ano4>20.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>213</fk_projeto_lei>
+    <produto> 008.PRODUTORES RURAIS CAPACITADOS - Pes</produto>
+    <qtd_ano1>300.00</qtd_ano1>
+    <qtd_ano2>400.00</qtd_ano2>
+    <qtd_ano3>500.00</qtd_ano3>
+    <qtd_ano4>600.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>78</fk_projeto_lei>
+    <produto> 013.ESCRÍTORIO DE FORTALEZA MANTIDO - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>69</fk_projeto_lei>
+    <produto>0139.ALUNOS E PROFESSORES TRANSPORTADOS - Pes</produto>
+    <qtd_ano1>5889.00</qtd_ano1>
+    <qtd_ano2>6258.00</qtd_ano2>
+    <qtd_ano3>6827.00</qtd_ano3>
+    <qtd_ano4>7396.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>76</fk_projeto_lei>
+    <produto>0025.INDICADOR IDEB - Und</produto>
+    <qtd_ano1>6.00</qtd_ano1>
+    <qtd_ano2>6.00</qtd_ano2>
+    <qtd_ano3>7.00</qtd_ano3>
+    <qtd_ano4>7.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>172</fk_projeto_lei>
+    <produto> 007.EQUIPAMENTO REFORMADO E RESTAURADO - %</produto>
+    <qtd_ano1>100.00</qtd_ano1>
+    <qtd_ano2>100.00</qtd_ano2>
+    <qtd_ano3>100.00</qtd_ano3>
+    <qtd_ano4>100.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>183</fk_projeto_lei>
+    <produto>0047.PORTADORES DE NECESSIDADES ATENDIDOS - Pes</produto>
+    <qtd_ano1>1385.00</qtd_ano1>
+    <qtd_ano2>1385.00</qtd_ano2>
+    <qtd_ano3>1385.00</qtd_ano3>
+    <qtd_ano4>1385.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>243</fk_projeto_lei>
+    <produto> 001.ESCOLA DE SAÚDE AMPLIADA - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>277</fk_projeto_lei>
+    <produto> 006.UNIDADE SANITÁRIA DOMICILIAR IMPLANTADA - Und</produto>
+    <qtd_ano1>362.00</qtd_ano1>
+    <qtd_ano2>406.00</qtd_ano2>
+    <qtd_ano3>312.00</qtd_ano3>
+    <qtd_ano4>370.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>236</fk_projeto_lei>
+    <produto> 001.SECRETARIA MANTIDA - Und</produto>
+    <qtd_ano1>0.00</qtd_ano1>
+    <qtd_ano2>0.00</qtd_ano2>
+    <qtd_ano3>0.00</qtd_ano3>
+    <qtd_ano4>0.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>36</fk_projeto_lei>
+    <produto>0002.PLANO ELABORADO COM PARTICIPAÇÃO POPULAR - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>83</fk_projeto_lei>
+    <produto> 005.ENTIDADE MANTIDA - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>184</fk_projeto_lei>
+    <produto> 013.PROJETO MANTIDO - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>2.00</qtd_ano2>
+    <qtd_ano3>3.00</qtd_ano3>
+    <qtd_ano4>4.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>293</fk_projeto_lei>
+    <produto> 007.PÚBLICO ALVO ASSISTIDO  - %</produto>
+    <qtd_ano1>80.00</qtd_ano1>
+    <qtd_ano2>90.00</qtd_ano2>
+    <qtd_ano3>100.00</qtd_ano3>
+    <qtd_ano4>100.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>61</fk_projeto_lei>
+    <produto>0136.ALUNO ATENDIDO - %</produto>
+    <qtd_ano1>26126.00</qtd_ano1>
+    <qtd_ano2>26578.00</qtd_ano2>
+    <qtd_ano3>27030.00</qtd_ano3>
+    <qtd_ano4>27482.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>76</fk_projeto_lei>
+    <produto> 002.TAXA DE ABANDONO ESCOLAR - %</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>250</fk_projeto_lei>
+    <produto> 006.LOTES E CONJUNTOS URBANIZADOS  - Und</produto>
+    <qtd_ano1>143955.00</qtd_ano1>
+    <qtd_ano2>151152.00</qtd_ano2>
+    <qtd_ano3>158710.00</qtd_ano3>
+    <qtd_ano4>166645.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>238</fk_projeto_lei>
+    <produto> 002.PATRIMÔNIO HISTÓRICO E CULTURAL PRESERVADO - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>8</fk_projeto_lei>
+    <produto> 000.MEDICAMENTOS DA LISTA BÁSICA OFERTADOS - Und</produto>
+    <qtd_ano1>100.00</qtd_ano1>
+    <qtd_ano2>100.00</qtd_ano2>
+    <qtd_ano3>100.00</qtd_ano3>
+    <qtd_ano4>100.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>142</fk_projeto_lei>
+    <produto>0032.POPULAÇÃO ATENDIDA - Pes</produto>
+    <qtd_ano1>100000.00</qtd_ano1>
+    <qtd_ano2>100000.00</qtd_ano2>
+    <qtd_ano3>100000.00</qtd_ano3>
+    <qtd_ano4>100000.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>259</fk_projeto_lei>
+    <produto> 008.PROJETO IMPLANTADO - Und</produto>
+    <qtd_ano1>2.00</qtd_ano1>
+    <qtd_ano2>4.00</qtd_ano2>
+    <qtd_ano3>6.00</qtd_ano3>
+    <qtd_ano4>8.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>139</fk_projeto_lei>
+    <produto>0031.AVENIDAS E RUAS CONSTRUÍDAS - Km</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>84</fk_projeto_lei>
+    <produto>0074.PESSOAS ATENDIDAS - Pes</produto>
+    <qtd_ano1>100.00</qtd_ano1>
+    <qtd_ano2>100.00</qtd_ano2>
+    <qtd_ano3>100.00</qtd_ano3>
+    <qtd_ano4>100.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>205</fk_projeto_lei>
+    <produto>0060.DÍVIDA ATIVA EXECUTADA - %</produto>
+    <qtd_ano1>40.00</qtd_ano1>
+    <qtd_ano2>50.00</qtd_ano2>
+    <qtd_ano3>80.00</qtd_ano3>
+    <qtd_ano4>100.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>184</fk_projeto_lei>
+    <produto> 004.EMPRESAS INCUBADAS, IMPLANTADAS E MATIDAS - Und</produto>
+    <qtd_ano1>6.00</qtd_ano1>
+    <qtd_ano2>8.00</qtd_ano2>
+    <qtd_ano3>10.00</qtd_ano3>
+    <qtd_ano4>12.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>185</fk_projeto_lei>
+    <produto> 013.PROJETO MANTIDO - Und</produto>
+    <qtd_ano1>4.00</qtd_ano1>
+    <qtd_ano2>5.00</qtd_ano2>
+    <qtd_ano3>6.00</qtd_ano3>
+    <qtd_ano4>7.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>209</fk_projeto_lei>
+    <produto> 010.COMUNIDADES ASSISTIDADS COM AGRICULTURA ORGÂNICA - Und</produto>
+    <qtd_ano1>20.00</qtd_ano1>
+    <qtd_ano2>30.00</qtd_ano2>
+    <qtd_ano3>40.00</qtd_ano3>
+    <qtd_ano4>50.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>211</fk_projeto_lei>
+    <produto> 001.EVENTOS APOIADOS - Und</produto>
+    <qtd_ano1>20.00</qtd_ano1>
+    <qtd_ano2>25.00</qtd_ano2>
+    <qtd_ano3>28.00</qtd_ano3>
+    <qtd_ano4>30.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>296</fk_projeto_lei>
+    <produto> 005.ENTIDADE MANTIDA - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>260</fk_projeto_lei>
+    <produto>0074.PESSOAS ATENDIDAS - Pes</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>106</fk_projeto_lei>
+    <produto> 003.LOTEAMENTOS CRIADOS - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>233</fk_projeto_lei>
+    <produto> 001.PREVENÇÃO CONTROLE DE AGRAVOS REALIZADOS - Und</produto>
+    <qtd_ano1>6.00</qtd_ano1>
+    <qtd_ano2>6.00</qtd_ano2>
+    <qtd_ano3>6.00</qtd_ano3>
+    <qtd_ano4>6.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>294</fk_projeto_lei>
+    <produto> 005.ENTIDADE MANTIDA - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>240</fk_projeto_lei>
+    <produto>0059.PLANEJAMENTO URBANO REALIZADO - %</produto>
+    <qtd_ano1>100.00</qtd_ano1>
+    <qtd_ano2>100.00</qtd_ano2>
+    <qtd_ano3>100.00</qtd_ano3>
+    <qtd_ano4>100.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>84</fk_projeto_lei>
+    <produto> 012.CASA DA MULHER IMPLANTADA  - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>0.00</qtd_ano2>
+    <qtd_ano3>0.00</qtd_ano3>
+    <qtd_ano4>0.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>73</fk_projeto_lei>
+    <produto>0134.PESSOAL DO MAGISTÉRIO INCENTIVADO - Pes</produto>
+    <qtd_ano1>123.00</qtd_ano1>
+    <qtd_ano2>144.00</qtd_ano2>
+    <qtd_ano3>165.00</qtd_ano3>
+    <qtd_ano4>186.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>231</fk_projeto_lei>
+    <produto>0013.PACIENTES ATENDIDOS - Pes</produto>
+    <qtd_ano1>50000.00</qtd_ano1>
+    <qtd_ano2>60000.00</qtd_ano2>
+    <qtd_ano3>70000.00</qtd_ano3>
+    <qtd_ano4>80000.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>194</fk_projeto_lei>
+    <produto> 001.DEFESA CIVIL MANTIDA - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>225</fk_projeto_lei>
+    <produto> 004.CADASTRO ÚNICO MANTIDO - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>130</fk_projeto_lei>
+    <produto> 005.LOGRADOUROS PÚBLICOS - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>0.00</qtd_ano2>
+    <qtd_ano3>0.00</qtd_ano3>
+    <qtd_ano4>0.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>184</fk_projeto_lei>
+    <produto> 002.CURSOS PROFISSIONAIS REALIZADOS - Und</produto>
+    <qtd_ano1>18.00</qtd_ano1>
+    <qtd_ano2>18.00</qtd_ano2>
+    <qtd_ano3>18.00</qtd_ano3>
+    <qtd_ano4>18.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>210</fk_projeto_lei>
+    <produto> 008.PROJETOS IMPLANTADOS - Und</produto>
+    <qtd_ano1>5.00</qtd_ano1>
+    <qtd_ano2>8.00</qtd_ano2>
+    <qtd_ano3>10.00</qtd_ano3>
+    <qtd_ano4>12.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>132</fk_projeto_lei>
+    <produto> 005.BAIRRO - Und</produto>
+    <qtd_ano1>3.00</qtd_ano1>
+    <qtd_ano2>0.00</qtd_ano2>
+    <qtd_ano3>0.00</qtd_ano3>
+    <qtd_ano4>0.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>179</fk_projeto_lei>
+    <produto> 003.CRAS MANTIDOS - Und</produto>
+    <qtd_ano1>8.00</qtd_ano1>
+    <qtd_ano2>8.00</qtd_ano2>
+    <qtd_ano3>8.00</qtd_ano3>
+    <qtd_ano4>8.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>81</fk_projeto_lei>
+    <produto>0025.INDICADOR IDEB - Und</produto>
+    <qtd_ano1>6.00</qtd_ano1>
+    <qtd_ano2>6.00</qtd_ano2>
+    <qtd_ano3>7.00</qtd_ano3>
+    <qtd_ano4>7.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>244</fk_projeto_lei>
+    <produto>0071.PESSOAS CAPACITADAS - Pes</produto>
+    <qtd_ano1>500.00</qtd_ano1>
+    <qtd_ano2>500.00</qtd_ano2>
+    <qtd_ano3>500.00</qtd_ano3>
+    <qtd_ano4>500.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>201</fk_projeto_lei>
+    <produto> 006.CASAS CONSTRUÍDAS - Und</produto>
+    <qtd_ano1>348.00</qtd_ano1>
+    <qtd_ano2>2800.00</qtd_ano2>
+    <qtd_ano3>2600.00</qtd_ano3>
+    <qtd_ano4>2600.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>105</fk_projeto_lei>
+    <produto> 001.EVENTOS APOIADOS - Und</produto>
+    <qtd_ano1>5.00</qtd_ano1>
+    <qtd_ano2>6.00</qtd_ano2>
+    <qtd_ano3>6.00</qtd_ano3>
+    <qtd_ano4>6.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>302</fk_projeto_lei>
+    <produto>0113.ALEVINOS PRODUZIDOS - Und</produto>
+    <qtd_ano1>500000.00</qtd_ano1>
+    <qtd_ano2>500000.00</qtd_ano2>
+    <qtd_ano3>500000.00</qtd_ano3>
+    <qtd_ano4>500000.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>276</fk_projeto_lei>
+    <produto>0005.SERVIDORES CAPACITADOS - Pes</produto>
+    <qtd_ano1>10.00</qtd_ano1>
+    <qtd_ano2>10.00</qtd_ano2>
+    <qtd_ano3>10.00</qtd_ano3>
+    <qtd_ano4>10.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>235</fk_projeto_lei>
+    <produto>0013.PACIENTES ATENDIDOS - Pes</produto>
+    <qtd_ano1>30000.00</qtd_ano1>
+    <qtd_ano2>35000.00</qtd_ano2>
+    <qtd_ano3>38000.00</qtd_ano3>
+    <qtd_ano4>40000.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>140</fk_projeto_lei>
+    <produto>0093.AVENIDAS E RUAS CONSERVADAS - Km</produto>
+    <qtd_ano1>2.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>143</fk_projeto_lei>
+    <produto>0032.POPULAÇÃO ATENDIDA - Pes</produto>
+    <qtd_ano1>15000.00</qtd_ano1>
+    <qtd_ano2>15000.00</qtd_ano2>
+    <qtd_ano3>15000.00</qtd_ano3>
+    <qtd_ano4>15000.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>123</fk_projeto_lei>
+    <produto> 003.SISTEMA DE TRANSPORTE MANTIDO - %</produto>
+    <qtd_ano1>30.00</qtd_ano1>
+    <qtd_ano2>60.00</qtd_ano2>
+    <qtd_ano3>100.00</qtd_ano3>
+    <qtd_ano4>100.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>104</fk_projeto_lei>
+    <produto> 008.UNIDADES PRODUTIVAS IMPLANTADAS - Und</produto>
+    <qtd_ano1>5.00</qtd_ano1>
+    <qtd_ano2>13.00</qtd_ano2>
+    <qtd_ano3>13.00</qtd_ano3>
+    <qtd_ano4>13.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>67</fk_projeto_lei>
+    <produto>0134.PESSOAL DO MAGISTÉRIO INCENTIVADO - Pes</produto>
+    <qtd_ano1>325.00</qtd_ano1>
+    <qtd_ano2>364.00</qtd_ano2>
+    <qtd_ano3>403.00</qtd_ano3>
+    <qtd_ano4>443.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>144</fk_projeto_lei>
+    <produto> 005.PASSAGEM MOLHADA - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>185</fk_projeto_lei>
+    <produto> 002.CURSOS PROFISSIONAIS REALIZADOS - Und</produto>
+    <qtd_ano1>12.00</qtd_ano1>
+    <qtd_ano2>14.00</qtd_ano2>
+    <qtd_ano3>16.00</qtd_ano3>
+    <qtd_ano4>18.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>303</fk_projeto_lei>
+    <produto> 010.PRODUTORES ASSISTIDOS - Und</produto>
+    <qtd_ano1>50.00</qtd_ano1>
+    <qtd_ano2>60.00</qtd_ano2>
+    <qtd_ano3>80.00</qtd_ano3>
+    <qtd_ano4>100.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>155</fk_projeto_lei>
+    <produto> 003.EVENTOS REALIZADOS - Und</produto>
+    <qtd_ano1>100.00</qtd_ano1>
+    <qtd_ano2>100.00</qtd_ano2>
+    <qtd_ano3>100.00</qtd_ano3>
+    <qtd_ano4>100.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>54</fk_projeto_lei>
+    <produto> 014.ESCOLA AMPLIADA E REFORMADA - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>125</fk_projeto_lei>
+    <produto>0055.SISTEMA GEOREFENCIADO IMPLANTADO - %</produto>
+    <qtd_ano1>30.00</qtd_ano1>
+    <qtd_ano2>40.00</qtd_ano2>
+    <qtd_ano3>75.00</qtd_ano3>
+    <qtd_ano4>100.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>165</fk_projeto_lei>
+    <produto>0044.EVENTOS CAPTADOS - Und</produto>
+    <qtd_ano1>8.00</qtd_ano1>
+    <qtd_ano2>13.00</qtd_ano2>
+    <qtd_ano3>16.00</qtd_ano3>
+    <qtd_ano4>18.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>76</fk_projeto_lei>
+    <produto> 002.FREQUÊNCIA ESCOLAR - %</produto>
+    <qtd_ano1>100.00</qtd_ano1>
+    <qtd_ano2>100.00</qtd_ano2>
+    <qtd_ano3>100.00</qtd_ano3>
+    <qtd_ano4>100.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>113</fk_projeto_lei>
+    <produto> 013.PROGRAMA MANTIDO - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>134</fk_projeto_lei>
+    <produto> 009.MANUTENÇÃO DE MÁQUINAS E VEÍCULOS REALIZADA - Und</produto>
+    <qtd_ano1>20.00</qtd_ano1>
+    <qtd_ano2>20.00</qtd_ano2>
+    <qtd_ano3>20.00</qtd_ano3>
+    <qtd_ano4>20.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>242</fk_projeto_lei>
+    <produto> 012.CONSELHEIROS CAPACITADOS - Und</produto>
+    <qtd_ano1>200.00</qtd_ano1>
+    <qtd_ano2>200.00</qtd_ano2>
+    <qtd_ano3>200.00</qtd_ano3>
+    <qtd_ano4>200.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>133</fk_projeto_lei>
+    <produto> 009.USINA DE ASSFALTO MANTIDA - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <tb_sub1>
+    <fk_projeto_lei>37</fk_projeto_lei>
+    <produto> 008.PROJETO IMPLANTADO - Und</produto>
+    <qtd_ano1>1.00</qtd_ano1>
+    <qtd_ano2>1.00</qtd_ano2>
+    <qtd_ano3>1.00</qtd_ano3>
+    <qtd_ano4>1.00</qtd_ano4>
+  </tb_sub1>
+  <ReportHeader>
+    <linha1>ESTADO DO CEARÁ</linha1>
+    <linha2>GOVERNO MUNICIPAL DE SOBRAL</linha2>
+    <linha3>-</linha3>
+    <linha4>ANEXO V - DEMONSTRATIVO DO ORÇAMENTO POR UO, FUNÇÃO, SUBFUNÇÃO, PROGRAMA, PROJETO E ATIVIDADE</linha4>
+    <rodape>Rodape</rodape>
+  </ReportHeader>
+</NewDataSet>
